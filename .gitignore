@@ -1,0 +1,6 @@
+# datos sensibles de alumnos: nunca al repo
+privado/
+*.privado.*
+__pycache__/
+~$*
+.DS_Store
