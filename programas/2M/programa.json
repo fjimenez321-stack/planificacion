@@ -1,0 +1,638 @@
+{
+ "nivel": "2° Medio",
+ "fuente": "Programa de Estudio Ciencias Naturales 2° medio (Mineduc, 2016, Decreto Exento N° 1264/2016)",
+ "unidades": [
+  {
+   "eje": "Biología",
+   "unidad": 1,
+   "nombre": "Coordinación y regulación",
+   "oa": [
+    {
+     "oa": "OA1",
+     "texto": "Explicar cómo el sistema nervioso coordina las acciones del organismo para adaptarse a estímulos del ambiente por medio de señales transmitidas por neuronas a lo largo del cuerpo, e investigar y comunicar sus cuidados, como las horas de sueño, el consumo de drogas, café y alcohol, y la prevención de traumatismos.",
+     "indicadores": [
+      {
+       "id": "OA1-i1",
+       "texto": "Identifican estímulos, receptores sensoriales y estructuras involucradas en las respuestas de receptores sensoriales."
+      },
+      {
+       "id": "OA1-i2",
+       "texto": "Analizan actos reflejos simples considerando sus componentes e interacciones."
+      },
+      {
+       "id": "OA1-i3",
+       "texto": "Describen el rol de la médula espinal, el cerebro, elementos sensoriales y efectores (muscular/endocrino) en el proceso de elaboración de la respuesta nerviosa mediante el uso de modelos."
+      },
+      {
+       "id": "OA1-i4",
+       "texto": "Interpretan las respuestas de receptores sensoriales como señales electroquímicas que se propagan desde neuronas sensoriales a otros lugares del sistema nervioso."
+      },
+      {
+       "id": "OA1-i5",
+       "texto": "Explican las propiedades estructurales de las neuronas que permiten producir diferentes tipos de respuestas."
+      },
+      {
+       "id": "OA1-i6",
+       "texto": "Relacionan el funcionamiento del cerebro con actividades mentales como inteligencia, emociones, afectos, aprendizaje, lenguaje y memoria, como adaptación mediante el análisis de datos."
+      },
+      {
+       "id": "OA1-i7",
+       "texto": "Proponen medidas de autocuidado del sistema nervioso considerando los efectos de las horas de sueño, estrés, cambio de huso horario, consumo de drogas, fármacos, café y alcohol, entre otros."
+      }
+     ]
+    },
+    {
+     "oa": "OA2",
+     "texto": "Crear modelos que expliquen la regulación de:\n- La glicemia por medio del control de las hormonas pancreáticas.\n- Los caracteres sexuales y las funciones reproductivas por medio del control de las hormonas sexuales en el organismo.",
+     "indicadores": [
+      {
+       "id": "OA2-i1",
+       "texto": "Describen las características de las principales glándulas endocrinas en el organismo y la función biológica que regulan."
+      },
+      {
+       "id": "OA2-i2",
+       "texto": "Explican, mediante el uso de modelos, el proceso de regulación de la glicemia considerando el rol de la insulina, el glucagón y la comunicación hormonal entre órganos."
+      },
+      {
+       "id": "OA2-i3",
+       "texto": "Describen la regulación hormonal del sistema reproductor masculino considerando características generales de los órganos involucrados y los cambios puberales asociados."
+      },
+      {
+       "id": "OA2-i4",
+       "texto": "Seleccionan y usan modelos del ciclo menstrual para explicar la regulación del ciclo ovárico y uterino por hormonas como gonadotropinas (folículo estimulante, FSH, y luteinizante, LH), estrógeno y progesterona."
+      },
+      {
+       "id": "OA2-i5",
+       "texto": "Analizan modelos que muestran cómo órganos y tejidos distantes se comunican entre sí y mantienen la homeostasis en el organismo gracias al sistema endocrino."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Biología",
+   "unidad": 2,
+   "nombre": "Sexualidad y reproducción",
+   "oa": [
+    {
+     "oa": "OA3",
+     "texto": "Explicar que la sexualidad humana y la reproducción son aspectos fundamentales de la vida del ser humano, considerando los aspectos biológicos, sociales, afectivos y psicológicos, y la responsabilidad individual frente a sí mismo y los demás.",
+     "indicadores": [
+      {
+       "id": "OA3-i1",
+       "texto": "Investigan las dimensiones biológica, física, afectiva, psicológica y sociocultural de la sexualidad y las diversas formas en que se viven."
+      },
+      {
+       "id": "OA3-i2",
+       "texto": "Explican las dimensiones de la sexualidad con ejemplos de sus manifestaciones considerando su diversidad de acuerdo a contextos sociales y culturales."
+      },
+      {
+       "id": "OA3-i3",
+       "texto": "Discuten, en un ambiente de respeto, en torno a la diversidad de pensamientos, creencias, actitudes, orientación, valores, conductas, prácticas, roles o relaciones interpersonales, entre otros, relacionadas con vivencias o expresiones de la sexualidad."
+      },
+      {
+       "id": "OA3-i4",
+       "texto": "Analizan situaciones de embarazo adolescente y de adquisición y transmisión de ITS en relación con la responsabilidad individual frente a sí mismo y los demás."
+      },
+      {
+       "id": "OA3-i5",
+       "texto": "Argumentan la relación entre la sexualidad y la responsabilidad individual de hombres y mujeres."
+      }
+     ]
+    },
+    {
+     "oa": "OA4",
+     "texto": "Describir la fecundación, la implantación y el desarrollo del embrión, y analizar la responsabilidad de los padres en la nutrición prenatal y la lactancia.",
+     "indicadores": [
+      {
+       "id": "OA4-i1",
+       "texto": "Elaboran un modelo del proceso de fecundación considerando el trayecto del espermatozoide y el ovocito en el oviducto hasta su encuentro."
+      },
+      {
+       "id": "OA4-i2",
+       "texto": "Describen el proceso de implantación del embrión humano, sus etapas y estructuras anatómicas involucradas."
+      },
+      {
+       "id": "OA4-i3",
+       "texto": "Explican la importancia de la placenta y el cordón umbilical de acuerdo a sus funciones durante la gestación."
+      },
+      {
+       "id": "OA4-i4",
+       "texto": "Explican el desarrollo embrionario y los principales cambios que experimenta el embrión durante la gestación, mediante el uso de modelos."
+      },
+      {
+       "id": "OA4-i5",
+       "texto": "Analizan la responsabilidad de las madres y los padres en la nutrición prenatal y la lactancia considerando sus beneficios en el desarrollo físico y mental del infante."
+      }
+     ]
+    },
+    {
+     "oa": "OA5",
+     "texto": "Explicar y evaluar los métodos de regulación de la fertilidad e identificar los elementos de una paternidad y una maternidad responsables.",
+     "indicadores": [
+      {
+       "id": "OA5-i1",
+       "texto": "Describen diversos métodos de regulación de la fertilidad."
+      },
+      {
+       "id": "OA5-i2",
+       "texto": "Evalúan diversos métodos de regulación de la fertilidad considerando sus ventajas y desventajas en relación con diversos contextos."
+      },
+      {
+       "id": "OA5-i3",
+       "texto": "Explican el uso del preservativo femenino y masculino."
+      },
+      {
+       "id": "OA5-i4",
+       "texto": "Evalúan el uso combinado de métodos de regulación de la fertilidad como doble protección para evitar embarazos y prevenir la adquisición de ITS."
+      },
+      {
+       "id": "OA5-i5",
+       "texto": "Discuten el impacto social del uso de métodos de regulación de la fertilidad."
+      },
+      {
+       "id": "OA5-i6",
+       "texto": "Explican elementos de una paternidad y una maternidad responsables mediante la identificación de derechos y deberes de padres y madres en Chile."
+      },
+      {
+       "id": "OA5-i7",
+       "texto": "Discuten en torno a los derechos de la salud sexual y la reproducción, la que se basa en los derechos humanos universales."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Biología",
+   "unidad": 3,
+   "nombre": "Genética",
+   "oa": [
+    {
+     "oa": "OA6",
+     "texto": "Investigar y argumentar, basándose en evidencias, que el material genético se transmite de generación en generación en organismos como plantas y animales, considerando:\n- La comparación de la mitosis y la meiosis.\n- Las causas y consecuencias de anomalías y pérdida de control de la división celular (tumor, cáncer, trisomía, entre otros).",
+     "indicadores": [
+      {
+       "id": "OA6-i1",
+       "texto": "Describen el modelo del material genético considerando las diferencias entre cromosomas, ADN y genes, y sus características en las distintas etapas del ciclo celular."
+      },
+      {
+       "id": "OA6-i2",
+       "texto": "Argumentan basándose en evidencias que la información genética se transmite de generación en generación en plantas, animales y en todos los seres vivos."
+      },
+      {
+       "id": "OA6-i3",
+       "texto": "Establecen la relación entre ADN, cromosomas, ciclo proliferativo y crecimiento, reparación de heridas y regeneración de tejidos, mediante la investigación y la elaboración de modelos."
+      },
+      {
+       "id": "OA6-i4",
+       "texto": "Infieren que la meiosis es un proceso que forma células haploides que permiten la reproducción de individuos y la generación de diversidad genética en plantas y animales sexuados, mediante el análisis de modelos y tablas de datos."
+      },
+      {
+       "id": "OA6-i5",
+       "texto": "Analizan y comparan la mitosis y la meiosis en plantas y animales considerando el mecanismo de transmisión del material genético de generación en generación."
+      },
+      {
+       "id": "OA6-i6",
+       "texto": "Debaten en torno a enfermedades genéticas mediante la investigación de anomalías cromosómicas, su origen e implicancias sociales y económicas."
+      },
+      {
+       "id": "OA6-i7",
+       "texto": "Argumentan la importancia de la regulación de la proliferación celular de acuerdo a evidencias de su descontrol en procesos patológicos como tumores, cáncer y otros."
+      }
+     ]
+    },
+    {
+     "oa": "OA7",
+     "texto": "Desarrollar una explicación científica, basada en evidencias, sobre los procesos de herencia genética en plantas y animales, aplicando los principios básicos de la herencia propuestos por Mendel.",
+     "indicadores": [
+      {
+       "id": "OA7-i1",
+       "texto": "Formulan preguntas o problemas en torno a la herencia genética mediante la observación de fenotipos de individuos de varias generaciones en plantas y en animales."
+      },
+      {
+       "id": "OA7-i2",
+       "texto": "Explican la transmisión del genotipo considerando los principios de Mendel."
+      },
+      {
+       "id": "OA7-i3",
+       "texto": "Evalúan problemas, modelos y explicaciones en relación con la herencia mendeliana considerando las limitaciones de la teoría."
+      },
+      {
+       "id": "OA7-i4",
+       "texto": "Formulan explicaciones de la transmisión de enfermedades hereditarias en plantas y animales de acuerdo a evidencias teóricas de los principios de Mendel y de la herencia de genes involucrados."
+      },
+      {
+       "id": "OA7-i5",
+       "texto": "Aplican las leyes de Mendel en la resolución de problemas de genética simple (mono y dihibridismo)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Biología",
+   "unidad": 4,
+   "nombre": "Manipulación genética",
+   "oa": [
+    {
+     "oa": "OA8",
+     "texto": "Investigar y explicar las aplicaciones que han surgido a raíz de la manipulación genética para generar alimentos, detergentes, vestuario, fármacos u otras, y evaluar sus implicancias éticas y sociales.",
+     "indicadores": [
+      {
+       "id": "OA8-i1",
+       "texto": "Explican ejemplos concretos y cotidianos de los términos ingeniería genética, manipulación genética, terapia génica, organismos transgénicos y biotecnología."
+      },
+      {
+       "id": "OA8-i2",
+       "texto": "Formulan hipótesis sobre los efectos de la manipulación genética en respuesta a preguntas o problemas de su entorno cercano y la sociedad."
+      },
+      {
+       "id": "OA8-i3",
+       "texto": "Argumentan las implicancias éticas, la legislación y las limitaciones de la clonación (terapéutica y reproductiva) mediante debates y discusiones."
+      },
+      {
+       "id": "OA8-i4",
+       "texto": "Debaten acerca del consumo de alimentos transgénicos considerando sus riesgos y beneficios en el ámbito de la salud, la agricultura y la ganadería."
+      },
+      {
+       "id": "OA8-i5",
+       "texto": "Evalúan el impacto en la vida cotidiana, la economía y el medioambiente de la ingeniería genética y la biotecnología con enzimas para detergentes, biocombustibles o aplicaciones en el rubro del vestuario, entre otros ejemplos."
+      },
+      {
+       "id": "OA8-i6",
+       "texto": "Evalúan el impacto social, económico y ambiental, entre otros, de innovaciones biotecnológicas como la producción de insulina y fármacos, y la generación o creación de vacunas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Física",
+   "unidad": 1,
+   "nombre": "Movimiento rectilíneo",
+   "oa": [
+    {
+     "oa": "OA9",
+     "texto": "Analizar, sobre la base de la experimentación, el movimiento rectilíneo uniforme y acelerado de un objeto respecto de un sistema de referencia espacio-temporal, considerando variables como la posición, la velocidad y la aceleración en situaciones cotidianas.",
+     "indicadores": [
+      {
+       "id": "OA9-i1",
+       "texto": "Demuestran, con experimentos sencillos, por qué es necesario el uso de sistemas de referencia y de coordenadas en la descripción del movimiento de un objeto."
+      },
+      {
+       "id": "OA9-i2",
+       "texto": "Utilizan las fórmulas de adición de velocidades de Galileo en situaciones simples y cotidianas, como la de vehículos que se mueven unidimensionalmente."
+      },
+      {
+       "id": "OA9-i3",
+       "texto": "Explican conceptos de cinemática, como tiempo transcurrido, posición, desplazamiento, distancia recorrida, velocidad media e instantánea y aceleración, entre otros, asociados al movimiento rectilíneo de un objeto."
+      },
+      {
+       "id": "OA9-i4",
+       "texto": "Identifican características de la cinemática del movimiento rectilíneo, en fenómenos naturales y en situaciones cotidianas, como ocurre con la luz y con vehículos, respectivamente, entre otros ejemplos."
+      },
+      {
+       "id": "OA9-i5",
+       "texto": "Analizan, con conceptos de cinemática y herramientas gráficas y analíticas, el movimiento rectilíneo de un objeto en situaciones cotidianas."
+      },
+      {
+       "id": "OA9-i6",
+       "texto": "Explican el concepto de aceleración de gravedad incluyendo su desarrollo histórico, y consideran su uso en situaciones de caída libre y lanzamientos verticales."
+      },
+      {
+       "id": "OA9-i7",
+       "texto": "Obtienen conclusiones, en relación con conceptos de cinemática, a partir de investigaciones experimentales sobre objetos con movimiento rectilíneo con aceleración constante (nula o no nula)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Física",
+   "unidad": 2,
+   "nombre": "Fuerza",
+   "oa": [
+    {
+     "oa": "OA10",
+     "texto": "Explicar, por medio de investigaciones experimentales, los efectos que tiene una fuerza neta sobre un objeto, utilizando las leyes de Newton y el diagrama de cuerpo libre.",
+     "indicadores": [
+      {
+       "id": "OA10-i1",
+       "texto": "Identifican una fuerza como la interacción entre dos cuerpos y su carácter vectorial, entre otras características."
+      },
+      {
+       "id": "OA10-i2",
+       "texto": "Realizan investigaciones experimentales para obtener evidencias de la presencia de fuerzas como peso, roce y normal, que actúan sobre un cuerpo, en situaciones cotidianas, describiéndolas cualitativa y cuantitativamente."
+      },
+      {
+       "id": "OA10-i3",
+       "texto": "Aplican las leyes de Newton en diversas situaciones cotidianas, como cuando un vehículo frena, acelera o cambia de dirección su movimiento, entre otras."
+      },
+      {
+       "id": "OA10-i4",
+       "texto": "Encuentran, con un diagrama de cuerpo libre, la fuerza neta o resultante sobre un objeto en el que actúa más de una fuerza."
+      },
+      {
+       "id": "OA10-i5",
+       "texto": "Analizan el efecto que provoca la fuerza neta o resultante en el movimiento de un objeto."
+      },
+      {
+       "id": "OA10-i6",
+       "texto": "Aplican la ley de Hooke en diversas investigaciones experimentales y no experimentales donde se utilizan resortes u otros materiales elásticos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Física",
+   "unidad": 3,
+   "nombre": "Energía mecánica y cantidad de movimiento",
+   "oa": [
+    {
+     "oa": "OA11",
+     "texto": "Describir el movimiento de un objeto, usando la ley de conservación de la energía mecánica y los conceptos de trabajo y potencia mecánica.",
+     "indicadores": [
+      {
+       "id": "OA11-i1",
+       "texto": "Determinan el trabajo mecánico realizado por una fuerza en situaciones unidimensionales diversas y cotidianas, como cuando se arrastra o levanta un objeto, o cuando este cae, entre otras."
+      },
+      {
+       "id": "OA11-i2",
+       "texto": "Describen la energía mecánica de un objeto en términos de su energía cinética, potencial gravitatoria y potencial elástica, según corresponda."
+      },
+      {
+       "id": "OA11-i3",
+       "texto": "Aplican la ley de conservación de la energía mecánica en situaciones cotidianas, como en el movimiento de un objeto en caída libre y, cualitativamente, en una montaña rusa, entre otras."
+      },
+      {
+       "id": "OA11-i4",
+       "texto": "Evalúan el efecto del roce en el movimiento de un objeto, en relación con la ley de conservación de la energía mecánica."
+      },
+      {
+       "id": "OA11-i5",
+       "texto": "Aplican el teorema del trabajo y la energía en situaciones unidimensionales simples y cotidianas."
+      },
+      {
+       "id": "OA11-i6",
+       "texto": "Determinan la potencia mecánica desarrollada por una fuerza en situaciones cotidianas, como ocurre en el funcionamiento de una grúa o un ascensor, entre otras."
+      }
+     ]
+    },
+    {
+     "oa": "OA12",
+     "texto": "Analizar e interpretar datos de investigaciones sobre colisiones entre objetos, considerando:\n- La cantidad de movimiento de un cuerpo en función del impulso que adquiere.\n- La ley de conservación de cantidad de movimiento (momento lineal o momentum).",
+     "indicadores": [
+      {
+       "id": "OA12-i1",
+       "texto": "Evalúan la facilidad o dificultad que existe para cambiar el estado de movimiento de un objeto, de acuerdo a su cantidad de movimiento."
+      },
+      {
+       "id": "OA12-i2",
+       "texto": "Describen el impulso que adquiere un objeto en términos de la variación de su cantidad de movimiento y lo relacionan con la segunda ley de Newton."
+      },
+      {
+       "id": "OA12-i3",
+       "texto": "Aplican la ley de conservación de la cantidad de movimiento en un sistema cerrado, en colisiones entre objetos que se mueven en la misma dirección."
+      },
+      {
+       "id": "OA12-i4",
+       "texto": "Distinguen colisiones elásticas e inelásticas o plásticas entre dos objetos que se mueven en la misma dirección."
+      },
+      {
+       "id": "OA12-i5",
+       "texto": "Explican que en una colisión elástica, entre dos objetos que se mueven en una misma dirección, se conserva la energía cinética."
+      },
+      {
+       "id": "OA12-i6",
+       "texto": "Explican que los efectos de una colisión entre dos objetos pueden ser diferentes para cada uno de ellos."
+      },
+      {
+       "id": "OA12-i7",
+       "texto": "Analizan resultados experimentales obtenidos en colisiones entre dos objetos que se mueven en la misma dirección."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Física",
+   "unidad": 4,
+   "nombre": "El universo",
+   "oa": [
+    {
+     "oa": "OA13",
+     "texto": "Demostrar que comprenden que el conocimiento del Universo cambia y aumenta a partir de nuevas evidencias, usando modelos como el geocéntrico y el heliocéntrico, y teorías como la del Big-Bang, entre otros.",
+     "indicadores": [
+      {
+       "id": "OA13-i1",
+       "texto": "Explican diversos modelos que han intentado describir el Universo desde la Antigüedad hasta inicios del siglo XX, como el geocéntrico y el heliocéntrico, patrocinados por Ptolomeo y Copérnico respectivamente, entre otros."
+      },
+      {
+       "id": "OA13-i2",
+       "texto": "Identifican virtudes y limitaciones de los modelos del Universo para explicar su dinámica."
+      },
+      {
+       "id": "OA13-i3",
+       "texto": "Distinguen a científicos como Galileo, Brahe y Newton, entre otros, por sus aportes en la concepción de modelos del Universo."
+      },
+      {
+       "id": "OA13-i4",
+       "texto": "Explican cualitativamente la evolución del Universo según la teoría del Big-Bang."
+      },
+      {
+       "id": "OA13-i5",
+       "texto": "Describen características de las cosmogonías de culturas que habitan Chile, como el origen y los elementos que componen el Universo, entre otros aspectos."
+      },
+      {
+       "id": "OA13-i6",
+       "texto": "Relacionan el desarrollo tecnológico con la evolución de los modelos que describen el Universo."
+      }
+     ]
+    },
+    {
+     "oa": "OA14",
+     "texto": "Explicar cualitativamente por medio de las leyes de Kepler y la de gravitación universal de Newton:\n- El origen de las mareas.\n- La formación y dinámica de estructuras cósmicas naturales, como el sistema solar y sus componentes, las estrellas y las galaxias.\n- El movimiento de estructuras artificiales como sondas, satélites y naves espaciales.",
+     "indicadores": [
+      {
+       "id": "OA14-i1",
+       "texto": "Explican cualitativamente, con las leyes de Kepler, las características del movimiento de los cuerpos del sistema solar."
+      },
+      {
+       "id": "OA14-i2",
+       "texto": "Explican cualitativamente el fenómeno de las mareas con la ley de gravitación universal."
+      },
+      {
+       "id": "OA14-i3",
+       "texto": "Explican cualitativamente, con la ley de gravitación universal, el movimiento de traslación que ocurre en sistemas planetarios, satelitales, galácticos y de estructuras artificiales espaciales, entre otros."
+      },
+      {
+       "id": "OA14-i4",
+       "texto": "Describen la formación de estructuras cósmicas, como planetas, estrellas, sistemas estelares y galaxias, entre otras, a partir del colapso gravitacional."
+      },
+      {
+       "id": "OA14-i5",
+       "texto": "Explican las ventajas y desventajas de los campos gravitacionales en la navegación espacial y en la instalación de sondas y satélites, entre otros dispositivos tecnológicos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Química",
+   "unidad": 1,
+   "nombre": "Soluciones químicas",
+   "oa": [
+    {
+     "oa": "OA15",
+     "texto": "Explicar, por medio de modelos y la experimentación, las propiedades de las soluciones en ejemplos cercanos, considerando:\n- El estado físico (sólido, líquido y gaseoso).\n- Sus componentes (soluto y solvente).\n- La cantidad de soluto disuelto (concentración).",
+     "indicadores": [
+      {
+       "id": "OA15-i1",
+       "texto": "Reconocen las características de las soluciones químicas en diferentes estados físicos en cuanto a sus componentes y propiedades."
+      },
+      {
+       "id": "OA15-i2",
+       "texto": "Caracterizan los componentes de la solución como soluto y solvente mediante ejemplos del entorno y la vida cotidiana, considerando los cambios en la propiedad de la solución por influencia del soluto (conductividad, entre otros)."
+      },
+      {
+       "id": "OA15-i3",
+       "texto": "Aplican el concepto de solubilidad y de solución insaturada, saturada y sobresaturada para soluciones teóricas y experimentales."
+      },
+      {
+       "id": "OA15-i4",
+       "texto": "Evalúan la solubilidad en una solución mediante los factores que influyen sobre ella, como la temperatura."
+      },
+      {
+       "id": "OA15-i5",
+       "texto": "Establecen cantidad de soluto en la solución mediante cálculos de concentración en solución y en diluciones."
+      },
+      {
+       "id": "OA15-i6",
+       "texto": "Evalúan diversos problemas estequiométricos de reacciones en solución."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Química",
+   "unidad": 2,
+   "nombre": "Propiedades coligativas de las soluciones",
+   "oa": [
+    {
+     "oa": "OA16",
+     "texto": "Planificar y conducir una investigación experimental para proveer evidencias que expliquen las propiedades coligativas de las soluciones y su importancia en procesos cotidianos (la mantención de frutas y mermeladas en conserva) e industriales (aditivos en el agua de radiadores).",
+     "indicadores": [
+      {
+       "id": "OA16-i1",
+       "texto": "Relacionan la disminución de la presión de vapor y la variación en la presión osmótica con la interacción de un solvente en contacto con un soluto."
+      },
+      {
+       "id": "OA16-i2",
+       "texto": "Identifican los efectos de un soluto sobre un solvente mediante las variaciones en las propiedades físicas de la solución (variación en punto de ebullición y de congelación) respecto al solvente puro."
+      },
+      {
+       "id": "OA16-i3",
+       "texto": "Evidencian experimentalmente las propiedades coligativas de una solución mediante experiencias simples de laboratorio y ejemplos documentados (comportamiento químico de aditivos anticongelantes y su función en motores)."
+      },
+      {
+       "id": "OA16-i4",
+       "texto": "Explican, basándose en la presión osmótica, la función que cumple el suero fisiológico a nivel celular mediante demostraciones teóricas y empíricas."
+      },
+      {
+       "id": "OA16-i5",
+       "texto": "Determinan el ascenso ebulloscópico, el descenso crioscópico y/o la concentración de la disolución en diversas situaciones cotidianas o en diferentes problemas."
+      },
+      {
+       "id": "OA16-i6",
+       "texto": "Calculan variables como volumen de solución, número de moles de soluto, temperatura absoluta o presión osmótica, en el estudio de las propiedades coligativas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Química",
+   "unidad": 3,
+   "nombre": "Química Orgánica",
+   "oa": [
+    {
+     "oa": "OA17",
+     "texto": "Crear modelos del carbono y explicar sus propiedades como base para la formación de moléculas útiles para los seres vivos (biomoléculas presentes en la célula) y el entorno (hidrocarburos como petróleo y sus derivados).",
+     "indicadores": [
+      {
+       "id": "OA17-i1",
+       "texto": "Identifican propiedades y características del carbono que promueven las características de las moléculas orgánicas."
+      },
+      {
+       "id": "OA17-i2",
+       "texto": "Explican la tetravalencia del carbono de acuerdo a propiedades electrónicas."
+      },
+      {
+       "id": "OA17-i3",
+       "texto": "Utilizan modelos de representación de moléculas orgánicas: fórmula molecular, estructural expandida, estructural condensada, esferas y varillas, entre otras, como identificación de las moléculas orgánicas."
+      },
+      {
+       "id": "OA17-i4",
+       "texto": "Relacionan distintas fuentes de carbono con procesos tales como extracción y procesamiento del petróleo."
+      },
+      {
+       "id": "OA17-i5",
+       "texto": "Comprenden el impacto ambiental del uso de compuestos orgánicos desde las investigaciones para evidenciar la importancia de la química orgánica."
+      },
+      {
+       "id": "OA17-i6",
+       "texto": "Nombran la cadena principal y las ramificaciones en un compuesto orgánico mediante uso de nomenclatura IUPAC."
+      },
+      {
+       "id": "OA17-i7",
+       "texto": "Identifican los grupos funcionales (haluros, éteres, alcoholes, sulfuros, aminas, cetonas, aldehídos, ácidos carboxílicos, anhídridos, ésteres, amidas, aminas y nitrilos, entre otros) según nomenclatura IUPAC."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": "Química",
+   "unidad": 4,
+   "nombre": "Química orgánica: estereoquímica e isomería",
+   "oa": [
+    {
+     "oa": "OA18",
+     "texto": "Desarrollar modelos que expliquen la estereoquímica e isomería de compuestos orgánicos como la glucosa, identificando sus propiedades y su utilidad para los seres vivos.",
+     "indicadores": [
+      {
+       "id": "OA18-i1",
+       "texto": "Identifican, mediante modelos, la estructura tridimensional de un determinado compuesto orgánico."
+      },
+      {
+       "id": "OA18-i2",
+       "texto": "Explican por medio de modelos la estabilidad de las conformaciones de compuestos orgánicos cíclicos."
+      },
+      {
+       "id": "OA18-i3",
+       "texto": "Distinguen isómeros y estereoisómeros según propiedades fisicoquímicas (solubilidad, punto de fusión, punto de ebullición)."
+      },
+      {
+       "id": "OA18-i4",
+       "texto": "Identifican los centros asimétricos o quirales de un compuesto orgánico para precisar sus características."
+      },
+      {
+       "id": "OA18-i5",
+       "texto": "Representan estereoisómeros mediante modelos como proyecciones de Fischer."
+      },
+      {
+       "id": "OA18-i6",
+       "texto": "Designan configuraciones R o S a distintos compuestos orgánicos, a partir de su estereoquímica."
+      },
+      {
+       "id": "OA18-i7",
+       "texto": "Discuten las consecuencias de utilizar determinados isómeros en ciertos medicamentos."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

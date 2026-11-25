@@ -31,6 +31,13 @@ python scripts/generar_docx.py cursos/2M-fisica/planificaciones/U3-energia-momen
 
 ## Cursos
 
-| Código | Estado |
-|---|---|
-| `2M-fisica` | piloto: U3 cargada |
+| Código | Programa | Planificaciones |
+|---|---|---|
+| `1M-biologia` | ✅ 8 OA · 54 indicadores | — |
+| `1M-fisica` | ✅ 8 OA · 59 indicadores | — |
+| `2M-biologia` | ✅ 8 OA · 47 indicadores | — |
+| `2M-fisica` | ✅ 6 OA · 37 indicadores | U3 (piloto) |
+| `5B-ciencias` | ✅ 14 OA · 78 indicadores | — |
+| `6B-ciencias` | ✅ 18 OA · 95 indicadores | — |
+
+Programas completos, incluido el eje Química, en `programas/<nivel>/`.

@@ -1,0 +1,92 @@
+{
+ "pdf": "programas/2M/fuente/programa.pdf",
+ "basico": false,
+ "unidades": [
+  {
+   "eje": "Biología",
+   "n": 1,
+   "pages": [
+    90,
+    91
+   ]
+  },
+  {
+   "eje": "Biología",
+   "n": 2,
+   "pages": [
+    119,
+    120
+   ]
+  },
+  {
+   "eje": "Biología",
+   "n": 3,
+   "pages": [
+    146
+   ]
+  },
+  {
+   "eje": "Biología",
+   "n": 4,
+   "pages": [
+    178
+   ]
+  },
+  {
+   "eje": "Física",
+   "n": 1,
+   "pages": [
+    210
+   ]
+  },
+  {
+   "eje": "Física",
+   "n": 2,
+   "pages": [
+    234
+   ]
+  },
+  {
+   "eje": "Física",
+   "n": 3,
+   "pages": [
+    258
+   ]
+  },
+  {
+   "eje": "Física",
+   "n": 4,
+   "pages": [
+    281
+   ]
+  },
+  {
+   "eje": "Química",
+   "n": 1,
+   "pages": [
+    312
+   ]
+  },
+  {
+   "eje": "Química",
+   "n": 2,
+   "pages": [
+    329
+   ]
+  },
+  {
+   "eje": "Química",
+   "n": 3,
+   "pages": [
+    346
+   ]
+  },
+  {
+   "eje": "Química",
+   "n": 4,
+   "pages": [
+    364
+   ]
+  }
+ ]
+}

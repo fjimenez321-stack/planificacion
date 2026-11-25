@@ -1,0 +1,430 @@
+{
+ "nivel": "5° Básico",
+ "fuente": "Programa de Estudio Ciencias Naturales 5° básico (Mineduc, Bases Curriculares D.S. 439/2012)",
+ "unidades": [
+  {
+   "eje": null,
+   "unidad": 1,
+   "nombre": "Unidad 1",
+   "oa": [
+    {
+     "oa": "OA12",
+     "texto": "Describir la distribución del agua dulce y salada en la Tierra, considerando océanos, glaciares, ríos y lagos, aguas subterráneas, nubes, vapor de agua, etc. y comparar sus volúmenes, reconociendo la escasez relativa de agua dulce.",
+     "indicadores": [
+      {
+       "id": "OA12-i1",
+       "texto": "Explican que si bien la superficie terrestre está mayoritariamente cubierta por mares y océanos, desde el punto de vista planetario su volumen es muy pequeño respecto al planeta."
+      },
+      {
+       "id": "OA12-i2",
+       "texto": "Exponen el significado del término “agua dulce” y su importancia en el desarrollo de la agricultura y la vida sobre el planeta."
+      },
+      {
+       "id": "OA12-i3",
+       "texto": "Comparan algunas características del agua dulce y salada señalando los porcentajes de estas en la Tierra."
+      },
+      {
+       "id": "OA12-i4",
+       "texto": "Ubican, en mapas o esquemas, los lugares de nuestro país donde se encuentran los mayores depósitos de agua dulce."
+      },
+      {
+       "id": "OA12-i5",
+       "texto": "Señalan otros lugares en que el agua dulce está presente en la Tierra: ríos, lagos, casquetes polares, nubes, vapor de agua en la atmósfera, aguas subterráneas, y el papel que juega el ciclo del agua en su presencia."
+      },
+      {
+       "id": "OA12-i6",
+       "texto": "Describen algunas creencias y leyendas de los pueblos originarios relacionadas con las aguas."
+      }
+     ]
+    },
+    {
+     "oa": "OA13",
+     "texto": "Describir las características de los océanos y lagos: ú variación de temperatura, luminosidad y presión en relación a la profundidad ú diversidad de flora y fauna ú movimiento de las aguas, como olas, mareas, corrientes (El Niño y Humboldt)",
+     "indicadores": [
+      {
+       "id": "OA13-i1",
+       "texto": "Analizan información que relaciona la temperatura, luminosidad y presión con la profundidad en océanos y lagos para evaluar predicciones."
+      },
+      {
+       "id": "OA13-i2",
+       "texto": "Registran en mapas geofísicos diversa corrientes marinas globales (como la de Humboldt) y otras estacionales, como las del Niño y la Niña y los efectos que provocan."
+      },
+      {
+       "id": "OA13-i3",
+       "texto": "Seleccionan preguntas que se puedan investigar acerca de las diferencias entre el movimiento de las corrientes marinas, las olas y las mareas."
+      },
+      {
+       "id": "OA13-i4",
+       "texto": "Relacionan diversidad de flora y fauna marina con el hábitat en que viven."
+      },
+      {
+       "id": "OA13-i5",
+       "texto": "Comparan diversas zonas marinas en cuanto al tipo y distribución de organismos estableciendo diferencias y similitudes."
+      }
+     ]
+    },
+    {
+     "oa": "OA14",
+     "texto": "Investigar y explicar efectos positivos y negativos de la actividad humana en los océanos, lagos, ríos, glaciares, entre otros, proponiendo acciones de protección de las reservas hídricas en Chile y comunicando sus resultados.",
+     "indicadores": [
+      {
+       "id": "OA14-i1",
+       "texto": "Planifican investigaciones sobre las fuentes laborales que se basan en el recurso marítimo, tanto en transporte, pesca, y otras industrias."
+      },
+      {
+       "id": "OA14-i2",
+       "texto": "Seleccionan evidencias que permitan detectar sectores de mar costero con mayores índices de contaminación."
+      },
+      {
+       "id": "OA14-i3",
+       "texto": "Evalúan e indican medidas que la comunidad y las personas deben adoptar para preservar las fuentes de agua, tanto dulce como salada."
+      },
+      {
+       "id": "OA14-i4",
+       "texto": "Clasifican y registran las formas de contaminación más frecuentes y significativas en los mares, ríos y lagos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": null,
+   "unidad": 2,
+   "nombre": "Unidad 2",
+   "oa": [
+    {
+     "oa": "OA1",
+     "texto": "Reconocer y explicar que los seres vivos están formados por una o más células y que estas se organizan en tejidos, órganos y sistemas.",
+     "indicadores": [
+      {
+       "id": "OA1-i1",
+       "texto": "Explican que todos los seres vivos, animales y plantas están constituidos por unidades estructurales llamadas células."
+      },
+      {
+       "id": "OA1-i2",
+       "texto": "Identifican los niveles de organización de los seres vivos (célula, tejido, órgano, sistema, organismo)."
+      },
+      {
+       "id": "OA1-i3",
+       "texto": "Establecen relaciones simples entre los distintos niveles de organización de los organismos."
+      },
+      {
+       "id": "OA1-i4",
+       "texto": "Explican que los órganos cumplen funciones específicas y que según sus funciones son agrupados en sistemas."
+      },
+      {
+       "id": "OA1-i5",
+       "texto": "Explican que los organismos (plantas y animales) están constituidos por varios sistemas que funcionan coordinadamente."
+      }
+     ]
+    },
+    {
+     "oa": "OA2",
+     "texto": "Identificar y describir por medio de modelos las estructuras básicas del sistema digestivo (boca, esófago, estómago, hígado, intestino delgado, intestino grueso) y sus funciones en la digestión, la absorción de alimentos y la eliminación de desechos.",
+     "indicadores": [
+      {
+       "id": "OA2-i1",
+       "texto": "Identifican las principales estructuras que constituyen el sistema digestivo (boca, esófago, estómago, intestino delgado y grueso)."
+      },
+      {
+       "id": "OA2-i2",
+       "texto": "Relacionan las principales estructuras del sistema digestivo con la función que éstas realizan en el organismo."
+      },
+      {
+       "id": "OA2-i3",
+       "texto": "Elaboran modelos para explicar el proceso digestivo y sus principales fases."
+      },
+      {
+       "id": "OA2-i4",
+       "texto": "Reconocen que los nutrientes ya digeridos pueden ser absorbidos por estructuras especializadas, al interior del organismo."
+      },
+      {
+       "id": "OA2-i5",
+       "texto": "Identifican al intestino grueso como el tramo del intestino donde se realiza la absorción del agua."
+      },
+      {
+       "id": "OA2-i6",
+       "texto": "Explican que la fracción de los alimentos que no fue absorbido es eliminada como desecho."
+      }
+     ]
+    },
+    {
+     "oa": "OA4",
+     "texto": "Explicar la función de transporte del sistema circulatorio (sustancias alimenticias y oxígeno y dióxido de carbono), identificando sus estructuras básicas (corazón, vasos sanguíneos y sangre).",
+     "indicadores": [
+      {
+       "id": "OA4-i1",
+       "texto": "Identifican al corazón y vasos sanguíneos como estructuras a través de las cuales circula la sangre por el organismo."
+      },
+      {
+       "id": "OA4-i2",
+       "texto": "Relacionan las estructuras musculares del corazón con su continuo trabajo de impulsar la sangre."
+      },
+      {
+       "id": "OA4-i3",
+       "texto": "Identifican la existencia de vasos sanguíneos que llevan sangre al pulmón para eliminar el CO2 y absorber el oxígeno que luego es distribuido desde el corazón al resto del cuerpo."
+      },
+      {
+       "id": "OA4-i4",
+       "texto": "Interpretan tablas y/o gráficos sobre frecuencia cardiaca, describiendo las variaciones del pulso con el ejercicio físico."
+      },
+      {
+       "id": "OA4-i5",
+       "texto": "Predicen problemas que produciría la falta de sangre oxigenada en algún órgano."
+      },
+      {
+       "id": "OA4-i6",
+       "texto": "Explican que el movimiento de la sangre permite el transporte de nutrientes y gases a todo el organismo."
+      }
+     ]
+    },
+    {
+     "oa": "OA5",
+     "texto": "Analizar el consumo de alimento diario (variedad, tamaño y frecuencia de porciones) reconociendo que los alimentos para el crecimiento, la reparación, el desarrollo y el movimiento del cuerpo.",
+     "indicadores": [
+      {
+       "id": "OA5-i1",
+       "texto": "Explican que gracias al consumo de alimentos, se sanan las heridas y todos los tejidos corporales se renuevan y reparan."
+      },
+      {
+       "id": "OA5-i2",
+       "texto": "Explican que todo movimiento del cuerpo es posible gracias al aporte energético de los alimentos."
+      },
+      {
+       "id": "OA5-i3",
+       "texto": "Relacionan una mayor actividad física con la necesidad de consumir una mayor cantidad de alimentos."
+      },
+      {
+       "id": "OA5-i4",
+       "texto": "Predicen posibles efectos de una baja ingesta de alimentos en el funcionamiento corporal."
+      },
+      {
+       "id": "OA5-i5",
+       "texto": "Agrupan alimentos según sus características nutricionales."
+      },
+      {
+       "id": "OA5-i6",
+       "texto": "Relacionan los distintos grupos de alimentos con el aporte específico que realizan en el cuerpo."
+      },
+      {
+       "id": "OA5-i7",
+       "texto": "Relacionan el consumo de carnes y legumbres con los procesos de reparación y crecimiento del cuerpo."
+      },
+      {
+       "id": "OA5-i8",
+       "texto": "Relacionan el consumo de vegetales con el aporte de sustancias que previenen la ocurrencia de enfermedades."
+      },
+      {
+       "id": "OA5-i9",
+       "texto": "Elaboran dietas que consideran distintos alimentos que en su conjunto propician el desarrollo de un cuerpo sano."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": null,
+   "unidad": 3,
+   "nombre": "Unidad 3",
+   "oa": [
+    {
+     "oa": "OA3",
+     "texto": "Explicar por medio de modelos la respiración (inspiración-espiraciónintercambio de oxígeno y dióxido de carbono), identificando las estructuras básicas del sistema respiratorio (nariz, tráquea, bronquios, alveolos, pulmones).",
+     "indicadores": [
+      {
+       "id": "OA3-i1",
+       "texto": "Identifican las estructuras básicas que conforman el sistema respiratorio."
+      },
+      {
+       "id": "OA3-i2",
+       "texto": "Describen la función de los pulmones en el intercambio de gases."
+      },
+      {
+       "id": "OA3-i3",
+       "texto": "Identifican a la nariz y tráquea como conductos que poseen características que permiten proteger al organismo de enfermedades."
+      },
+      {
+       "id": "OA3-i4",
+       "texto": "Describen cómo la contracción y relajación del diafragma y algunas estructuras torácicas permiten la expansión y contracción de los pulmones."
+      },
+      {
+       "id": "OA3-i5",
+       "texto": "Explican mediante esquemas simples cómo se realiza el intercambio gaseoso."
+      },
+      {
+       "id": "OA3-i6",
+       "texto": "Relacionan los cambios de frecuencia respiratoria a las necesidades de oxigeno del cuerpo."
+      }
+     ]
+    },
+    {
+     "oa": "OA6",
+     "texto": "Investigar en diversas fuentes y comunicar los efectos nocivos que produce el cigarrillo (humo del tabaco) en el sistema respiratorio y circulatorio.",
+     "indicadores": [
+      {
+       "id": "OA6-i1",
+       "texto": "Describen y analizan experiencias simples que evidencian los residuos producidos por el humo del tabaco."
+      },
+      {
+       "id": "OA6-i2",
+       "texto": "Explican que se producen daños graves a la salud en personas fumadoras y también en personas expuestas al humo del tabaco de forma pasiva."
+      },
+      {
+       "id": "OA6-i3",
+       "texto": "Identifican enfermedades del sistema respiratorio y circulatorio, provocadas por el consumo de tabaco (trombosis, arritmias, infecciones respiratorias, asma, cáncer pulmonar)."
+      },
+      {
+       "id": "OA6-i4",
+       "texto": "Analizan las principales causas del consumo de tabaco en adolescentes, reconociendo el consumo de cigarrillos como una enfermedad adictiva."
+      },
+      {
+       "id": "OA6-i5",
+       "texto": "Comparan el consumo de cigarrillo en Chile respecto a países desarrollados."
+      }
+     ]
+    },
+    {
+     "oa": "OA7",
+     "texto": "Investigar e identificar algunos microorganismos beneficiosos y dañinos para la salud (bacterias, virus y hongos), y proponer medidas de cuidado e higiene del cuerpo.",
+     "indicadores": [
+      {
+       "id": "OA7-i1",
+       "texto": "Describen el efecto beneficioso de algunas bacterias en el organismo (por ejemplo competencia con bacterias patógenas, evitando su colonización)."
+      },
+      {
+       "id": "OA7-i2",
+       "texto": "Investigan los beneficios de algunos hongos comestibles."
+      },
+      {
+       "id": "OA7-i3",
+       "texto": "Identifican agentes dañinos para la salud (bacterias, virus y hongos)."
+      },
+      {
+       "id": "OA7-i4",
+       "texto": "Describen cómo algunas enfermedades son producidas por el ingreso y multiplicación de agentes infecciosos en nuestro organismo."
+      },
+      {
+       "id": "OA7-i5",
+       "texto": "Distinguen las enfermedades producidas por agentes infecciosos (virus y bacterias), de otros tipos de enfermedades."
+      },
+      {
+       "id": "OA7-i6",
+       "texto": "Explican el uso de desinfectantes (ejemplo: cloro, alcohol, povidona yodada, agua oxigenada), como sustancias que eliminar gran parte de los agentes infecciosos y permiten prevenir enfermedades."
+      },
+      {
+       "id": "OA7-i7",
+       "texto": "Mencionan diversas acciones, como, lavarse las manos, cubrirse la boca al estornudar, lavar los alimentos, etc., que permiten prevenir el contagio de enfermedades infecto contagiosas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": null,
+   "unidad": 4,
+   "nombre": "Unidad 4",
+   "oa": [
+    {
+     "oa": "OA8",
+     "texto": "Reconocer los cambios que experimenta la energía eléctrica de una forma a otra (eléctrica a calórica, sonora, lumínica etc.) e investigar los principales aportes de científicos en su estudio a través del tiempo.",
+     "indicadores": [
+      {
+       "id": "OA8-i1",
+       "texto": "Explican el significado del concepto de energía proporcionando ejemplos en que se evidencia."
+      },
+      {
+       "id": "OA8-i2",
+       "texto": "Señalan formas en que se manifiesta la energía en la naturaleza."
+      },
+      {
+       "id": "OA8-i3",
+       "texto": "Comparan las formas en que se manifiesta la energía en la naturaleza comunicando similitudes y diferencias."
+      },
+      {
+       "id": "OA8-i4",
+       "texto": "Describen aparatos o máquinas que funcionan con energía eléctrica (por ejemplo: ampolleta, aspiradora, timbre, etc.) y a qué tipo de energía están asociadas."
+      },
+      {
+       "id": "OA8-i5",
+       "texto": "Explican y comunican los principales aportes generados por diferentes científicos sobre la energía eléctrica."
+      }
+     ]
+    },
+    {
+     "oa": "OA9",
+     "texto": "Construir un circuito eléctrico simple (cable, ampolleta, interruptor y pila) usándolo para resolver problemas cotidianos y explicar su funcionamiento.",
+     "indicadores": [
+      {
+       "id": "OA9-i1",
+       "texto": "Representan en un dibujo los elementos que conforman un circuito eléctrico simple: pila o batería, interruptor, cables y dispositivo de carga (ampolleta)."
+      },
+      {
+       "id": "OA9-i2",
+       "texto": "Explican la función de cada uno de los elementos que constituyen un circuito eléctrico simple."
+      },
+      {
+       "id": "OA9-i3",
+       "texto": "Analizan las partes del circuito de una linterna y lo representan por medio de símbolos apropiados."
+      },
+      {
+       "id": "OA9-i4",
+       "texto": "Planifican el trabajo que le permitirá construir un circuito simple o linterna."
+      },
+      {
+       "id": "OA9-i5",
+       "texto": "Conectan los dispositivos que conforman un circuito simple."
+      }
+     ]
+    },
+    {
+     "oa": "OA10",
+     "texto": "Observar y distinguir, por medio de la investigación experimental, los materiales conductores (cobre y aluminio) y aisladores (plásticos y goma) de electricidad, relacionándolos con la manipulación segura de artefactos tecnológicos y circuitos eléctricos domiciliarios.",
+     "indicadores": [
+      {
+       "id": "OA10-i1",
+       "texto": "Registran similitudes y diferencias entre materiales conductores y aisladores de la electricidad."
+      },
+      {
+       "id": "OA10-i2",
+       "texto": "Clasifican materiales buenos y malos conductores de la electricidad."
+      },
+      {
+       "id": "OA10-i3",
+       "texto": "Planifican un experimento que le permita diferenciar entre materiales conductores y aislantes de la corriente eléctrica."
+      },
+      {
+       "id": "OA10-i4",
+       "texto": "Explican en qué partes de un circuito eléctrico son necesarios los buenos conductores y en qué partes los malos conductores eléctricos."
+      },
+      {
+       "id": "OA10-i5",
+       "texto": "Explican y comunican las normas de seguridad frente a los peligros de la corriente eléctrica."
+      }
+     ]
+    },
+    {
+     "oa": "OA11",
+     "texto": "Explicar la importancia de la energía eléctrica en la vida cotidiana y proponer medidas para promover su ahorro y uso responsable.",
+     "indicadores": [
+      {
+       "id": "OA11-i1",
+       "texto": "Registran los dispositivos empleados cotidianamente (portados por las personas, en la casa, en la escuela, en la calle, etc.) que utilizan energía eléctrica."
+      },
+      {
+       "id": "OA11-i2",
+       "texto": "Formulan predicciones y explicaciones sobre cómo cambiaría la vida de las personas si no dispusiéramos de energía eléctrica por un tiempo prolongado."
+      },
+      {
+       "id": "OA11-i3",
+       "texto": "Explican los cambios de conductas destinadas a ahorrar energía eléctrica."
+      },
+      {
+       "id": "OA11-i4",
+       "texto": "Proporcionan ejemplos que ponen en evidencia la importancia de la energía eléctrica en nuestra civilización."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,522 @@
+{
+ "nivel": "6° Básico",
+ "fuente": "Programa de Estudio Ciencias Naturales 6° básico (Mineduc, Bases Curriculares D.S. 439/2012)",
+ "unidades": [
+  {
+   "eje": null,
+   "unidad": 1,
+   "nombre": "Unidad 1",
+   "oa": [
+    {
+     "oa": "OA1",
+     "texto": "Explicar, a partir de una investigación experimental, los requerimientos de agua, dióxido de carbono y energía lumínica para la producción de azúcar y liberación de oxígeno en la fotosíntesis, comunicando sus resultados y los aportes de científicos en este campo a través del tiempo.",
+     "indicadores": [
+      {
+       "id": "OA1-i1",
+       "texto": "Distinguen los organismos capaces de realizar fotosíntesis (plantas, algas y algunos microorganismos)."
+      },
+      {
+       "id": "OA1-i2",
+       "texto": "Explican de forma simple el proceso de fotosíntesis, identificando los elementos necesarios (CO2, luz, agua) para que se produzca azúcar y liberación de oxígeno."
+      },
+      {
+       "id": "OA1-i3",
+       "texto": "Obtienen evidencia experimental sobre las sustancias producidas en el proceso de fotosíntesis (almidón y O2)."
+      },
+      {
+       "id": "OA1-i4",
+       "texto": "Realizan experimentos simples que evidencian los requerimientos de luz y agua de las plantas para el proceso de la fotosíntesis."
+      },
+      {
+       "id": "OA1-i5",
+       "texto": "Analizan críticamente y explican los aportes realizados por Jean Baptista van Helmont al estudio de las plantas."
+      },
+      {
+       "id": "OA1-i6",
+       "texto": "Fundamentan predicciones sobre fenómenos o problemas ocurridos en el proceso de fotosíntesis."
+      }
+     ]
+    },
+    {
+     "oa": "OA2",
+     "texto": "Representar, por medio de modelos, la transferencia de energía y materia desde los organismos fotosintéticos a otros seres vivos por medio de cadenas y redes alimentarias en diferentes ecosistemas.",
+     "indicadores": [
+      {
+       "id": "OA2-i1",
+       "texto": "Explican que los organismos que realizan fotosíntesis son la base de los flujos de materia y energía necesaria para la vida de todos los seres vivos."
+      },
+      {
+       "id": "OA2-i2",
+       "texto": "Observan y describen algunas relaciones tróficas presentes en su entorno cercano y evidencian la necesidad de obtener materia y energía a partir de otros organismos."
+      },
+      {
+       "id": "OA2-i3",
+       "texto": "Describen a partir de esquemas, los flujos de materia y energía entre los distintos eslabones de cadenas y tramas alimentarias."
+      },
+      {
+       "id": "OA2-i4",
+       "texto": "Identifican la función de los distintos niveles tróficos (productores, consumidores de 1°, 2° y 3° orden, descomponedores). Concluyen sobre las variables que intervienen en los flujos de materia y energía en el ecosistema."
+      },
+      {
+       "id": "OA2-i5",
+       "texto": "Analizan posibles consecuencias de la alteración de los flujos de materia y energía en el ecosistema."
+      }
+     ]
+    },
+    {
+     "oa": "OA3",
+     "texto": "Analizar los efectos de la actividad humana sobre las redes alimentarias.",
+     "indicadores": [
+      {
+       "id": "OA3-i1",
+       "texto": "Identifican factores que pueden alterar los flujos de materia y energía en una trama trófica."
+      },
+      {
+       "id": "OA3-i2",
+       "texto": "Predicen consecuencias para las cadenas y tramas si se altera uno o más de sus niveles tróficos. Por ejemplo, al aumentar los consumidores de 2° orden."
+      },
+      {
+       "id": "OA3-i3",
+       "texto": "Describen las principales acciones del ser humano que alteran el entorno."
+      },
+      {
+       "id": "OA3-i4",
+       "texto": "Analizan situaciones que alteran el equilibrio natural (deforestación, contaminación y plantaciones) y proponen medidas preventivas y moderadoras a estos problemas, asumiendo compromisos personales."
+      }
+     ]
+    },
+    {
+     "oa": "OA16",
+     "texto": "Describir las características de las capas de la tierra (atmósfera, litósfera e hidrósfera) que posibilitan el desarrollo de la vida y proveen recursos para el ser humano, y proponer medidas de protección de dichas capas.",
+     "indicadores": [
+      {
+       "id": "OA16-i1",
+       "texto": "Describen y ubican las diferentes capas que conforman la Tierra."
+      },
+      {
+       "id": "OA16-i2",
+       "texto": "Relacionan las características de las capas externas de la Tierra con el desarrollo de diferentes seres vivos."
+      },
+      {
+       "id": "OA16-i3",
+       "texto": "Dan ejemplos de algunos de los recursos que poseen las capas externas de la Tierra y su utilidad para el ser humano."
+      },
+      {
+       "id": "OA16-i4",
+       "texto": "Predicen el impacto en el desarrollo de la vida y la alteración de las características de las capas de la Tierra por la acción humana."
+      },
+      {
+       "id": "OA16-i5",
+       "texto": "Dan ejemplos de alteraciones en el aire, las aguas y los suelos producidas por el ser humano."
+      },
+      {
+       "id": "OA16-i6",
+       "texto": "Evalúan las consecuencias de la contaminación sobre la flora, la fauna y el propio ser humano."
+      },
+      {
+       "id": "OA16-i7",
+       "texto": "Comunican y representan, mediante modelos y presentaciones con TIC, conductas individuales y colectivas que evitan diversos tipos de contaminación."
+      }
+     ]
+    },
+    {
+     "oa": "OA17",
+     "texto": "Investigar experimentalmente la formación del suelo, sus propiedades (como color, textura y capacidad de retención de agua) y la importancia de protegerlo de la contaminación, comunicando sus resultados.",
+     "indicadores": [
+      {
+       "id": "OA17-i1",
+       "texto": "Relacionan la formación del suelo con los tipos de rocas."
+      },
+      {
+       "id": "OA17-i2",
+       "texto": "Plantean métodos experimentales para demostrar la formación del suelo a partir de los diferentes tipos de rocas."
+      },
+      {
+       "id": "OA17-i3",
+       "texto": "Explican la formación de los horizontes o estratos que conforman el suelo."
+      },
+      {
+       "id": "OA17-i4",
+       "texto": "Describen la textura, la capacidad de almacenar agua, la presencia de aire, los elementos químicos y la materia orgánica como características básicas de los suelos."
+      },
+      {
+       "id": "OA17-i5",
+       "texto": "Establecen similitudes y diferencias sobre las características básicas en diferentes tipos de suelo."
+      },
+      {
+       "id": "OA17-i6",
+       "texto": "Predicen el tipo y las características del suelo, a partir de información climática y del paisaje de una zona determinada, utilizando conceptos apropiados."
+      },
+      {
+       "id": "OA17-i7",
+       "texto": "Investigan las relaciones de interdependencia entre los seres vivos y el suelo, en términos del intercambio de nutrientes."
+      },
+      {
+       "id": "OA17-i8",
+       "texto": "Formulan conclusiones sobre las variables que intervienen en la alteración de los horizontes del suelo y sus consecuencias para los seres vivos."
+      }
+     ]
+    },
+    {
+     "oa": "OA18",
+     "texto": "Explicar las consecuencias de la erosión sobre la superficie de la Tierra, identificando los agentes que la provocan, como el viento, el agua y las actividades humanas.",
+     "indicadores": [
+      {
+       "id": "OA18-i1",
+       "texto": "Explican, a través de modelos, los mecanismos y efectos de la erosión sobre la superficie de la Tierra."
+      },
+      {
+       "id": "OA18-i2",
+       "texto": "Describen las transformaciones que se producen en la superficie de la Tierra, a través del tiempo geológico, por efecto de la erosión."
+      },
+      {
+       "id": "OA18-i3",
+       "texto": "Elaboran diagramas o gráficos con información sobre la erosión de una determinada superficie y las escalas de tiempo en que actúa."
+      },
+      {
+       "id": "OA18-i4",
+       "texto": "Evalúan y comunican la influencia de los distintos factores en la erosión de la superficie de la Tierra (por ejemplo: vientos, agua, seres vivos)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": null,
+   "unidad": 2,
+   "nombre": "Unidad 2",
+   "oa": [
+    {
+     "oa": "OA4",
+     "texto": "Identificar y describir las funciones de las principales estructuras del sistema reproductor humano femenino y masculino.",
+     "indicadores": [
+      {
+       "id": "OA4-i1",
+       "texto": "Identifican las principales estructuras del sistema reproductor femenino y masculino."
+      },
+      {
+       "id": "OA4-i2",
+       "texto": "Describen las funciones básicas del sistema reproductor femenino y masculino y sus principales estructuras."
+      },
+      {
+       "id": "OA4-i3",
+       "texto": "Representan, a partir de esquemas y diagramas, el sistema reproductor femenino y masculino."
+      }
+     ]
+    },
+    {
+     "oa": "OA5",
+     "texto": "Describir y comparar los cambios que se producen en la pubertad en mujeres y hombres, reconociéndola como una etapa del desarrollo humano.",
+     "indicadores": [
+      {
+       "id": "OA5-i1",
+       "texto": "Identifican las principales modificaciones biológicas visibles y conductuales que ocurren durante la pubertad."
+      },
+      {
+       "id": "OA5-i2",
+       "texto": "Comparan los cambios que se producen en hombres y mujeres durante la pubertad."
+      }
+     ]
+    },
+    {
+     "oa": "OA6",
+     "texto": "Reconocer los beneficios de realizar actividad física en forma regular y de cuidar la higiene corporal en el período de la pubertad.",
+     "indicadores": [
+      {
+       "id": "OA6-i1",
+       "texto": "Explican por qué el deporte sistemático favorece la mantención del estado de salud."
+      },
+      {
+       "id": "OA6-i2",
+       "texto": "Identifican parámetros fisiológicos relacionados con la práctica regular de deporte."
+      },
+      {
+       "id": "OA6-i3",
+       "texto": "Planifican un calendario de actividades deportivas adaptado a un individuo particular."
+      },
+      {
+       "id": "OA6-i4",
+       "texto": "Reconocen los beneficios de la higiene corporal en la mantención del estado de salud."
+      },
+      {
+       "id": "OA6-i5",
+       "texto": "Identifican conductas higiénicas adecuadas para la edad."
+      },
+      {
+       "id": "OA6-i6",
+       "texto": "Describen algunas enfermedades asociadas con una inadecuada higiene corporal."
+      },
+      {
+       "id": "OA6-i7",
+       "texto": "Explican los cambios fisiológicos propios de la edad que implican un aseo higiénico diferencial."
+      }
+     ]
+    },
+    {
+     "oa": "OA7",
+     "texto": "Investigar y comunicar los efectos nocivos de algunas drogas para la salud, proponiendo conductas de protección.",
+     "indicadores": [
+      {
+       "id": "OA7-i1",
+       "texto": "Describen los principales efectos en el organismo humano del consumo de drogas (alcohol, tabaco y drogas ilícitas)."
+      },
+      {
+       "id": "OA7-i2",
+       "texto": "Identifican factores de riesgo en el consumo de drogas en la población chilena."
+      },
+      {
+       "id": "OA7-i3",
+       "texto": "Distinguen consecuencias a nivel individual y social del consumo de algunas drogas."
+      },
+      {
+       "id": "OA7-i4",
+       "texto": "Señalan conductas que previenen el consumo de drogas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": null,
+   "unidad": 3,
+   "nombre": "Unidad 3",
+   "oa": [
+    {
+     "oa": "OA8",
+     "texto": "Explicar que la energía es necesaria para que los objetos cambien y los seres vivos realicen sus procesos vitales y que la mayoría de los recursos energéticos proviene directa o indirectamente del Sol, dando ejemplos de ello.",
+     "indicadores": [
+      {
+       "id": "OA8-i1",
+       "texto": "Demuestran, a través de ejemplos, que el Sol es la fuente principal de energía en la Tierra."
+      },
+      {
+       "id": "OA8-i2",
+       "texto": "Explican cómo el alimento de origen vegetal se transforma en una fuente de energía para los seres vivos."
+      },
+      {
+       "id": "OA8-i3",
+       "texto": "Nombran y explican el proceso que permite que las plantas y animales capturen energía del medio."
+      },
+      {
+       "id": "OA8-i4",
+       "texto": "Nombran aparatos de uso cotidiano en que se manifieste energía lumínica, sonora, eléctrica, calórica y cinética y describen los efectos que se producen en cada caso."
+      },
+      {
+       "id": "OA8-i5",
+       "texto": "Explican a partir de ejemplos el efecto y los cambios que produce la energía en los objetos y en los seres vivos."
+      },
+      {
+       "id": "OA8-i6",
+       "texto": "Seleccionan y utilizan instrumentos que utilizan energía para su funcionamiento, de manera segura."
+      }
+     ]
+    },
+    {
+     "oa": "OA9",
+     "texto": "Investigar en forma experimental la transformación de la energía de una forma a otra, dando ejemplos y comunicando sus conclusiones.",
+     "indicadores": [
+      {
+       "id": "OA9-i1",
+       "texto": "Identifican situaciones de su entorno cercano en que se producen transformaciones de energía."
+      },
+      {
+       "id": "OA9-i2",
+       "texto": "Realizan experimentos que involucren situaciones en que se produzcan transformaciones entre energías: a) luminosa a calórica; b) mecánica a eléctrica; c) eléctrica a mecánica; d) eléctrica a calórica; e) luminosa a eléctrica."
+      },
+      {
+       "id": "OA9-i3",
+       "texto": "Identifican preguntas científicas y predicciones fundamentándolas."
+      },
+      {
+       "id": "OA9-i4",
+       "texto": "Construyen dibujos o diagramas para explicitar diferentes tipos de transformaciones de energía en el ámbito cotidiano."
+      },
+      {
+       "id": "OA9-i5",
+       "texto": "Comunican y representan por medio de TIC, situaciones cotidianas que muestren transformaciones de energía de una forma a otra."
+      }
+     ]
+    },
+    {
+     "oa": "OA10",
+     "texto": "Demostrar, por medio de la investigación experimental, que el calor fluye de un objeto caliente a uno frío hasta que ambos alcanzan la misma temperatura.",
+     "indicadores": [
+      {
+       "id": "OA10-i1",
+       "texto": "Describen el calor como una forma de energía a partir de ejemplos."
+      },
+      {
+       "id": "OA10-i2",
+       "texto": "Explican las formas en que el calor se puede transmitir de un cuerpo a otro a partir de un experimento."
+      },
+      {
+       "id": "OA10-i3",
+       "texto": "Planifican y conducen un experimento para demostrar la transferencia de calor de un cuerpo a otro."
+      },
+      {
+       "id": "OA10-i4",
+       "texto": "Comunican y representan los resultados de un experimento de transferencia de calor utilizando modelos o TIC."
+      },
+      {
+       "id": "OA10-i5",
+       "texto": "Construyen dibujos o diagramas para explicitar diferentes tipos de transformaciones de energía, en el ámbito cotidiano, en que participa el calor."
+      },
+      {
+       "id": "OA10-i6",
+       "texto": "Explican el proceso de transferencia de calor entre las partes de un artefacto de uso cotidiano."
+      }
+     ]
+    },
+    {
+     "oa": "OA11",
+     "texto": "Clasificar los recursos naturales energéticos en no renovables y renovables y proponer medidas para el uso responsable de la energía.",
+     "indicadores": [
+      {
+       "id": "OA11-i1",
+       "texto": "Explican el significado renovable o no renovable de la energía."
+      },
+      {
+       "id": "OA11-i2",
+       "texto": "Comparan los recursos energéticos renovables y no renovables estableciendo similitudes y diferencias."
+      },
+      {
+       "id": "OA11-i3",
+       "texto": "Clasifican las fuentes de energías según sean renovables o no renovables."
+      },
+      {
+       "id": "OA11-i4",
+       "texto": "Analizan situaciones y extraen conclusiones acerca de las consecuencias del uso de fuentes de energía no renovables."
+      },
+      {
+       "id": "OA11-i5",
+       "texto": "Señalan las fuentes de energías renovables y no renovables con que cuenta Chile."
+      },
+      {
+       "id": "OA11-i6",
+       "texto": "Evalúan medidas para el uso responsable de la energía y las comunican por medio de presentaciones con TIC."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "eje": null,
+   "unidad": 4,
+   "nombre": "Unidad 4",
+   "oa": [
+    {
+     "oa": "OA12",
+     "texto": "Explicar, a partir de modelos, que la materia está formada por partículas en movimiento en sus estados sólido, líquido y gaseoso.",
+     "indicadores": [
+      {
+       "id": "OA12-i1",
+       "texto": "Diseñan modelos simples sobre la constitución particulada de la materia."
+      },
+      {
+       "id": "OA12-i2",
+       "texto": "Formulan predicciones sobre el comportamiento de las partículas que forman la materia al transferirles calor."
+      },
+      {
+       "id": "OA12-i3",
+       "texto": "Describen y comunican mediante diagramas y modelos, el comportamiento de las partículas que forman la materia en sus estados sólido, líquido y gaseoso."
+      },
+      {
+       "id": "OA12-i4",
+       "texto": "Relacionan el carácter dinámico de las partículas que conforman la materia y sus diferencias de movimiento en los estados sólido, líquido y gaseoso."
+      }
+     ]
+    },
+    {
+     "oa": "OA13",
+     "texto": "Demostrar, mediante la investigación experimental, los cambios de estado de la materia, como fusión, evaporación, ebullición, condensación, solidificación y sublimación.",
+     "indicadores": [
+      {
+       "id": "OA13-i1",
+       "texto": "Definen el concepto de cambio de estado de la materia."
+      },
+      {
+       "id": "OA13-i2",
+       "texto": "Dan ejemplos de cambios de estado en su entorno."
+      },
+      {
+       "id": "OA13-i3",
+       "texto": "Explican los cambios de estado de la materia a nivel particulado."
+      },
+      {
+       "id": "OA13-i4",
+       "texto": "Comparan los cambios de estado de la materia, registrando sus similitudes y diferencias."
+      },
+      {
+       "id": "OA13-i5",
+       "texto": "Identifican algunas variables que influyen en los cambios de estado de la materia (energía calórica, volumen, presión)."
+      },
+      {
+       "id": "OA13-i6",
+       "texto": "Exploran y explican el efecto de la temperatura en los procesos de evaporación, condensación, ebullición, fusión, solidificación y sublimación."
+      },
+      {
+       "id": "OA13-i7",
+       "texto": "Planifican y conducen experiencias prácticas de cambios de estado de la materia."
+      },
+      {
+       "id": "OA13-i8",
+       "texto": "Establecen similitudes y diferencias en el comportamiento de las partículas en los procesos de cambio de estado."
+      }
+     ]
+    },
+    {
+     "oa": "OA14",
+     "texto": "Diferenciar entre calor y temperatura, considerando que el calor es una forma de energía y la temperatura es una medida de lo caliente de un objeto.",
+     "indicadores": [
+      {
+       "id": "OA14-i1",
+       "texto": "Relacionan el concepto de temperatura con la energía cinética media de las partículas de un objeto."
+      },
+      {
+       "id": "OA14-i2",
+       "texto": "Definen el concepto de calor como transferencia de energía."
+      },
+      {
+       "id": "OA14-i3",
+       "texto": "Realizan mediciones de temperatura en diversos objetos del entorno, expresándola en grados Celcius (°C)."
+      },
+      {
+       "id": "OA14-i4",
+       "texto": "Observan e identifican objetos que ceden y absorben calor."
+      },
+      {
+       "id": "OA14-i5",
+       "texto": "Comparan el uso de los términos “calor” y “temperatura” en situaciones cotidianas y en situaciones científicas."
+      },
+      {
+       "id": "OA14-i6",
+       "texto": "Establecen y comunican diferencias entre el calor y la temperatura."
+      }
+     ]
+    },
+    {
+     "oa": "OA15",
+     "texto": "Medir e interpretar la información obtenida al calentar y enfriar el agua, considerando las transformaciones de un estado a otro.",
+     "indicadores": [
+      {
+       "id": "OA15-i1",
+       "texto": "Miden y registran la temperatura y el tiempo asociado en el calentamiento y enfriamiento del agua hasta la ocurrencia de cambio de estado."
+      },
+      {
+       "id": "OA15-i2",
+       "texto": "Construyen gráficos con datos de temperatura (T) y tiempo (t) del agua, obtenidos experimentalmente al calentar agua en estado sólido y hasta su ebullición."
+      },
+      {
+       "id": "OA15-i3",
+       "texto": "Explican el comportamiento constante de la temperatura durante los cambios de estado del agua."
+      },
+      {
+       "id": "OA15-i4",
+       "texto": "Establecen similitudes y diferencias entre el comportamiento de la temperatura y del calor en los cambios de estado."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
