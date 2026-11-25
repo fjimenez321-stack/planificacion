@@ -26,7 +26,7 @@ Los .docx se descargan desde `cursos/<curso>/planificaciones/docx/`.
 
 ```
 pip install -r requirements.txt
-python scripts/generar_docx.py cursos/2M-fisica/planificaciones/U3-energia-momentum.yaml
+python scripts/generar_docx.py cursos/2M-fisica/planificaciones/2027/U3-energia-momentum.yaml
 ```
 
 ## Cursos
