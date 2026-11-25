@@ -1,0 +1,105 @@
+# Sexto Básico · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD I: Capas de la Tierra, suelo y erosión'
+  profesor: Felipe Jiménez
+  curso: Sexto Básico
+  asignatura: Física
+  mes: Marzo a mayo
+proposito: Describir las capas de la Tierra que posibilitan la vida, investigar experimentalmente la formación
+  y las propiedades del suelo, y explicar las consecuencias de la erosión, proponiendo medidas de protección.
+objetivos:
+- oa: OA16
+  texto: Describir las características de las capas de la Tierra (atmósfera, litósfera e hidrósfera) que
+    posibilitan el desarrollo de la vida y proveen recursos para el ser humano, y proponer medidas de
+    protección de dichas capas.
+- oa: OA17
+  texto: Investigar experimentalmente la formación del suelo, sus propiedades (como color, textura y capacidad
+    de retención de agua) y la importancia de protegerlo de la contaminación, comunicando sus resultados.
+- oa: OA18
+  texto: Explicar las consecuencias de la erosión sobre la superficie de la Tierra, identificando los
+    agentes que la provocan, como el viento, el agua y las actividades humanas.
+duracion: 9 semanas (18 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA16
+  tema: Las capas de la Tierra
+  actividades: 'Diagnóstico. Modelo en un frasco transparente: atmósfera, hidrósfera y litósfera.'
+  objetivos_especificos: Identificar las capas externas de la Tierra.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Modelo rotulado
+- semana: 2
+  oa:
+  - OA16
+  tema: Capas que permiten la vida
+  actividades: Características de cada capa y su relación con los seres vivos; recursos que proveen.
+  objetivos_especificos: Describir cómo las capas de la Tierra posibilitan la vida.
+  bloom: Comprender
+  evaluacion_formativa: Cuadro de recursos
+- semana: 3
+  oa:
+  - OA16
+  tema: Contaminación y protección
+  actividades: Casos de contaminación del aire, del agua y del suelo en Chile; propuestas de protección.
+  objetivos_especificos: Proponer medidas de protección de las capas de la Tierra.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA16)
+- semana: 4
+  oa:
+  - OA17
+  tema: ¿Cómo se forma el suelo?
+  actividades: Frotar rocas (meteorización); horizontes del suelo en una columna en un frasco.
+  objetivos_especificos: Relacionar la formación del suelo con las rocas.
+  bloom: Comprender
+  evaluacion_formativa: Dibujo de horizontes
+- semana: 5
+  oa:
+  - OA17
+  tema: Propiedades del suelo
+  actividades: 'Investigación experimental: color, textura y capacidad de retención de agua con tres tipos
+    de suelo (embudos y filtros).'
+  objetivos_especificos: Investigar experimentalmente las propiedades del suelo.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Informe de laboratorio
+- semana: 6
+  oa:
+  - OA17
+  tema: Seres vivos y suelo
+  actividades: Lombricario o compost en el colegio; contaminación del suelo.
+  objetivos_especificos: Explicar la importancia del suelo y de protegerlo.
+  bloom: Analizar
+  evaluacion_formativa: 'Evaluación sumativa N°2 (OA17): informe con rúbrica'
+- semana: 7
+  oa:
+  - OA18
+  tema: Agentes de erosión
+  actividades: 'Modelo con bandejas de tierra: lluvia (regadera) y viento (secador) sobre suelo con y
+    sin plantas.'
+  objetivos_especificos: Identificar los agentes que provocan erosión.
+  bloom: Aplicar
+  evaluacion_formativa: Registro experimental
+- semana: 8
+  oa:
+  - OA18
+  tema: Erosión y actividad humana
+  actividades: 'Casos chilenos: erosión por incendios, deforestación y sobrepastoreo; medidas de prevención.'
+  objetivos_especificos: Explicar las consecuencias de la erosión y cómo prevenirla.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Ficha de caso
+- semana: 9
+  oa:
+  - OA16
+  - OA17
+  - OA18
+  tema: Cierre de unidad
+  actividades: Evaluación escrita del OA18 e integración de la unidad.
+  objetivos_especificos: Evaluar los aprendizajes sobre la Tierra, el suelo y la erosión.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°3 (OA18)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en tres ciclos, desde describir las capas de la Tierra a investigar el suelo
+    experimentalmente y analizar la erosión con modelos.

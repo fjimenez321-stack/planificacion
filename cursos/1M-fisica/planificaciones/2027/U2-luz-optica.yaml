@@ -1,0 +1,116 @@
+# Primero Medio · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD II: Luz y óptica geométrica'
+  profesor: Felipe Jiménez
+  curso: Primero Medio
+  asignatura: Física
+  mes: Mayo a julio
+proposito: Explicar fenómenos luminosos como la reflexión, la refracción, la interferencia y el efecto
+  Doppler mediante la experimentación y el uso de modelos de la luz, y aplicarlos al funcionamiento de
+  dispositivos ópticos.
+objetivos:
+- oa: OA11
+  texto: 'Explicar fenómenos luminosos, como la reflexión, la refracción, la interferencia y el efecto
+    Doppler, entre otros, por medio de la experimentación y el uso de modelos, considerando: • Los modelos
+    corpuscular y ondulatorio de la luz. • Las características y la propagación de la luz (viaja en línea
+    recta, formación de sombras y posee rapidez, entre otras). • La formación de imágenes (espejos y lentes).
+    • La formación de colores (difracción, colores primarios y secundarios, filtros). • Sus aplicaciones
+    tecnológicas (lentes, telescopio, prismáticos y focos, entre otros).'
+duracion: 10 semanas (20 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA11
+  tema: Historia de la luz
+  actividades: 'KPSI. Línea de tiempo de los modelos de la luz (Newton, Huygens, Young, Maxwell, Einstein).
+    Debate breve: ¿partícula u onda?'
+  objetivos_especificos: Describir los modelos de la luz a través del tiempo.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: KPSI + línea de tiempo
+- semana: 2
+  oa:
+  - OA11
+  tema: Propagación rectilínea y rapidez de la luz
+  actividades: Cámara oscura con caja de zapatos. Sombras y penumbras con linternas. Mediciones históricas
+    de la rapidez de la luz.
+  objetivos_especificos: Explicar la formación de sombras y de imágenes en una cámara oscura.
+  bloom: Comprender
+  evaluacion_formativa: Ficha de la cámara oscura
+- semana: 3
+  oa:
+  - OA11
+  tema: Reflexión y espejos planos
+  actividades: Ley de reflexión con láser y espejo (transportador). Imágenes en espejos planos; número
+    de imágenes con dos espejos en ángulo.
+  objetivos_especificos: Aplicar la ley de reflexión a la formación de imágenes en espejos planos.
+  bloom: Aplicar
+  evaluacion_formativa: Diagrama de rayos
+- semana: 4
+  oa:
+  - OA11
+  tema: Espejos curvos
+  actividades: 'Cucharas y espejos cóncavos y convexos: imágenes reales y virtuales. Diagramas de rayos
+    y usos (retrovisores, focos).'
+  objetivos_especificos: Construir diagramas de rayos para espejos cóncavos y convexos.
+  bloom: Aplicar
+  evaluacion_formativa: Guía de diagramas de rayos
+- semana: 5
+  oa:
+  - OA11
+  tema: Refracción
+  actividades: Lápiz en un vaso con agua, láser en gelatina o acrílico. Índice de refracción y reflexión
+    total interna (fibra óptica con chorro de agua).
+  objetivos_especificos: Explicar la refracción y la reflexión total interna con experimentos.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Informe breve de laboratorio
+- semana: 6
+  oa:
+  - OA11
+  tema: Lentes
+  actividades: 'Lupas y lentes convergentes y divergentes: imágenes en una pantalla. Diagramas de rayos.
+    Lentes en el ojo, la cámara y los anteojos.'
+  objetivos_especificos: Aplicar la óptica geométrica para explicar la formación de imágenes en lentes.
+  bloom: Aplicar
+  evaluacion_formativa: Ejercicios con lentes
+- semana: 7
+  oa:
+  - OA11
+  tema: Evaluación de óptica geométrica
+  actividades: Evaluación escrita de reflexión, refracción y lentes. Retroalimentación con errores frecuentes.
+  objetivos_especificos: Evaluar la comprensión de la óptica geométrica.
+  bloom: Evaluar
+  evaluacion_formativa: 'Evaluación sumativa N°1 (OA11: óptica geométrica)'
+- semana: 8
+  oa:
+  - OA11
+  tema: Color y dispersión
+  actividades: Prisma y CD para descomponer la luz. Arcoíris, síntesis aditiva con linternas RGB y filtros
+    de celofán.
+  objetivos_especificos: Explicar la dispersión cromática y la formación de colores.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Guía de color
+- semana: 9
+  oa:
+  - OA11
+  tema: 'Modelo ondulatorio: difracción, interferencia y Doppler'
+  actividades: Difracción con láser y rendija (pelo o CD). Interferencia en pompas de jabón. Efecto Doppler
+    de la luz y corrimiento al rojo en astronomía.
+  objetivos_especificos: Describir fenómenos ondulatorios de la luz y su importancia en astronomía.
+  bloom: Analizar
+  evaluacion_formativa: Ticket de salida
+- semana: 10
+  oa:
+  - OA11
+  tema: 'Proyecto: dispositivo óptico'
+  actividades: Construcción y presentación de un periscopio, telescopio sencillo o proyector con celular,
+    explicando su funcionamiento con la óptica geométrica.
+  objetivos_especificos: Crear un dispositivo óptico y explicar su funcionamiento.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA11) + rúbrica del dispositivo
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa desde comprender los modelos de la luz a aplicar la óptica geométrica en espejos
+    y lentes, analizar fenómenos ondulatorios y crear un dispositivo óptico.

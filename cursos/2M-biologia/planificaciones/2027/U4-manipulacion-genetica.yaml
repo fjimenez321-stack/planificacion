@@ -1,0 +1,64 @@
+# Segundo Medio · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD IV: Manipulación genética'
+  profesor: Felipe Jiménez
+  curso: Segundo Medio
+  asignatura: Biología
+  mes: Noviembre y diciembre
+proposito: Investigar y explicar las aplicaciones de la manipulación genética en alimentos, detergentes,
+  vestuario y fármacos, y evaluar sus implicancias éticas y sociales.
+objetivos:
+- oa: OA8
+  texto: Investigar y explicar las aplicaciones que han surgido a raíz de la manipulación genética para
+    generar alimentos, detergentes, vestuario, fármacos u otras, y evaluar sus implicancias éticas y sociales.
+duracion: 5 semanas (10 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA8
+  tema: Ingeniería genética
+  actividades: 'Conceptos de ingeniería genética, manipulación genética, terapia génica y clonación (actividad
+    ''El hombre-araña: conceptos reales tras la ficción'').'
+  objetivos_especificos: Explicar conceptos de la manipulación genética con ejemplos cotidianos.
+  bloom: Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 2
+  oa:
+  - OA8
+  tema: Aplicaciones en la vida diaria
+  actividades: 'Estaciones: detergentes con enzimas, jeans y enzimas, insulina recombinante, vacunas,
+    CRISPR.'
+  objetivos_especificos: Analizar aplicaciones de la manipulación genética.
+  bloom: Analizar
+  evaluacion_formativa: Guía de estaciones
+- semana: 3
+  oa:
+  - OA8
+  tema: Transgénicos
+  actividades: Investigación de casos de transgénicos en Chile y en el mundo; preparación de argumentos.
+  objetivos_especificos: Investigar beneficios y riesgos de los organismos transgénicos.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Pauta de argumentos
+- semana: 4
+  oa:
+  - OA8
+  tema: Debate ético
+  actividades: Debate estructurado sobre transgénicos, clonación o edición genética humana.
+  objetivos_especificos: Evaluar las implicancias éticas y sociales de la manipulación genética.
+  bloom: Evaluar
+  evaluacion_formativa: Rúbrica de debate
+- semana: 5
+  oa:
+  - OA8
+  tema: Cierre de unidad
+  actividades: Evaluación escrita del OA8 y reflexión final del año.
+  objetivos_especificos: Evaluar la comprensión de las aplicaciones y sus implicancias.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa (OA8)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa de comprender conceptos de ingeniería genética a analizar aplicaciones, cerrando
+    con un debate para evaluar sus implicancias.

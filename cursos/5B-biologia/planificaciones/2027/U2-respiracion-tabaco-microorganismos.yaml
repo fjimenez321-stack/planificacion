@@ -1,0 +1,157 @@
+# Quinto Básico · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD II: Respiración, tabaco y microorganismos'
+  profesor: Felipe Jiménez
+  curso: Quinto Básico
+  asignatura: Biología
+  mes: Agosto a diciembre
+proposito: Explicar con modelos la respiración y el sistema respiratorio, investigar los efectos nocivos
+  del cigarrillo y reconocer microorganismos beneficiosos y dañinos, proponiendo medidas de cuidado del
+  cuerpo.
+objetivos:
+- oa: OA3
+  texto: Explicar por medio de modelos la respiración (inspiración-espiración-intercambio de oxígeno y
+    dióxido de carbono), identificando las estructuras básicas del sistema respiratorio (nariz, tráquea,
+    bronquios, alvéolos, pulmones).
+- oa: OA6
+  texto: Investigar en diversas fuentes y comunicar los efectos nocivos que produce el cigarrillo (humo
+    del tabaco) en los sistemas respiratorio y circulatorio.
+- oa: OA7
+  texto: Investigar e identificar algunos microorganismos beneficiosos y dañinos para la salud (bacterias,
+    virus y hongos), y proponer medidas de cuidado e higiene del cuerpo.
+duracion: 15 semanas (30 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA3
+  tema: ¿Para qué respiramos?
+  actividades: Ideas previas. Medición de frecuencia respiratoria en reposo y en actividad.
+  objetivos_especificos: Reconocer la respiración como un proceso vital.
+  bloom: Recordar
+  evaluacion_formativa: Registro de frecuencia respiratoria
+- semana: 2
+  oa:
+  - OA3
+  tema: Sistema respiratorio
+  actividades: 'Estructuras en una silueta: nariz, tráquea, bronquios, alvéolos y pulmones.'
+  objetivos_especificos: Identificar las estructuras del sistema respiratorio.
+  bloom: Comprender
+  evaluacion_formativa: Silueta rotulada
+- semana: 3
+  oa:
+  - OA3
+  tema: Modelo de pulmón
+  actividades: 'Construcción de un modelo con botella, globos y guante (diafragma): inspiración y espiración.'
+  objetivos_especificos: Explicar con un modelo la inspiración y la espiración.
+  bloom: Aplicar
+  evaluacion_formativa: Modelo con explicación
+- semana: 4
+  oa:
+  - OA3
+  tema: Intercambio de gases
+  actividades: Alvéolos y capilares; agua de cal o bromotimol para evidenciar CO2 en el aire espirado.
+  objetivos_especificos: Explicar el intercambio de oxígeno y dióxido de carbono.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ficha de experimento
+- semana: 5
+  oa:
+  - OA3
+  tema: Evaluación OA3
+  actividades: Evaluación escrita del OA3 y explicación oral del modelo.
+  objetivos_especificos: Evaluar la comprensión del sistema respiratorio.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA3)
+- semana: 6
+  oa:
+  - OA6
+  tema: ¿Qué tiene un cigarrillo?
+  actividades: Lectura de componentes del humo del tabaco; modelo de 'botella fumadora' con algodón (demostración
+    docente).
+  objetivos_especificos: Identificar sustancias nocivas del humo del tabaco.
+  bloom: Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 7
+  oa:
+  - OA6
+  tema: Efectos en los sistemas
+  actividades: Comparación de imágenes de pulmones sanos y de fumadores; efectos en los sistemas respiratorio
+    y circulatorio.
+  objetivos_especificos: Describir los efectos del cigarrillo en el cuerpo.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Cuadro de efectos
+- semana: 8
+  oa:
+  - OA6
+  tema: Investigación en fuentes
+  actividades: 'Investigación en equipos con fuentes entregadas (MINSAL, OMS): fumador pasivo, vapeadores,
+    publicidad.'
+  objetivos_especificos: Investigar en diversas fuentes los efectos del tabaco.
+  bloom: Analizar
+  evaluacion_formativa: Pauta de investigación
+- semana: 9
+  oa:
+  - OA6
+  tema: Campaña antitabaco
+  actividades: Elaboración de afiches o videos breves para la comunidad escolar.
+  objetivos_especificos: Comunicar los efectos nocivos del tabaco.
+  bloom: Crear
+  evaluacion_formativa: Avance de campaña
+- semana: 10
+  oa:
+  - OA6
+  tema: Evaluación OA6
+  actividades: Presentación de campañas con rúbrica.
+  objetivos_especificos: Evaluar y comunicar los efectos del cigarrillo.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA6) con rúbrica
+- semana: 11
+  oa:
+  - OA7
+  tema: El mundo invisible
+  actividades: 'Ideas previas sobre los microbios. Bacterias, virus y hongos: tamaños y formas.'
+  objetivos_especificos: Identificar tipos de microorganismos.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 12
+  oa:
+  - OA7
+  tema: Microorganismos beneficiosos
+  actividades: Experimento con levadura y azúcar (globo); yogur y pan. Microorganismos en los alimentos
+    y en el cuerpo.
+  objetivos_especificos: Reconocer microorganismos beneficiosos.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ficha de experimento
+- semana: 13
+  oa:
+  - OA7
+  tema: Microorganismos dañinos
+  actividades: Cultivo de hongos en pan húmedo vs. seco (observación durante la semana); enfermedades
+    frecuentes.
+  objetivos_especificos: Identificar microorganismos dañinos y las condiciones que los favorecen.
+  bloom: Analizar
+  evaluacion_formativa: Registro de observaciones
+- semana: 14
+  oa:
+  - OA7
+  tema: Higiene y prevención
+  actividades: Lavado de manos con pimienta y jabón o crema con brillantina; vacunas y medidas de higiene.
+  objetivos_especificos: Proponer medidas de cuidado e higiene del cuerpo.
+  bloom: Aplicar / Crear
+  evaluacion_formativa: Decálogo de higiene
+- semana: 15
+  oa:
+  - OA3
+  - OA6
+  - OA7
+  tema: Cierre de unidad
+  actividades: Evaluación escrita del OA7 e integración de la unidad.
+  objetivos_especificos: Evaluar los aprendizajes sobre microorganismos y cuidado del cuerpo.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°3 (OA7)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en tres ciclos (respiración, tabaco y microorganismos), desde describir y
+    modelar hasta investigar, analizar y proponer medidas de cuidado.

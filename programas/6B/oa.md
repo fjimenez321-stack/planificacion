@@ -40,7 +40,7 @@ Analizar los efectos de la actividad humana sobre las redes alimentarias.
 - `OA3-i4` Analizan situaciones que alteran el equilibrio natural (deforestación, contaminación y plantaciones) y proponen medidas preventivas y moderadoras a estos problemas, asumiendo compromisos personales.
 
 ### OA16
-Describir las características de las capas de la tierra (atmósfera, litósfera e hidrósfera) que posibilitan el desarrollo de la vida y proveen recursos para el ser humano, y proponer medidas de protección de dichas capas.
+Describir las características de las capas de la Tierra (atmósfera, litósfera e hidrósfera) que posibilitan el desarrollo de la vida y proveen recursos para el ser humano, y proponer medidas de protección de dichas capas.
 
 **Indicadores de evaluación:**
 
@@ -88,7 +88,7 @@ Identificar y describir las funciones de las principales estructuras del sistema
 - `OA4-i3` Representan, a partir de esquemas y diagramas, el sistema reproductor femenino y masculino.
 
 ### OA5
-Describir y comparar los cambios que se producen en la pubertad en mujeres y hombres, reconociéndola como una etapa del desarrollo humano.
+Describir y comparar los cambios que se producen en la pubertad en mujeres y hombres, reconociéndola, como una etapa del desarrollo humano.
 
 **Indicadores de evaluación:**
 

@@ -1,0 +1,154 @@
+# Primero Medio · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD I: Evolución y biodiversidad'
+  profesor: Felipe Jiménez
+  curso: Primero Medio
+  asignatura: Biología
+  mes: Marzo a mayo
+proposito: Explicar, basándose en evidencias del registro fósil, la anatomía comparada, la embriología
+  y la biología molecular, que la diversidad de organismos es resultado de la evolución por selección
+  natural, y comprender cómo se clasifica esa diversidad mediante criterios taxonómicos que cambian con
+  el conocimiento científico.
+objetivos:
+- oa: OA1
+  texto: 'Explicar, basándose en evidencias, que los fósiles: • Se forman a partir de restos de animales
+    y plantas. • Se forman en rocas sedimentarias. • Se ubican de acuerdo a su antigüedad en los estratos
+    de la Tierra.'
+- oa: OA2
+  texto: 'Analizar e interpretar datos para proveer de evidencias que apoyen que la diversidad de organismos
+    es el resultado de la evolución, considerando: • Evidencias de la evolución (como el registro fósil,
+    las estructuras anatómicas homólogas, la embriología y las secuencias de ADN). • Los postulados de
+    la teoría de la selección natural. • Los aportes de científicos como Darwin y Wallace a las teorías
+    evolutivas.'
+- oa: OA3
+  texto: Explicar, basándose en evidencias, que la clasificación de la diversidad de organismos se construye
+    a través del tiempo sobre la base de criterios taxonómicos que permiten organizarlos en grupos y subgrupos,
+    identificando sus relaciones de parentesco con ancestros comunes.
+duracion: 12 semanas (24 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA1
+  tema: Diagnóstico y ¿qué es un fósil?
+  actividades: 'KPSI de inicio de año sobre evolución y biodiversidad. Observación de fósiles (réplicas
+    o imágenes del MNHN). Lluvia de ideas: ¿cómo llega un organismo a ser roca? Normas de laboratorio
+    y cuaderno científico.'
+  objetivos_especificos: Identificar qué es un fósil y reconocer conocimientos previos sobre evolución.
+  bloom: Recordar
+  evaluacion_formativa: KPSI diagnóstico + ticket de salida
+- semana: 2
+  oa:
+  - OA1
+  tema: Fosilización y rocas sedimentarias
+  actividades: Modelo de fosilización con yeso y conchas (o plasticina) por capas. Relación entre la formación
+    de fósiles y las rocas sedimentarias. Esquema del proceso.
+  objetivos_especificos: Describir el proceso de fosilización y su relación con las rocas sedimentarias.
+  bloom: Comprender
+  evaluacion_formativa: Esquema rotulado del proceso de fosilización
+- semana: 3
+  oa:
+  - OA1
+  tema: Tiempo geológico y datación
+  actividades: 'Línea del tiempo geológico a escala en el pasillo (papel kraft). Principio de superposición
+    de estratos: actividad con cortes estratigráficos. Fósiles guía y datación relativa.'
+  objetivos_especificos: Explicar cómo los estratos y los fósiles permiten ordenar la historia de la vida
+    en la Tierra.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ejercicio de ordenamiento de estratos
+- semana: 4
+  oa:
+  - OA1
+  tema: Fósiles en Chile y combustibles fósiles
+  actividades: 'Estudio de casos: Monte Verde, ballenas de Cerro Ballena, ictiosaurios de Torres del Paine.
+    Relación fósiles–petróleo y carbón. Cierre del OA1 con mapa conceptual.'
+  objetivos_especificos: Relacionar los fósiles con la historia de la vida y con el origen de los combustibles
+    fósiles.
+  bloom: Aplicar
+  evaluacion_formativa: Mapa conceptual del OA1 con retroalimentación
+- semana: 5
+  oa:
+  - OA2
+  tema: Ideas sobre el origen de la diversidad
+  actividades: 'Comparación de las ideas de Lamarck y Darwin con casos (jirafas, polillas). Lectura guiada:
+    viaje del Beagle y paso de Darwin por Chile. Darwin y Wallace.'
+  objetivos_especificos: Comparar explicaciones históricas sobre la diversidad de los seres vivos.
+  bloom: Comprender
+  evaluacion_formativa: Cuadro comparativo Lamarck–Darwin
+- semana: 6
+  oa:
+  - OA1
+  - OA2
+  tema: Evaluación OA1 y evidencias de la evolución I
+  actividades: 'Evaluación escrita breve del OA1 (fósiles y tiempo geológico). Inicio de evidencias: anatomía
+    comparada con estructuras homólogas y análogas (extremidades de vertebrados).'
+  objetivos_especificos: Evaluar la comprensión del registro fósil e interpretar estructuras homólogas
+    como evidencia evolutiva.
+  bloom: Evaluar / Analizar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA1)
+- semana: 7
+  oa:
+  - OA2
+  tema: Evidencias de la evolución II
+  actividades: 'Embriología comparada (imágenes de embriones de vertebrados) y evidencia molecular: tabla
+    de diferencias de aminoácidos en citocromo c entre especies. Construcción de un árbol simple a partir
+    de los datos.'
+  objetivos_especificos: Analizar e interpretar datos embriológicos y moleculares como evidencia de ancestría
+    común.
+  bloom: Analizar
+  evaluacion_formativa: Guía de análisis de datos moleculares
+- semana: 8
+  oa:
+  - OA2
+  tema: 'Selección natural: modelo'
+  actividades: Simulación de selección natural con 'pinzones' (pinzas, cucharas y semillas) o polillas
+    sobre fondos de colores; registro de datos por generaciones y gráfico.
+  objetivos_especificos: Aplicar los postulados de la selección natural para explicar cambios en una población
+    simulada.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Informe breve de la simulación (gráfico + conclusión)
+- semana: 9
+  oa:
+  - OA2
+  tema: Variabilidad, mutación y especiación
+  actividades: 'Variabilidad dentro de las especies (medición de manos o semillas del curso, histograma).
+    Casos actuales: resistencia a antibióticos y a pesticidas. Concepto de especie y especiación.'
+  objetivos_especificos: Explicar el rol de la variabilidad y del ambiente en la evolución con casos actuales.
+  bloom: Analizar
+  evaluacion_formativa: 'Ticket de salida: caso de resistencia bacteriana'
+- semana: 10
+  oa:
+  - OA3
+  tema: Biodiversidad y clasificación
+  actividades: 'Clasificación libre de 20 objetos o seres vivos en grupos; discusión de criterios. Historia
+    de la taxonomía: Aristóteles, Linneo, nomenclatura binomial.'
+  objetivos_especificos: Explicar que la clasificación usa criterios que cambian en el tiempo.
+  bloom: Comprender
+  evaluacion_formativa: Clasificación justificada en equipo
+- semana: 11
+  oa:
+  - OA3
+  tema: Criterios taxonómicos y dominios
+  actividades: Uso de claves dicotómicas con especies nativas de Chile. Categorías taxonómicas y los tres
+    dominios/cinco reinos. Relación entre clasificación y evolución (cladogramas simples).
+  objetivos_especificos: Aplicar criterios taxonómicos para ubicar especies en grupos y subgrupos.
+  bloom: Aplicar
+  evaluacion_formativa: Clave dicotómica resuelta
+- semana: 12
+  oa:
+  - OA2
+  - OA3
+  tema: Proyecto integrador y evaluación de unidad
+  actividades: Ficha evolutiva de una especie chilena (clasificación, evidencias de su historia evolutiva,
+    adaptaciones). Evaluación escrita de OA2 y OA3.
+  objetivos_especificos: Evaluar e integrar evidencias evolutivas y criterios de clasificación en un producto
+    propio.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA2, OA3) + rúbrica de ficha
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad parte describiendo evidencias (fósiles), avanza a analizar e interpretar datos sobre
+    evolución y selección natural, y cierra aplicando y evaluando criterios de clasificación, con una
+    evaluación sumativa por bloque de OA y un producto integrador final.

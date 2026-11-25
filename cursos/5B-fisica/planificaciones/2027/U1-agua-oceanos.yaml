@@ -1,0 +1,159 @@
+# Quinto Básico · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD I: El agua en la Tierra y los océanos'
+  profesor: Felipe Jiménez
+  curso: Quinto Básico
+  asignatura: Física
+  mes: Marzo a junio
+proposito: Describir la distribución del agua dulce y salada en la Tierra y las características de océanos
+  y lagos, e investigar los efectos de la actividad humana sobre las reservas de agua, proponiendo acciones
+  para protegerlas en Chile.
+objetivos:
+- oa: OA12
+  texto: Describir la distribución del agua dulce y salada en la Tierra, considerando océanos, glaciares,
+    ríos y lagos, aguas subterráneas, nubes, vapor de agua, etc. y comparar sus volúmenes, reconociendo
+    la escasez relativa de agua dulce.
+- oa: OA13
+  texto: 'Analizar y describir las características de los océanos y lagos: • variación de temperatura,
+    luminosidad y presión en relación con la profundidad • diversidad de flora y fauna • movimiento de
+    las aguas, como olas, mareas, corrientes (El Niño y Humboldt)'
+- oa: OA14
+  texto: Investigar y explicar efectos positivos y negativos de la actividad humana en los océanos, lagos,
+    ríos, glaciares, entre otros, proponiendo acciones de protección de las reservas hídricas en Chile
+    y comunicando sus resultados.
+duracion: 15 semanas (30 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA12
+  tema: ¿Dónde está el agua?
+  actividades: 'Diagnóstico con dibujo. Globo terráqueo: ¿cuánta superficie es agua? Lanzamiento del globo
+    inflable y registro de dónde cae el dedo.'
+  objetivos_especificos: Reconocer la presencia de agua en la Tierra.
+  bloom: Recordar
+  evaluacion_formativa: Dibujo diagnóstico + ticket de salida
+- semana: 2
+  oa:
+  - OA12
+  tema: Agua dulce y salada
+  actividades: 'Modelo con 1 litro de agua: separación en vasos de océanos, glaciares, aguas subterráneas,
+    ríos y lagos.'
+  objetivos_especificos: Comparar los volúmenes de agua dulce y salada.
+  bloom: Comprender
+  evaluacion_formativa: Gráfico de distribución
+- semana: 3
+  oa:
+  - OA12
+  tema: El ciclo del agua
+  actividades: Ciclo del agua en una bolsa en la ventana; nubes, vapor y aguas subterráneas.
+  objetivos_especificos: Describir dónde se encuentra el agua en sus distintos estados.
+  bloom: Comprender
+  evaluacion_formativa: Esquema del ciclo
+- semana: 4
+  oa:
+  - OA12
+  tema: Agua dulce en Chile
+  actividades: Mapas de glaciares, ríos y lagos de Chile; escasez de agua en la zona central.
+  objetivos_especificos: Ubicar reservas de agua dulce en Chile.
+  bloom: Aplicar
+  evaluacion_formativa: Mapa con reservas
+- semana: 5
+  oa:
+  - OA12
+  tema: Evaluación OA12
+  actividades: Evaluación escrita del OA12.
+  objetivos_especificos: Evaluar la comprensión de la distribución del agua.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA12)
+- semana: 6
+  oa:
+  - OA13
+  tema: 'Océanos y lagos: profundidad'
+  actividades: Experimento de presión con botella perforada a distintas alturas; luz y temperatura en
+    profundidad (datos).
+  objetivos_especificos: Describir los cambios de temperatura, luminosidad y presión con la profundidad.
+  bloom: Comprender
+  evaluacion_formativa: Ficha de experimento
+- semana: 7
+  oa:
+  - OA13
+  tema: Vida en los océanos
+  actividades: Zonas del océano y su flora y fauna (fichas de especies chilenas).
+  objetivos_especificos: Describir la diversidad de flora y fauna según la zona del océano.
+  bloom: Comprender
+  evaluacion_formativa: Ficha de especie
+- semana: 8
+  oa:
+  - OA13
+  tema: Olas y mareas
+  actividades: Olas en una bandeja con agua; tabla de mareas de Valparaíso.
+  objetivos_especificos: 'Describir el movimiento de las aguas: olas y mareas.'
+  bloom: Aplicar
+  evaluacion_formativa: Interpretación de tabla de mareas
+- semana: 9
+  oa:
+  - OA13
+  tema: 'Corrientes: Humboldt y El Niño'
+  actividades: Corrientes con agua fría y caliente teñida; corriente de Humboldt y fenómeno de El Niño
+    en Chile.
+  objetivos_especificos: Explicar las corrientes oceánicas y sus efectos.
+  bloom: Analizar
+  evaluacion_formativa: Ticket de salida
+- semana: 10
+  oa:
+  - OA13
+  tema: Evaluación OA13
+  actividades: Evaluación escrita del OA13.
+  objetivos_especificos: Evaluar la comprensión de las características de océanos y lagos.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°2 (OA13)
+- semana: 11
+  oa:
+  - OA14
+  tema: Efectos humanos sobre el agua
+  actividades: 'Casos: plásticos en el mar, derrame de petróleo (modelo con aceite y plumas), retroceso
+    de glaciares.'
+  objetivos_especificos: Identificar efectos negativos de la actividad humana sobre el agua.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Ficha de caso
+- semana: 12
+  oa:
+  - OA14
+  tema: Efectos positivos y conservación
+  actividades: Áreas marinas protegidas, limpieza de playas, tratamiento de aguas.
+  objetivos_especificos: Identificar efectos positivos de la actividad humana.
+  bloom: Analizar
+  evaluacion_formativa: Cuadro de efectos
+- semana: 13
+  oa:
+  - OA14
+  tema: 'Investigación: el agua en mi comuna'
+  actividades: Investigación guiada sobre el consumo de agua en la casa (registro de una semana).
+  objetivos_especificos: Investigar el uso del agua en su entorno.
+  bloom: Analizar
+  evaluacion_formativa: Registro de consumo
+- semana: 14
+  oa:
+  - OA14
+  tema: Propuestas de protección
+  actividades: Diseño de acciones para proteger las reservas hídricas (afiche o maqueta).
+  objetivos_especificos: Proponer acciones de protección del agua.
+  bloom: Crear
+  evaluacion_formativa: Propuesta con retroalimentación
+- semana: 15
+  oa:
+  - OA12
+  - OA13
+  - OA14
+  tema: Cierre de unidad
+  actividades: Presentación de propuestas y evaluación escrita del OA14.
+  objetivos_especificos: Evaluar y comunicar acciones de protección del agua.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°3 (OA14) con rúbrica
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en tres ciclos, desde describir la distribución y las características del
+    agua hasta analizar datos y proponer acciones de protección de las reservas hídricas.

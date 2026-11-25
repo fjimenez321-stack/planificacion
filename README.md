@@ -31,13 +31,16 @@ python scripts/generar_docx.py cursos/2M-fisica/planificaciones/U3-energia-momen
 
 ## Cursos
 
-| Código | Programa | Planificaciones |
-|---|---|---|
-| `1M-biologia` | ✅ 8 OA · 54 indicadores | — |
-| `1M-fisica` | ✅ 8 OA · 59 indicadores | — |
-| `2M-biologia` | ✅ 8 OA · 47 indicadores | — |
-| `2M-fisica` | ✅ 6 OA · 37 indicadores | U3 (piloto) |
-| `5B-ciencias` | ✅ 14 OA · 78 indicadores | — |
-| `6B-ciencias` | ✅ 18 OA · 95 indicadores | — |
+| Curso | Planificaciones |
+|---|---|
+| `1M-biologia` | 2027: 4 unidades, 36 semanas (borrador) |
+| `1M-fisica` | 2027: 4 unidades, 36 semanas (borrador) + 2026: U4 |
+| `2M-biologia` | 2027: 4 unidades, 36 semanas (borrador) |
+| `2M-fisica` | 2027: 4 unidades, 36 semanas (borrador) + 2026: U3 |
+| `5B-biologia` | 2027: 2 unidades, 36 semanas (borrador) |
+| `5B-fisica` | 2027: 2 unidades, 36 semanas (borrador) |
+| `6B-biologia` | 2027: 2 unidades, 36 semanas (borrador) |
+| `6B-fisica` | 2027: 3 unidades, 36 semanas (borrador) |
 
+5° y 6° Básico: Ciencias Naturales separada por ejes (Biología = Ciencias de la vida; Física = Físicas y químicas + Tierra y Universo).
 Programas completos, incluido el eje Química, en `programas/<nivel>/`.

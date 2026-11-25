@@ -1,0 +1,69 @@
+# Primero Medio · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD IV: Impactos en ecosistemas y sustentabilidad'
+  profesor: Felipe Jiménez
+  curso: Primero Medio
+  asignatura: Biología
+  mes: Noviembre y diciembre
+proposito: Explicar y evaluar los efectos de las acciones humanas y de los fenómenos naturales sobre los
+  ecosistemas, y proponer medidas para su sustentabilidad.
+objetivos:
+- oa: OA8
+  texto: 'Explicar y evaluar los efectos de acciones humanas (conservación ambiental, cultivos, forestación
+    y deforestación, entre otras) y de fenómenos naturales (sequías, erupciones volcánicas, entre otras)
+    en relación con: • El equilibrio de los ecosistemas. • La disponibilidad de recursos naturales renovables
+    y no renovables. • Las posibles medidas para un desarrollo sustentable.'
+duracion: 5 semanas (10 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA8
+  tema: Impactos humanos y naturales
+  actividades: 'Lluvia de ideas y clasificación de impactos: deforestación, incendios, sequía, erupciones,
+    contaminación. Casos: incendios en Valparaíso y Viña del Mar, sequía en Chile central.'
+  objetivos_especificos: Identificar acciones humanas y fenómenos naturales que afectan a los ecosistemas.
+  bloom: Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 2
+  oa:
+  - OA8
+  tema: Casos chilenos
+  actividades: 'Estudio de casos en equipos: industria salmonera, Patagonia, humedales urbanos, plantaciones
+    forestales. Efectos sobre biodiversidad y ciclos.'
+  objetivos_especificos: Analizar los efectos de una acción humana sobre un ecosistema chileno.
+  bloom: Analizar
+  evaluacion_formativa: Guía de caso
+- semana: 3
+  oa:
+  - OA8
+  tema: Cambio climático
+  actividades: Análisis de datos de temperatura y CO2. Relación con el ciclo del carbono. Huella de carbono
+    personal.
+  objetivos_especificos: Analizar evidencias del cambio climático y su relación con la actividad humana.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Cálculo de huella de carbono
+- semana: 4
+  oa:
+  - OA8
+  tema: 'Sustentabilidad: propuestas'
+  actividades: Diseño de una propuesta para el colegio o la comuna (reciclaje, huerto, ahorro de agua,
+    arquitectura sustentable).
+  objetivos_especificos: Proponer medidas de sustentabilidad fundamentadas.
+  bloom: Crear
+  evaluacion_formativa: Avance de propuesta con retroalimentación
+- semana: 5
+  oa:
+  - OA8
+  tema: Presentación y evaluación
+  actividades: Feria de propuestas y evaluación sumativa del OA8 con rúbrica (diagnóstico, evidencia,
+    propuesta, factibilidad).
+  objetivos_especificos: Evaluar impactos ambientales y comunicar propuestas sustentables.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: 'Evaluación sumativa (OA8): rúbrica de propuesta'
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa de comprender impactos a analizar casos chilenos, para cerrar evaluando y
+    creando propuestas de sustentabilidad.

@@ -1,0 +1,89 @@
+# Segundo Medio · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD II: Fuerza'
+  profesor: Felipe Jiménez
+  curso: Segundo Medio
+  asignatura: Física
+  mes: Mayo a julio
+proposito: Explicar, por medio de investigaciones experimentales, los efectos de una fuerza neta sobre
+  un objeto, utilizando las leyes de Newton, el diagrama de cuerpo libre y la ley de Hooke.
+objetivos:
+- oa: OA10
+  texto: Explicar, por medio de investigaciones experimentales, los efectos que tiene una fuerza neta
+    sobre un objeto, utilizando las leyes de Newton y el diagrama de cuerpo libre.
+duracion: 8 semanas (16 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA10
+  tema: ¿Qué es una fuerza?
+  actividades: KPSI. Interacciones de contacto y a distancia; carácter vectorial (tira y afloja con dinamómetros).
+  objetivos_especificos: Identificar la fuerza como interacción y su carácter vectorial.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: KPSI + ticket de salida
+- semana: 2
+  oa:
+  - OA10
+  tema: Peso, normal y roce
+  actividades: 'Dinamómetro: peso de objetos; roce estático y cinético arrastrando un bloque sobre distintas
+    superficies.'
+  objetivos_especificos: Describir cualitativa y cuantitativamente el peso, la normal y el roce.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Registro de mediciones
+- semana: 3
+  oa:
+  - OA10
+  tema: Primera ley de Newton
+  actividades: Moneda sobre tarjeta y vaso, mantel. Inercia y cinturón de seguridad.
+  objetivos_especificos: Explicar el principio de inercia en situaciones cotidianas.
+  bloom: Comprender
+  evaluacion_formativa: Guía de situaciones
+- semana: 4
+  oa:
+  - OA10
+  tema: Segunda ley y diagrama de cuerpo libre
+  actividades: Carro con distintas masas y fuerzas (o PhET 'Fuerzas y movimiento'). Construcción de diagramas
+    de cuerpo libre y cálculo de la fuerza neta.
+  objetivos_especificos: Aplicar la segunda ley de Newton con diagramas de cuerpo libre.
+  bloom: Aplicar
+  evaluacion_formativa: Ejercicios diferenciados
+- semana: 5
+  oa:
+  - OA10
+  tema: Tercera ley de Newton
+  actividades: Globos a reacción en un hilo, patinetas, cohete de agua (demostración). Pares acción–reacción.
+  objetivos_especificos: Explicar pares de acción y reacción.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ticket de salida
+- semana: 6
+  oa:
+  - OA10
+  tema: Evaluación N°1
+  actividades: Evaluación escrita de las leyes de Newton y del diagrama de cuerpo libre.
+  objetivos_especificos: Evaluar la aplicación de las leyes de Newton.
+  bloom: Evaluar
+  evaluacion_formativa: 'Evaluación sumativa N°1 (OA10: leyes de Newton)'
+- semana: 7
+  oa:
+  - OA10
+  tema: Ley de Hooke
+  actividades: 'Investigación experimental: resorte con masas, gráfico F–x y constante elástica.'
+  objetivos_especificos: Investigar la relación entre fuerza y deformación de un resorte.
+  bloom: Analizar
+  evaluacion_formativa: Informe de laboratorio
+- semana: 8
+  oa:
+  - OA10
+  tema: Aplicaciones y cierre
+  actividades: Análisis de situaciones con fuerzas (frenado, curvas, ascensores). Presentación de informes
+    de la ley de Hooke con rúbrica.
+  objetivos_especificos: Analizar el efecto de la fuerza neta en situaciones cotidianas.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: 'Evaluación sumativa N°2 (OA10: ley de Hooke) con rúbrica'
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad parte de identificar las fuerzas, avanza a aplicar las leyes de Newton y el diagrama
+    de cuerpo libre y cierra investigando y evaluando experimentalmente la ley de Hooke.

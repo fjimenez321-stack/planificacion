@@ -1,0 +1,215 @@
+# Quinto Básico · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD I: Cuerpo humano: células, digestión y circulación'
+  profesor: Felipe Jiménez
+  curso: Quinto Básico
+  asignatura: Biología
+  mes: Marzo a agosto
+proposito: Reconocer que los seres vivos están formados por células organizadas en tejidos, órganos y
+  sistemas, y explicar con modelos la estructura y función de los sistemas digestivo y circulatorio, relacionándolos
+  con una alimentación saludable.
+objetivos:
+- oa: OA1
+  texto: Reconocer y explicar que los seres vivos están formados por una o más células y que estas se
+    organizan en tejidos, órganos y sistemas.
+- oa: OA2
+  texto: Identificar y describir por medio de modelos las estructuras básicas del sistema digestivo (boca,
+    esófago, estómago, hígado, intestino delgado, intestino grueso, recto y ano) y sus funciones en la
+    digestión, la absorción de alimentos y la eliminación de desechos.
+- oa: OA4
+  texto: Explicar la función de transporte del sistema circulatorio (sustancias alimenticias, oxígeno
+    y dióxido de carbono), identificando sus estructuras básicas (corazón, vasos sanguíneos y sangre).
+- oa: OA5
+  texto: Analizar el consumo de alimento diario (variedad, tamaño y frecuencia de porciones) reconociendo
+    los alimentos para el crecimiento, la reparación, el desarrollo y el movimiento del cuerpo.
+duracion: 21 semanas (42 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA1
+  tema: ¿De qué estamos hechos?
+  actividades: 'Diagnóstico con dibujo libre del interior del cuerpo. Normas del laboratorio. Lupas: observación
+    de hojas, piel de cebolla y tela.'
+  objetivos_especificos: Reconocer ideas previas sobre la constitución de los seres vivos.
+  bloom: Recordar
+  evaluacion_formativa: Dibujo diagnóstico + ticket de salida
+- semana: 2
+  oa:
+  - OA1
+  tema: La célula
+  actividades: 'Uso del microscopio: células de cebolla y de mucosa bucal (o imágenes). Partes básicas
+    de la célula.'
+  objetivos_especificos: Identificar la célula como unidad de los seres vivos.
+  bloom: Comprender
+  evaluacion_formativa: Dibujo científico rotulado
+- semana: 3
+  oa:
+  - OA1
+  tema: Unicelulares y pluricelulares
+  actividades: Observación de agua de charco o imágenes de protozoos; comparación con organismos pluricelulares.
+  objetivos_especificos: Distinguir organismos unicelulares y pluricelulares.
+  bloom: Comprender
+  evaluacion_formativa: Cuadro comparativo
+- semana: 4
+  oa:
+  - OA1
+  tema: Niveles de organización
+  actividades: 'Modelo de muñecas rusas o cajas: célula → tejido → órgano → sistema → organismo. Juego
+    de tarjetas.'
+  objetivos_especificos: Ordenar los niveles de organización de los seres vivos.
+  bloom: Aplicar
+  evaluacion_formativa: Organizador gráfico
+- semana: 5
+  oa:
+  - OA1
+  tema: Evaluación OA1
+  actividades: Evaluación escrita breve del OA1 y retroalimentación.
+  objetivos_especificos: Evaluar la comprensión de la organización celular.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA1)
+- semana: 6
+  oa:
+  - OA2
+  tema: ¿Qué pasa con lo que comemos?
+  actividades: 'Ideas previas: recorrido del alimento. Estructuras del sistema digestivo en una silueta
+    a tamaño real.'
+  objetivos_especificos: Identificar las estructuras del sistema digestivo.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Silueta rotulada
+- semana: 7
+  oa:
+  - OA2
+  tema: Digestión mecánica y química
+  actividades: 'Experimento: galleta en bolsa con agua (masticación) y pan con saliva (sabor dulce).'
+  objetivos_especificos: Describir la digestión mecánica y química.
+  bloom: Comprender
+  evaluacion_formativa: Ficha de experimento
+- semana: 8
+  oa:
+  - OA2
+  tema: Modelo del tubo digestivo
+  actividades: Modelo con medias, bolsas y embudo para representar el recorrido del alimento.
+  objetivos_especificos: Representar con un modelo la digestión y la absorción.
+  bloom: Aplicar
+  evaluacion_formativa: Modelo con explicación oral
+- semana: 9
+  oa:
+  - OA2
+  tema: Absorción y eliminación
+  actividades: Intestino delgado y vellosidades (toalla doblada); intestino grueso, recto y ano.
+  objetivos_especificos: Explicar la absorción de nutrientes y la eliminación de desechos.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ticket de salida
+- semana: 10
+  oa:
+  - OA2
+  tema: Evaluación OA2
+  actividades: Presentación de modelos y evaluación escrita del OA2.
+  objetivos_especificos: Evaluar la comprensión del sistema digestivo.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°2 (OA2) + rúbrica del modelo
+- semana: 11
+  oa:
+  - OA4
+  tema: El corazón
+  actividades: Medición del pulso en reposo y después de saltar; registro en tabla. Estructura del corazón
+    (modelo o video).
+  objetivos_especificos: Describir la estructura y función del corazón.
+  bloom: Comprender
+  evaluacion_formativa: Tabla de pulsaciones
+- semana: 12
+  oa:
+  - OA4
+  tema: Vasos sanguíneos y sangre
+  actividades: Arterias, venas y capilares; componentes de la sangre (modelo en frasco con cereales y
+    dulces).
+  objetivos_especificos: Identificar los vasos sanguíneos y los componentes de la sangre.
+  bloom: Comprender
+  evaluacion_formativa: Modelo de sangre rotulado
+- semana: 13
+  oa:
+  - OA4
+  tema: Función de transporte
+  actividades: 'Juego de roles en el patio: glóbulos que transportan oxígeno, nutrientes y dióxido de
+    carbono entre ''pulmones'', ''intestino'' y ''células''.'
+  objetivos_especificos: Explicar la función de transporte del sistema circulatorio.
+  bloom: Aplicar
+  evaluacion_formativa: Diagrama del recorrido
+- semana: 14
+  oa:
+  - OA4
+  tema: Circulación e integración de sistemas
+  actividades: Relación entre los sistemas digestivo y circulatorio (nutrientes) y anticipo del respiratorio
+    (oxígeno).
+  objetivos_especificos: Relacionar el sistema circulatorio con otros sistemas.
+  bloom: Analizar
+  evaluacion_formativa: Mapa conceptual
+- semana: 15
+  oa:
+  - OA4
+  tema: Evaluación OA4
+  actividades: Evaluación escrita del OA4.
+  objetivos_especificos: Evaluar la comprensión del sistema circulatorio.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°3 (OA4)
+- semana: 16
+  oa:
+  - OA5
+  tema: ¿Qué comemos?
+  actividades: Registro de lo que comen en un día (diario de alimentación). Grupos de alimentos.
+  objetivos_especificos: Identificar los grupos de alimentos en su dieta.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Diario de alimentación
+- semana: 17
+  oa:
+  - OA5
+  tema: Función de los alimentos
+  actividades: Alimentos para crecer, reparar, dar energía y moverse; guía alimentaria y plato saludable
+    del MINSAL.
+  objetivos_especificos: Clasificar alimentos según su función en el cuerpo.
+  bloom: Comprender
+  evaluacion_formativa: Clasificación de alimentos
+- semana: 18
+  oa:
+  - OA5
+  tema: Porciones y frecuencia
+  actividades: 'Análisis del diario: variedad, tamaño y frecuencia de porciones; sellos ''ALTO EN'' en
+    envases.'
+  objetivos_especificos: Analizar su consumo diario de alimentos.
+  bloom: Analizar
+  evaluacion_formativa: Análisis guiado del diario
+- semana: 19
+  oa:
+  - OA5
+  tema: Colaciones saludables
+  actividades: Diseño de un menú o colación saludable para el curso con presupuesto.
+  objetivos_especificos: Proponer una alimentación equilibrada.
+  bloom: Aplicar / Crear
+  evaluacion_formativa: Menú con retroalimentación
+- semana: 20
+  oa:
+  - OA5
+  tema: Feria de alimentación
+  actividades: Presentación de menús saludables a otro curso.
+  objetivos_especificos: Comunicar una alimentación saludable fundamentada.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Rúbrica de presentación
+- semana: 21
+  oa:
+  - OA1
+  - OA2
+  - OA4
+  - OA5
+  tema: Cierre de unidad
+  actividades: 'Evaluación integradora: el viaje de un alimento desde la boca hasta las células.'
+  objetivos_especificos: Evaluar e integrar los aprendizajes de la unidad.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°4 (OA5 e integración)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en cuatro ciclos (células, digestión, circulación y alimentación), cada uno
+    desde observar y describir hasta modelar, analizar y evaluar, con evaluaciones sumativas al cierre
+    de cada OA.

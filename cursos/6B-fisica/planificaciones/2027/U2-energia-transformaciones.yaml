@@ -1,0 +1,151 @@
+# Sexto Básico · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD II: Energía y sus transformaciones'
+  profesor: Felipe Jiménez
+  curso: Sexto Básico
+  asignatura: Física
+  mes: Mayo a septiembre
+proposito: Explicar que la energía es necesaria para los cambios y los procesos vitales y que proviene
+  en su mayoría del Sol, investigar experimentalmente sus transformaciones y el flujo de calor, y clasificar
+  los recursos energéticos proponiendo un uso responsable.
+objetivos:
+- oa: OA8
+  texto: Explicar que la energía es necesaria para que los objetos cambien y los seres vivos realicen
+    sus procesos vitales y que la mayoría de los recursos energéticos proviene directa o indirectamente
+    del Sol, dando ejemplos de ello.
+- oa: OA9
+  texto: Investigar en forma experimental la transformación de la energía de una forma a otra, dando ejemplos
+    y comunicando sus conclusiones.
+- oa: OA10
+  texto: Demostrar, por medio de la investigación experimental, que el calor fluye de un objeto caliente
+    a uno frío hasta que ambos alcanzan la misma temperatura.
+- oa: OA11
+  texto: Clasificar los recursos naturales energéticos en no renovables y renovables y proponer medidas
+    para el uso responsable de la energía.
+duracion: 14 semanas (28 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA8
+  tema: ¿Qué es la energía?
+  actividades: Diagnóstico. Situaciones de cambio (objetos que se mueven, calientan o iluminan) y procesos
+    vitales.
+  objetivos_especificos: Reconocer la energía como necesaria para los cambios.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 2
+  oa:
+  - OA8
+  tema: Formas de energía
+  actividades: 'Estaciones: lumínica, calórica, eléctrica, sonora, cinética y química.'
+  objetivos_especificos: Identificar distintas formas de energía.
+  bloom: Comprender
+  evaluacion_formativa: Guía de estaciones
+- semana: 3
+  oa:
+  - OA8
+  tema: El Sol como fuente
+  actividades: 'Cadena de energía: Sol → planta → alimento → persona; combustibles fósiles como energía
+    solar almacenada.'
+  objetivos_especificos: Explicar que la mayoría de los recursos energéticos proviene del Sol.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Diagrama de cadena de energía
+- semana: 4
+  oa:
+  - OA8
+  tema: Evaluación OA8
+  actividades: Evaluación escrita del OA8.
+  objetivos_especificos: Evaluar la comprensión de la energía y su origen.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA8)
+- semana: 5
+  oa:
+  - OA9
+  tema: Transformaciones de energía
+  actividades: 'Experimentos: molinete con vapor, linterna de dínamo, celda solar, frotarse las manos.'
+  objetivos_especificos: Investigar experimentalmente transformaciones de energía.
+  bloom: Aplicar
+  evaluacion_formativa: Tabla de transformaciones
+- semana: 6
+  oa:
+  - OA9
+  tema: Cadenas de transformación
+  actividades: 'Análisis de artefactos y centrales: de qué forma a qué forma se transforma la energía.'
+  objetivos_especificos: Explicar transformaciones de energía con ejemplos.
+  bloom: Analizar
+  evaluacion_formativa: Ficha de análisis
+- semana: 7
+  oa:
+  - OA9
+  tema: Comunicar conclusiones
+  actividades: Diseño de un juguete o máquina simple que transforme energía (molino, auto con globo).
+  objetivos_especificos: Comunicar conclusiones sobre transformaciones de energía.
+  bloom: Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA9) con rúbrica
+- semana: 8
+  oa:
+  - OA10
+  tema: El calor fluye
+  actividades: 'Ideas previas. Vaso de agua caliente dentro de agua fría con termómetros: registro cada
+    minuto.'
+  objetivos_especificos: Demostrar que el calor fluye de un objeto caliente a uno frío.
+  bloom: Aplicar
+  evaluacion_formativa: Tabla y gráfico de temperaturas
+- semana: 9
+  oa:
+  - OA10
+  tema: Equilibrio térmico
+  actividades: Análisis del gráfico obtenido; situaciones cotidianas (té que se enfría, mano en la baranda).
+  objetivos_especificos: Explicar el equilibrio térmico.
+  bloom: Analizar
+  evaluacion_formativa: Ticket de salida
+- semana: 10
+  oa:
+  - OA10
+  tema: Conductores y aislantes térmicos
+  actividades: Cucharas de distintos materiales en agua caliente; diseño de un termo con materiales reciclados.
+  objetivos_especificos: Aplicar el flujo de calor para conservar la temperatura.
+  bloom: Aplicar / Crear
+  evaluacion_formativa: 'Evaluación sumativa N°3 (OA10): desafío del termo'
+- semana: 11
+  oa:
+  - OA11
+  tema: Recursos energéticos
+  actividades: 'Clasificación de recursos: renovables y no renovables (fichas).'
+  objetivos_especificos: Clasificar los recursos energéticos.
+  bloom: Comprender
+  evaluacion_formativa: Clasificación en tabla
+- semana: 12
+  oa:
+  - OA11
+  tema: Energía en Chile
+  actividades: 'Matriz energética de Chile: solar en el norte, eólica, hidroeléctrica, carbón.'
+  objetivos_especificos: Analizar las fuentes de energía de Chile.
+  bloom: Analizar
+  evaluacion_formativa: Análisis de gráfico
+- semana: 13
+  oa:
+  - OA11
+  tema: Uso responsable de la energía
+  actividades: Medidas de ahorro en el hogar y en el colegio; campaña breve.
+  objetivos_especificos: Proponer medidas para el uso responsable de la energía.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Afiche de campaña
+- semana: 14
+  oa:
+  - OA8
+  - OA9
+  - OA10
+  - OA11
+  tema: Cierre de unidad
+  actividades: Evaluación escrita del OA11 e integración de la unidad.
+  objetivos_especificos: Evaluar los aprendizajes sobre la energía.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°4 (OA11)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en cuatro ciclos, desde reconocer la energía en el entorno a investigar experimentalmente
+    sus transformaciones y el calor, y evaluar el uso de los recursos energéticos.

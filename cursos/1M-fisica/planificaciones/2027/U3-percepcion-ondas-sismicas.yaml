@@ -1,0 +1,103 @@
+# Primero Medio · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD III: Percepción sonora y visual y ondas sísmicas'
+  profesor: Felipe Jiménez
+  curso: Primero Medio
+  asignatura: Física
+  mes: Agosto a octubre
+proposito: Describir el funcionamiento del oído y del ojo humano como receptores de ondas, y explicar
+  el origen y la propagación de la energía liberada en un sismo mediante el modelo ondulatorio, valorando
+  la prevención en un país sísmico como Chile.
+objetivos:
+- oa: OA12
+  texto: 'Explorar y describir el funcionamiento del oído y del ojo humano, considerando: • La recepción
+    de ondas sonoras y luminosas. • El espectro sonoro y de la luz visible. • Sus capacidades, limitaciones
+    y consecuencias sociales. • La tecnología correctiva (lentes y audífonos).'
+- oa: OA13
+  texto: 'Describir el origen y la propagación, por medio del modelo ondulatorio, de la energía liberada
+    en un sismo, considerando: • Los parámetros que lo describen (epicentro, hipocentro, área de ruptura,
+    magnitud e intensidad). • Los tipos de ondas sísmicas (primarias, secundarias y superficiales). •
+    Su medición y registro (sismógrafo, escalas sísmicas). • Sus consecuencias directas e indirectas en
+    la superficie de la Tierra (como tsunamis) y en la sociedad. • Su importancia en geología, por ejemplo,
+    en el estudio de la estructura interna de la Tierra.'
+duracion: 8 semanas (16 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA12
+  tema: El oído y la audición
+  actividades: 'Modelo del oído (estructuras y función). Espectro sonoro: rango de audición humano vs.
+    animales (gráfico). Test de audición con app.'
+  objetivos_especificos: Describir el funcionamiento del oído y el rango audible.
+  bloom: Comprender
+  evaluacion_formativa: Esquema rotulado del oído
+- semana: 2
+  oa:
+  - OA12
+  tema: El ojo y la visión
+  actividades: 'Modelo de ojo con globo de agua o lupa y pantalla. Disección de ojo (opcional). Espectro
+    visible y defectos visuales: miopía, hipermetropía y su corrección con lentes.'
+  objetivos_especificos: Explicar el funcionamiento del ojo y la corrección de defectos visuales.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ficha del modelo de ojo
+- semana: 3
+  oa:
+  - OA12
+  tema: Cuidados de la vista y la audición
+  actividades: Análisis de datos de exposición a ruido (audífonos, conciertos) y uso de pantallas. Campaña
+    breve de cuidado.
+  objetivos_especificos: Evaluar riesgos para la audición y la visión y proponer cuidados.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Afiche de campaña
+- semana: 4
+  oa:
+  - OA12
+  - OA13
+  tema: Evaluación OA12 y origen de los sismos
+  actividades: Evaluación escrita del OA12. Tectónica de placas y origen de los sismos en Chile (placa
+    de Nazca y Sudamericana). Hipocentro y epicentro.
+  objetivos_especificos: Evaluar la comprensión del OA12 y explicar el origen de los sismos.
+  bloom: Evaluar / Comprender
+  evaluacion_formativa: Evaluación sumativa N°1 (OA12)
+- semana: 5
+  oa:
+  - OA13
+  tema: Ondas sísmicas
+  actividades: Slinky para modelar ondas P y S. Ondas superficiales. Interior de la Tierra deducido desde
+    las ondas sísmicas.
+  objetivos_especificos: Describir los tipos de ondas sísmicas y su propagación.
+  bloom: Comprender
+  evaluacion_formativa: Guía de ondas sísmicas
+- semana: 6
+  oa:
+  - OA13
+  tema: Escalas y sismogramas
+  actividades: Lectura de sismogramas reales (CSN). Triangulación del epicentro con datos de tres estaciones.
+    Escalas de magnitud y de intensidad.
+  objetivos_especificos: Analizar sismogramas y ubicar un epicentro.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Ejercicio de triangulación
+- semana: 7
+  oa:
+  - OA13
+  tema: Tsunamis y prevención
+  actividades: 'Simulación de tsunami en una bandeja con agua. Casos: 2010 y 2015 en Chile. Plan de evacuación
+    del colegio y de la casa.'
+  objetivos_especificos: Explicar la generación de tsunamis y evaluar medidas de prevención.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Plan de emergencia familiar
+- semana: 8
+  oa:
+  - OA13
+  tema: Cierre y evaluación de unidad
+  actividades: Evaluación escrita del OA13 y presentación de planes de emergencia.
+  objetivos_especificos: Evaluar la comprensión de los sismos y de su prevención.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA13)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad repite la progresión en dos ciclos, uno por OA, desde comprender estructuras y conceptos
+    hasta analizar datos y evaluar medidas de prevención y cuidado.

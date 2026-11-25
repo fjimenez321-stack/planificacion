@@ -4,13 +4,13 @@ argument-hint: <curso> <unidad> [semanas] [meses]   ej: 2M-fisica "Unidad 4" 8 "
 ---
 Planifica una unidad nueva: $ARGUMENTS
 
-1. Lee `CLAUDE.md`, `formato/FORMATO.md` y el ejemplo `cursos/2M-fisica/planificaciones/U3-energia-momentum.yaml`.
+1. Lee `CLAUDE.md`, `formato/FORMATO.md` y el ejemplo `cursos/2M-fisica/planificaciones/2026/U3-energia-momentum.yaml`.
 2. Lee `cursos/<curso>/programa/oa.md`. Si los OA de esta unidad no están, **detente** y pide la fuente oficial (Regla 2).
 3. Revisa la unidad anterior del curso, sus registros y sus evaluaciones para detectar:
    - OA o indicadores con logro bajo que convenga retomar como activación,
    - metodologías que funcionaron o no funcionaron, según los registros.
 4. Si faltan datos (cantidad de semanas, meses, horas por semana, fechas fijas), pregúntalos en un solo mensaje.
-5. Escribe `cursos/<curso>/planificaciones/U<n>-<slug>.yaml` con `estado: borrador` y `version: 1`:
+5. Escribe `cursos/<curso>/planificaciones/<año>/U<n>-<slug>.yaml` con `estado: borrador`, `version: 1` y `anio`:
    - OA literales,
    - progresión Bloom por ciclo de OA,
    - una evaluación formativa por semana y al menos una sumativa por OA,

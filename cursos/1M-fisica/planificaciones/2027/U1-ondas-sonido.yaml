@@ -1,0 +1,104 @@
+# Primero Medio · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD I: Ondas y sonido'
+  profesor: Felipe Jiménez
+  curso: Primero Medio
+  asignatura: Física
+  mes: Marzo y abril
+proposito: Comprender, mediante modelos y experimentos, que las ondas transmiten energía y que pueden
+  reflejarse, refractarse y absorberse, y explicar fenómenos del sonido perceptibles por las personas
+  usando el modelo ondulatorio.
+objetivos:
+- oa: OA9
+  texto: 'Demostrar que comprende, por medio de la creación de modelos y experimentos, que las ondas transmiten
+    energía y que se pueden reflejar, refractar y absorber, explicando y considerando: • Sus características
+    (amplitud, frecuencia, longitud de onda y velocidad de propagación, entre otras). • Los criterios
+    para clasificarlas (mecánicas, electromagnéticas, transversales, longitudinales, superficiales).'
+- oa: OA10
+  texto: 'Explicar fenómenos del sonido perceptibles por las personas, como el eco, la resonancia y el
+    efecto Doppler, entre otros, utilizando el modelo ondulatorio y por medio de la experimentación, considerando
+    sus: • Características y cualidades (intensidad, tono, timbre y rapidez). • Emisiones (en cuerdas
+    vocales, en parlantes e instrumentos musicales). • Consecuencias (contaminación y medio de comunicación).
+    • Aplicaciones tecnológicas (ecógrafo, sonar y estetoscopio, entretención, entre otras).'
+duracion: 8 semanas (16 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA9
+  tema: ¿Qué es una onda?
+  actividades: 'KPSI diagnóstico. Ondas en el agua (cubeta o fuente) y en un resorte (slinky): pulso,
+    onda viajera, transporte de energía sin transporte de materia.'
+  objetivos_especificos: Identificar una onda como una perturbación que transporta energía.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: KPSI + ticket de salida
+- semana: 2
+  oa:
+  - OA9
+  tema: Clasificación y elementos de una onda
+  actividades: 'Slinky: ondas transversales y longitudinales; mecánicas y electromagnéticas. Elementos:
+    amplitud, longitud de onda, período, frecuencia (esquema rotulado).'
+  objetivos_especificos: Clasificar ondas y describir sus elementos.
+  bloom: Comprender
+  evaluacion_formativa: Esquema rotulado de elementos
+- semana: 3
+  oa:
+  - OA9
+  tema: Rapidez de propagación
+  actividades: Medición de la rapidez de un pulso en una cuerda o slinky (cronómetro). Ecuación v = λ·f
+    y ejercicios contextualizados.
+  objetivos_especificos: Aplicar la relación entre rapidez, longitud de onda y frecuencia.
+  bloom: Aplicar
+  evaluacion_formativa: Guía de ejercicios diferenciada
+- semana: 4
+  oa:
+  - OA9
+  tema: Reflexión, refracción, absorción e interferencia
+  actividades: Cubeta de ondas o simulación PhET 'Onda en una cuerda' y 'Interferencia de ondas'. Ondas
+    estacionarias en una cuerda.
+  objetivos_especificos: Explicar fenómenos ondulatorios con modelos y simulaciones.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Guía de simulación
+- semana: 5
+  oa:
+  - OA9
+  - OA10
+  tema: Evaluación OA9 y el sonido como onda
+  actividades: 'Evaluación escrita del OA9. El sonido como onda mecánica longitudinal: diapasón en agua,
+    vela frente a parlante.'
+  objetivos_especificos: Evaluar la comprensión de las ondas y caracterizar el sonido como onda mecánica.
+  bloom: Evaluar / Comprender
+  evaluacion_formativa: Evaluación sumativa N°1 (OA9)
+- semana: 6
+  oa:
+  - OA10
+  tema: Características del sonido
+  actividades: 'App de sonómetro y generador de frecuencias en celulares: intensidad (dB), tono (frecuencia)
+    y timbre. Rango audible y rapidez del sonido en distintos medios.'
+  objetivos_especificos: Relacionar intensidad, tono y timbre con las magnitudes de la onda sonora.
+  bloom: Aplicar
+  evaluacion_formativa: Registro de mediciones con app
+- semana: 7
+  oa:
+  - OA10
+  tema: Fenómenos sonoros
+  actividades: 'Estaciones: eco (medición de distancia a un muro), resonancia (copas, diapasones), efecto
+    Doppler (bocina en movimiento o video), pulsaciones. Contaminación acústica.'
+  objetivos_especificos: Explicar el eco, la resonancia y el efecto Doppler con el modelo ondulatorio.
+  bloom: Analizar
+  evaluacion_formativa: Guía de estaciones
+- semana: 8
+  oa:
+  - OA10
+  tema: Instrumentos musicales y cierre
+  actividades: Construcción de un instrumento sencillo (botellas, cuerdas o tubos) explicando cómo varía
+    su frecuencia. Evaluación escrita del OA10.
+  objetivos_especificos: Evaluar y aplicar el modelo ondulatorio en la construcción de un instrumento.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA10) + rúbrica del instrumento
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa desde recordar y comprender el concepto de onda a aplicar la ecuación de rapidez
+    de propagación y analizar fenómenos sonoros, cerrando con evaluación y creación de un instrumento.

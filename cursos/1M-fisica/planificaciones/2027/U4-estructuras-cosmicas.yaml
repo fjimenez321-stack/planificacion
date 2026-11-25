@@ -1,0 +1,130 @@
+# Primero Medio · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD IV: Estructuras cósmicas'
+  profesor: Felipe Jiménez
+  curso: Primero Medio
+  asignatura: Física
+  mes: Octubre a diciembre
+proposito: Explicar, mediante modelos, los fenómenos astronómicos del sistema solar, describir y comparar
+  las principales estructuras cósmicas, e investigar los aportes de Chile y de sus científicas y científicos
+  a la astronomía.
+objetivos:
+- oa: OA14
+  texto: 'Crear modelos que expliquen los fenómenos astronómicos del sistema solar relacionados con: •
+    Los movimientos del sistema Tierra-luna y los fenómenos de luz y sombra, como las fases lunares y
+    los eclipses. • Los movimientos de la Tierra respecto del sol y sus consecuencias, como las estaciones
+    climáticas. • La comparación de los distintos planetas con la Tierra en cuanto a su distancia al sol,
+    su tamaño, su período orbital, su atmósfera y otros.'
+- oa: OA15
+  texto: 'Describir y comparar diversas estructuras cósmicas, como meteoros, asteroides, cometas, satélites,
+    planetas, estrellas, nebulosas, galaxias y cúmulo de galaxias, considerando: • Sus tamaños y formas.
+    • Sus posiciones en el espacio. • Temperatura, masa, color y magnitud, entre otros.'
+- oa: OA16
+  texto: 'Investigar y explicar sobre la investigación astronómica en Chile y el resto del mundo considerando
+    aspectos como: • El clima y las ventajas que ofrece nuestro país para la observación astronómica.
+    • La tecnología utilizada (telescopios, radiotelescopios y otros instrumentos astronómicos). • La
+    información que proporciona la luz y otras radiaciones emitidas por los astros. • Los aportes de científicas
+    chilenas y científicos chilenos.'
+duracion: 10 semanas (20 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA14
+  tema: Astronomía diurna
+  actividades: 'KPSI. Gnomon en el patio: trayectoria del Sol y mediodía solar (registro durante la semana).
+    Regularidades del Sol y la Luna.'
+  objetivos_especificos: Investigar la trayectoria diaria del Sol y sus regularidades.
+  bloom: Comprender
+  evaluacion_formativa: KPSI + registro del gnomon
+- semana: 2
+  oa:
+  - OA14
+  tema: Fases lunares y eclipses
+  actividades: 'Modelo con linterna, pelota y globo: fases, eclipses de Sol y de Luna. ¿Por qué no hay
+    eclipses todos los meses?'
+  objetivos_especificos: Explicar las fases y los eclipses con un modelo Tierra-Luna-Sol.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ticket de salida con dibujos de posiciones
+- semana: 3
+  oa:
+  - OA14
+  tema: Estaciones del año
+  actividades: 'Modelo con globo terráqueo inclinado y linterna: ángulo de incidencia y duración del día.
+    Mito de la distancia al Sol.'
+  objetivos_especificos: Explicar las estaciones con el modelo Tierra-Sol.
+  bloom: Aplicar
+  evaluacion_formativa: Guía de estaciones
+- semana: 4
+  oa:
+  - OA14
+  - OA15
+  tema: Sistema solar a escala
+  actividades: Modelo proporcional en el patio (Sol de 50 cm) y tabla comparativa de los planetas respecto
+    de la Tierra (tamaño, distancia, período, atmósfera, gravedad).
+  objetivos_especificos: Comparar los planetas con la Tierra usando un modelo a escala.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Tabla comparativa
+- semana: 5
+  oa:
+  - OA14
+  - OA15
+  tema: Evaluación OA14 y cuerpos menores
+  actividades: Evaluación escrita del OA14. Meteoros, bólidos, meteoritos, asteroides y cometas; impactos
+    en la Tierra.
+  objetivos_especificos: Evaluar el OA14 y describir los cuerpos menores del sistema solar.
+  bloom: Evaluar / Comprender
+  evaluacion_formativa: Evaluación sumativa N°1 (OA14)
+- semana: 6
+  oa:
+  - OA15
+  tema: Estrellas
+  actividades: Estrellas visibles en el cielo de Chile (Stellarium). Color, temperatura y clasificación
+    espectral; diagrama H-R simplificado.
+  objetivos_especificos: Clasificar estrellas según su color, temperatura y luminosidad.
+  bloom: Analizar
+  evaluacion_formativa: Ejercicio de clasificación estelar
+- semana: 7
+  oa:
+  - OA15
+  tema: Galaxias, nebulosas y exoplanetas
+  actividades: Imágenes de nebulosas, galaxias y cúmulos (escalas de tamaño). Exoplanetas y zona de habitabilidad
+    estelar.
+  objetivos_especificos: Describir y comparar estructuras cósmicas y el concepto de zona habitable.
+  bloom: Analizar
+  evaluacion_formativa: Guía de estructuras cósmicas
+- semana: 8
+  oa:
+  - OA16
+  tema: Chile, capital de la astronomía
+  actividades: 'Ventajas del cielo del norte de Chile (humedad, transparencia). Observatorios (ALMA, Paranal,
+    Rubin): ubicación, tecnología y dependencia. Telescopios y radiotelescopios.'
+  objetivos_especificos: Explicar las ventajas de Chile para la astronomía y cómo los instrumentos captan
+    la radiación.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Ticket de salida
+- semana: 9
+  oa:
+  - OA16
+  tema: Astronomía chilena y de los pueblos originarios
+  actividades: 'Investigación en equipos: María Teresa Ruiz, Mario Hamuy, José Maza y otros; astronomía
+    mapuche y andina. Preparación de infografía.'
+  objetivos_especificos: Investigar aportes de astrónomas y astrónomos chilenos y de los pueblos originarios.
+  bloom: Analizar / Crear
+  evaluacion_formativa: Avance de infografía con retroalimentación
+- semana: 10
+  oa:
+  - OA15
+  - OA16
+  tema: Cierre y evaluación de unidad
+  actividades: Galería de infografías 'Chile, ventana al universo'. Evaluación escrita de OA15 y OA16.
+  objetivos_especificos: Evaluar e integrar conocimientos sobre estructuras cósmicas y astronomía en Chile.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA15, OA16) + rúbrica de infografía
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en tres ciclos (OA14, OA15 y OA16), desde comprender modelos del sistema solar
+    a analizar y clasificar estructuras cósmicas, cerrando con una investigación y un producto integrador
+    sobre la astronomía en Chile.

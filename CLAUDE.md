@@ -8,7 +8,7 @@ Escribe siempre en español de Chile y usa el vocabulario de la UTP: OA, indicad
 
 Toda planificación respeta **exactamente** el formato institucional de `formato/plantilla_planificacion.docx`. Está descrito en `formato/FORMATO.md`.
 
-- La fuente de verdad de cada planificación es un archivo `.yaml` en `cursos/<curso>/planificaciones/`, con los campos de `formato/FORMATO.md`.
+- La fuente de verdad de cada planificación es un archivo `.yaml` en `cursos/<curso>/planificaciones/<año>/`, con los campos de `formato/FORMATO.md`.
 - El `.docx` **siempre** se genera con `python scripts/generar_docx.py <archivo.yaml>`, que usa la plantilla como molde. Nunca construyas un .docx a mano, ni con otra herramienta ni con otro diseño.
 - No agregues, quites, renombres ni reordenes secciones o columnas. Si Felipe pide un cambio de formato, se cambia la plantilla, no una planificación suelta.
 - Antes de cada commit corre `python scripts/generar_docx.py --check` sobre los .yaml que tocaste. Si falla, no hagas commit.
@@ -47,7 +47,7 @@ programas/<nivel>/    programa oficial completo por nivel (1M, 2M, 5B, 6B…)
   extraccion.json     páginas de las tablas OA/indicadores usadas en la extracción
 cursos/<curso>/
   programa/oa.md      OA e indicadores oficiales del eje que enseña Felipe en ese curso
-  planificaciones/    <unidad>.yaml (fuente) + docx/ (generados)
+  planificaciones/<año>/  U<n>-<slug>.yaml (fuente) + docx/ (generados); el campo anio fija el año del título
   registros/          AAAA-MM-DD.md, uno por clase
   evaluaciones/       <evaluacion>.csv (por pregunta/indicador, con códigos)
   cambios.md          bitácora de reestructuraciones
@@ -61,8 +61,8 @@ Código de curso: `<nivel><M|B>-<asignatura>`, por ejemplo `2M-fisica`, `1M-biol
 |---|---|---|
 | 1M | Programa CN 1° medio (2016) | `1M-biologia`, `1M-fisica` |
 | 2M | Programa CN 2° medio (2016) | `2M-biologia`, `2M-fisica` |
-| 5B | Programa CN 5° básico (2012) | `5B-ciencias` |
-| 6B | Programa CN 6° básico (2012) | `6B-ciencias` |
+| 5B | Programa CN 5° básico (2012) | `5B-biologia`, `5B-fisica` (separado por ejes) |
+| 6B | Programa CN 6° básico (2012) | `6B-biologia`, `6B-fisica` (separado por ejes) |
 
 Las unidades del programa son una **propuesta** del Mineduc. Felipe puede reordenarlas, pero todos los OA del año deben quedar cubiertos.
 Para planificar actividades, revisa primero las "Sugerencias de actividades" y los "Ejemplos de evaluación" del PDF (`pdftotext -layout`). Adáptalos; no los copies enteros.

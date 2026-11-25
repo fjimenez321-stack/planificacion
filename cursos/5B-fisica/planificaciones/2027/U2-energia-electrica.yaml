@@ -1,0 +1,209 @@
+# Quinto Básico · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD II: Energía eléctrica'
+  profesor: Felipe Jiménez
+  curso: Quinto Básico
+  asignatura: Física
+  mes: Junio a diciembre
+proposito: Reconocer las transformaciones de la energía eléctrica, construir circuitos simples, distinguir
+  materiales conductores y aisladores para un uso seguro de la electricidad, y proponer medidas de ahorro
+  y uso responsable.
+objetivos:
+- oa: OA8
+  texto: Reconocer los cambios que experimenta la energía eléctrica al pasar de una forma a otra (eléctrica
+    a calórica, sonora, lumínica etc.) e investigar los principales aportes de científicos en su estudio
+    a través del tiempo.
+- oa: OA9
+  texto: Construir un circuito eléctrico simple (cable, ampolleta, interruptor y pila), usarlo para resolver
+    problemas cotidianos y explicar su funcionamiento.
+- oa: OA10
+  texto: Observar y distinguir, por medio de la investigación experimental, los materiales conductores
+    (cobre y aluminio) y aisladores (plásticos y goma) de electricidad, relacionándolos con la manipulación
+    segura de artefactos tecnológicos y circuitos eléctricos domiciliarios.
+- oa: OA11
+  texto: Explicar la importancia de la energía eléctrica en la vida cotidiana y proponer medidas para
+    promover su ahorro y uso responsable.
+duracion: 21 semanas (42 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA8
+  tema: La electricidad en mi vida
+  actividades: 'Diagnóstico: catastro de artefactos eléctricos de la sala y de la casa. ¿Qué pasaría sin
+    electricidad?'
+  objetivos_especificos: Reconocer el uso de la energía eléctrica en la vida diaria.
+  bloom: Recordar
+  evaluacion_formativa: Ticket de salida
+- semana: 2
+  oa:
+  - OA8
+  tema: Transformaciones de la energía eléctrica
+  actividades: 'Estaciones con artefactos: ampolleta (lumínica y calórica), parlante (sonora), ventilador
+    (movimiento).'
+  objetivos_especificos: Identificar transformaciones de la energía eléctrica.
+  bloom: Comprender
+  evaluacion_formativa: Tabla de transformaciones
+- semana: 3
+  oa:
+  - OA8
+  tema: Electricidad estática
+  actividades: Globo frotado, papel picado y peineta.
+  objetivos_especificos: Describir fenómenos de electricidad estática.
+  bloom: Comprender
+  evaluacion_formativa: Ficha de observación
+- semana: 4
+  oa:
+  - OA8
+  tema: Científicos de la electricidad
+  actividades: 'Línea de tiempo: Tales, Franklin, Volta, Edison, Tesla. Fichas biográficas en equipos.'
+  objetivos_especificos: Investigar aportes de científicos al estudio de la electricidad.
+  bloom: Analizar
+  evaluacion_formativa: Ficha biográfica
+- semana: 5
+  oa:
+  - OA8
+  tema: Evaluación OA8
+  actividades: Presentación de la línea de tiempo y evaluación escrita del OA8.
+  objetivos_especificos: Evaluar la comprensión de las transformaciones de la energía eléctrica.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA8)
+- semana: 6
+  oa:
+  - OA9
+  tema: Componentes de un circuito
+  actividades: 'Normas de seguridad. Pila, cable, ampolleta e interruptor: función de cada uno.'
+  objetivos_especificos: Identificar los componentes de un circuito eléctrico.
+  bloom: Comprender
+  evaluacion_formativa: Dibujo rotulado
+- semana: 7
+  oa:
+  - OA9
+  tema: Construyo un circuito
+  actividades: Construcción de un circuito simple en parejas; símbolos eléctricos.
+  objetivos_especificos: Construir un circuito eléctrico simple.
+  bloom: Aplicar
+  evaluacion_formativa: Lista de cotejo del circuito
+- semana: 8
+  oa:
+  - OA9
+  tema: ¿Por qué no enciende?
+  actividades: Resolución de circuitos 'con fallas'; circuito abierto y cerrado.
+  objetivos_especificos: Explicar el funcionamiento de un circuito.
+  bloom: Analizar
+  evaluacion_formativa: Ticket de salida
+- semana: 9
+  oa:
+  - OA9
+  tema: Circuitos en serie y en paralelo
+  actividades: Comparación del brillo de las ampolletas en serie y en paralelo.
+  objetivos_especificos: Comparar tipos de circuitos.
+  bloom: Analizar
+  evaluacion_formativa: Registro comparativo
+- semana: 10
+  oa:
+  - OA9
+  tema: 'Proyecto: circuito para un problema'
+  actividades: Diseño de una linterna, un timbre o una alarma para resolver un problema cotidiano.
+  objetivos_especificos: Usar un circuito para resolver un problema cotidiano.
+  bloom: Crear
+  evaluacion_formativa: Avance de proyecto
+- semana: 11
+  oa:
+  - OA9
+  tema: Evaluación OA9
+  actividades: Presentación de proyectos con rúbrica.
+  objetivos_especificos: Evaluar la construcción y explicación de un circuito.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA9) con rúbrica
+- semana: 12
+  oa:
+  - OA10
+  tema: ¿Qué materiales conducen?
+  actividades: 'Predicción e investigación experimental con un probador de continuidad: metales, plástico,
+    goma, madera, grafito.'
+  objetivos_especificos: Distinguir experimentalmente conductores y aisladores.
+  bloom: Aplicar
+  evaluacion_formativa: Tabla de predicción y resultado
+- semana: 13
+  oa:
+  - OA10
+  tema: Conductores y aisladores en los cables
+  actividades: Análisis de un cable (cobre y plástico), enchufes y herramientas.
+  objetivos_especificos: Relacionar conductores y aisladores con la seguridad.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Ficha de análisis
+- semana: 14
+  oa:
+  - OA10
+  tema: Seguridad eléctrica en la casa
+  actividades: 'Riesgos eléctricos domiciliarios: agua y electricidad, enchufes sobrecargados; normas
+    de la SEC.'
+  objetivos_especificos: Proponer normas de manipulación segura.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Decálogo de seguridad
+- semana: 15
+  oa:
+  - OA10
+  tema: Evaluación OA10
+  actividades: Evaluación escrita del OA10.
+  objetivos_especificos: Evaluar la comprensión de conductores, aisladores y seguridad.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°3 (OA10)
+- semana: 16
+  oa:
+  - OA11
+  tema: ¿De dónde viene la electricidad?
+  actividades: Centrales eléctricas en Chile (hidroeléctrica, termoeléctrica, solar, eólica); mapa.
+  objetivos_especificos: Reconocer el origen de la energía eléctrica.
+  bloom: Comprender
+  evaluacion_formativa: Mapa de centrales
+- semana: 17
+  oa:
+  - OA11
+  tema: ¿Cuánta energía usamos?
+  actividades: Lectura de una boleta de luz; consumo de artefactos (etiqueta de eficiencia energética).
+  objetivos_especificos: Analizar el consumo eléctrico del hogar.
+  bloom: Analizar
+  evaluacion_formativa: Análisis de boleta
+- semana: 18
+  oa:
+  - OA11
+  tema: Auditoría energética del colegio
+  actividades: 'Recorrido por el colegio: luces encendidas, artefactos en espera; registro.'
+  objetivos_especificos: Evaluar el uso de la energía eléctrica en el colegio.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Registro de auditoría
+- semana: 19
+  oa:
+  - OA11
+  tema: Medidas de ahorro
+  actividades: Campaña de ahorro de energía (afiches, cápsula para redes del colegio).
+  objetivos_especificos: Proponer medidas de ahorro y uso responsable.
+  bloom: Crear
+  evaluacion_formativa: Avance de campaña
+- semana: 20
+  oa:
+  - OA11
+  tema: Presentación de campañas
+  actividades: Presentación de campañas a otro curso.
+  objetivos_especificos: Comunicar medidas de uso responsable.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Rúbrica de campaña
+- semana: 21
+  oa:
+  - OA8
+  - OA9
+  - OA10
+  - OA11
+  tema: Cierre de unidad
+  actividades: Evaluación integradora del OA11 y de la unidad.
+  objetivos_especificos: Evaluar los aprendizajes de la unidad de energía eléctrica.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°4 (OA11 e integración)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en cuatro ciclos, desde reconocer la energía eléctrica a construir y analizar
+    circuitos, investigar materiales y evaluar el uso responsable, con una evaluación sumativa por OA.

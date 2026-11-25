@@ -1,0 +1,142 @@
+# Sexto Básico · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD III: Materia, estados y calor'
+  profesor: Felipe Jiménez
+  curso: Sexto Básico
+  asignatura: Física
+  mes: Septiembre a diciembre
+proposito: Explicar con modelos que la materia está formada por partículas en movimiento, demostrar experimentalmente
+  los cambios de estado, diferenciar calor y temperatura, e interpretar mediciones al calentar y enfriar
+  agua.
+objetivos:
+- oa: OA12
+  texto: Explicar, a partir de modelos, que la materia está formada por partículas en movimiento en sus
+    estados sólido, líquido y gaseoso.
+- oa: OA13
+  texto: Demostrar, mediante la investigación experimental, los cambios de estado de la materia, como
+    fusión, evaporación, ebullición, condensación, solidificación y sublimación.
+- oa: OA14
+  texto: Diferenciar entre calor y temperatura, considerando que el calor es una forma de energía y la
+    temperatura es una medida de lo caliente de un objeto.
+- oa: OA15
+  texto: Medir e interpretar la información obtenida al calentar y enfriar el agua, considerando las transformaciones
+    de un estado a otro.
+duracion: 13 semanas (26 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA12
+  tema: ¿De qué está hecha la materia?
+  actividades: Diagnóstico. Mezcla de agua y alcohol (el volumen no se suma) y gota de colorante en agua
+    fría y caliente.
+  objetivos_especificos: Reconocer evidencias de que la materia está formada por partículas.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 2
+  oa:
+  - OA12
+  tema: Modelo de partículas
+  actividades: Dramatización con estudiantes como partículas en sólido, líquido y gas; dibujo del modelo.
+  objetivos_especificos: Explicar los estados de la materia con el modelo de partículas.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Dibujo del modelo
+- semana: 3
+  oa:
+  - OA12
+  tema: Propiedades de los estados
+  actividades: 'Forma y volumen: jeringa con aire, con agua y con arena.'
+  objetivos_especificos: Relacionar las propiedades de los estados con el modelo.
+  bloom: Analizar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA12)
+- semana: 4
+  oa:
+  - OA13
+  tema: Fusión y solidificación
+  actividades: Hielo que se derrite y agua en el congelador; chocolate o vela.
+  objetivos_especificos: Demostrar la fusión y la solidificación.
+  bloom: Aplicar
+  evaluacion_formativa: Ficha de experimento
+- semana: 5
+  oa:
+  - OA13
+  tema: Evaporación, ebullición y condensación
+  actividades: Agua hirviendo (demostración docente), tapa fría y vaso con hielo.
+  objetivos_especificos: Demostrar la evaporación, la ebullición y la condensación.
+  bloom: Aplicar
+  evaluacion_formativa: Ficha de experimento
+- semana: 6
+  oa:
+  - OA13
+  tema: Sublimación y ciclo de cambios
+  actividades: Naftalina o hielo seco (video); diagrama de los cambios de estado.
+  objetivos_especificos: Explicar los cambios de estado con el modelo de partículas.
+  bloom: Analizar
+  evaluacion_formativa: Diagrama de cambios de estado
+- semana: 7
+  oa:
+  - OA13
+  tema: Evaluación OA13
+  actividades: Evaluación escrita del OA13.
+  objetivos_especificos: Evaluar la comprensión de los cambios de estado.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°2 (OA13)
+- semana: 8
+  oa:
+  - OA14
+  tema: Calor y temperatura
+  actividades: 'Experimento: igual temperatura, distinta cantidad de agua para derretir hielo. Uso del
+    termómetro.'
+  objetivos_especificos: Diferenciar calor y temperatura.
+  bloom: Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 9
+  oa:
+  - OA14
+  tema: Escalas y termómetros
+  actividades: Construcción de un termómetro casero; escala Celsius.
+  objetivos_especificos: Aplicar el uso de la temperatura como medida.
+  bloom: Aplicar
+  evaluacion_formativa: Evaluación sumativa N°3 (OA14)
+- semana: 10
+  oa:
+  - OA15
+  tema: Calentar agua
+  actividades: Calentamiento de agua con registro de la temperatura cada minuto hasta la ebullición (demostración
+    segura).
+  objetivos_especificos: Medir la temperatura al calentar agua.
+  bloom: Aplicar
+  evaluacion_formativa: Tabla de datos
+- semana: 11
+  oa:
+  - OA15
+  tema: Enfriar agua
+  actividades: Enfriamiento de agua con hielo y sal hasta el congelamiento; registro.
+  objetivos_especificos: Medir la temperatura al enfriar agua.
+  bloom: Aplicar
+  evaluacion_formativa: Tabla de datos
+- semana: 12
+  oa:
+  - OA15
+  tema: Interpretar gráficos
+  actividades: Gráficos temperatura–tiempo; mesetas de cambio de estado.
+  objetivos_especificos: Interpretar la información de calentar y enfriar agua.
+  bloom: Analizar
+  evaluacion_formativa: Gráfico interpretado
+- semana: 13
+  oa:
+  - OA12
+  - OA13
+  - OA14
+  - OA15
+  tema: Cierre de unidad
+  actividades: Evaluación escrita del OA15 e integración de la unidad.
+  objetivos_especificos: Evaluar los aprendizajes sobre materia y calor.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°4 (OA15)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa desde comprender el modelo de partículas a demostrar experimentalmente los
+    cambios de estado, diferenciar calor y temperatura y analizar mediciones.

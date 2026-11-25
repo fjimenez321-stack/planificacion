@@ -1,0 +1,208 @@
+# Sexto Básico · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD II: Pubertad, reproducción y salud'
+  profesor: Felipe Jiménez
+  curso: Sexto Básico
+  asignatura: Biología
+  mes: Junio a diciembre
+proposito: Identificar las estructuras y funciones del sistema reproductor humano, describir los cambios
+  de la pubertad como etapa del desarrollo, reconocer los beneficios de la actividad física y la higiene,
+  e investigar los efectos nocivos de las drogas proponiendo conductas de protección.
+objetivos:
+- oa: OA4
+  texto: Identificar y describir las funciones de las principales estructuras del sistema reproductor
+    humano femenino y masculino.
+- oa: OA5
+  texto: Describir y comparar los cambios que se producen en la pubertad en mujeres y hombres, reconociéndola,
+    como una etapa del desarrollo humano.
+- oa: OA6
+  texto: Reconocer los beneficios de realizar actividad física en forma regular y de cuidar la higiene
+    corporal en el período de la pubertad.
+- oa: OA7
+  texto: Investigar y comunicar los efectos nocivos de algunas drogas para la salud, proponiendo conductas
+    de protección.
+duracion: 21 semanas (42 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA4
+  tema: Acuerdos de convivencia y preguntas
+  actividades: Acuerdos de respeto para la unidad; buzón anónimo de preguntas.
+  objetivos_especificos: Establecer un clima de respeto para abordar la unidad.
+  bloom: Recordar
+  evaluacion_formativa: Buzón de preguntas
+- semana: 2
+  oa:
+  - OA4
+  tema: Sistema reproductor femenino
+  actividades: Estructuras y funciones con láminas y modelos.
+  objetivos_especificos: Identificar estructuras y funciones del sistema reproductor femenino.
+  bloom: Comprender
+  evaluacion_formativa: Esquema rotulado
+- semana: 3
+  oa:
+  - OA4
+  tema: Sistema reproductor masculino
+  actividades: Estructuras y funciones con láminas y modelos.
+  objetivos_especificos: Identificar estructuras y funciones del sistema reproductor masculino.
+  bloom: Comprender
+  evaluacion_formativa: Esquema rotulado
+- semana: 4
+  oa:
+  - OA4
+  tema: Gametos y fecundación
+  actividades: Óvulo y espermatozoide; idea general de la fecundación.
+  objetivos_especificos: Describir las funciones de las estructuras reproductoras.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ticket de salida
+- semana: 5
+  oa:
+  - OA4
+  tema: Evaluación OA4
+  actividades: Evaluación escrita del OA4.
+  objetivos_especificos: Evaluar la comprensión del sistema reproductor.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA4)
+- semana: 6
+  oa:
+  - OA5
+  tema: ¿Qué es la pubertad?
+  actividades: Respuesta a preguntas del buzón; etapas del desarrollo humano (línea de vida).
+  objetivos_especificos: Reconocer la pubertad como etapa del desarrollo.
+  bloom: Comprender
+  evaluacion_formativa: Línea de vida
+- semana: 7
+  oa:
+  - OA5
+  tema: Cambios físicos
+  actividades: 'Cambios en mujeres y hombres: cuadro comparativo; rol de las hormonas.'
+  objetivos_especificos: Describir y comparar los cambios físicos de la pubertad.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Cuadro comparativo
+- semana: 8
+  oa:
+  - OA5
+  tema: Cambios emocionales y sociales
+  actividades: Análisis de situaciones (cartas de consulta ficticias) sobre emociones, amistad e identidad.
+  objetivos_especificos: Describir cambios emocionales y sociales de la pubertad.
+  bloom: Analizar
+  evaluacion_formativa: Respuesta a carta
+- semana: 9
+  oa:
+  - OA5
+  tema: Evaluación OA5
+  actividades: Evaluación escrita del OA5.
+  objetivos_especificos: Evaluar la comprensión de los cambios de la pubertad.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°2 (OA5)
+- semana: 10
+  oa:
+  - OA6
+  tema: Higiene en la pubertad
+  actividades: 'Hábitos de higiene corporal: sudor, piel, cabello, higiene íntima.'
+  objetivos_especificos: Reconocer la importancia de la higiene en la pubertad.
+  bloom: Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 11
+  oa:
+  - OA6
+  tema: Actividad física
+  actividades: Medición de pulso y percepción del esfuerzo antes y después de ejercitarse (con Ed. Física);
+    beneficios.
+  objetivos_especificos: Reconocer los beneficios de la actividad física regular.
+  bloom: Aplicar
+  evaluacion_formativa: Registro de actividad
+- semana: 12
+  oa:
+  - OA6
+  tema: Mi plan de autocuidado
+  actividades: Plan semanal personal de actividad física e higiene.
+  objetivos_especificos: Proponer un plan de autocuidado.
+  bloom: Crear
+  evaluacion_formativa: Plan con retroalimentación
+- semana: 13
+  oa:
+  - OA6
+  tema: Evaluación OA6
+  actividades: Revisión del cumplimiento del plan y evaluación del OA6.
+  objetivos_especificos: Evaluar hábitos de vida saludable.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°3 (OA6) con pauta
+- semana: 14
+  oa:
+  - OA7
+  tema: ¿Qué es una droga?
+  actividades: Ideas previas; drogas legales e ilegales; alcohol y tabaco.
+  objetivos_especificos: Identificar qué es una droga.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 15
+  oa:
+  - OA7
+  tema: Efectos de las drogas
+  actividades: Investigación en equipos sobre alcohol, tabaco, marihuana, cocaína y anfetaminas (fuentes
+    SENDA).
+  objetivos_especificos: Investigar los efectos nocivos de algunas drogas.
+  bloom: Analizar
+  evaluacion_formativa: Pauta de investigación
+- semana: 16
+  oa:
+  - OA7
+  tema: Presión de grupo
+  actividades: Dramatizaciones de situaciones de presión de grupo y de cómo decir que no.
+  objetivos_especificos: Analizar situaciones de riesgo y conductas de protección.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Pauta de observación
+- semana: 17
+  oa:
+  - OA7
+  tema: Factores protectores
+  actividades: Factores protectores (familia, deporte, amistades); redes de apoyo.
+  objetivos_especificos: Proponer conductas de protección.
+  bloom: Evaluar
+  evaluacion_formativa: Mapa de redes de apoyo
+- semana: 18
+  oa:
+  - OA7
+  tema: Campaña preventiva
+  actividades: Elaboración de una campaña preventiva (afiche o cápsula de video).
+  objetivos_especificos: Comunicar conductas de protección.
+  bloom: Crear
+  evaluacion_formativa: Avance de campaña
+- semana: 19
+  oa:
+  - OA7
+  tema: Presentación de campañas
+  actividades: Presentación de campañas a la comunidad.
+  objetivos_especificos: Comunicar los efectos de las drogas y las conductas de protección.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°4 (OA7) con rúbrica
+- semana: 20
+  oa:
+  - OA4
+  - OA5
+  - OA6
+  - OA7
+  tema: Integración de la unidad
+  actividades: Repaso con juego de preguntas (Kahoot) sobre toda la unidad.
+  objetivos_especificos: Integrar los aprendizajes de la unidad.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Kahoot de repaso
+- semana: 21
+  oa:
+  - OA4
+  - OA5
+  - OA6
+  - OA7
+  tema: Cierre de unidad
+  actividades: Evaluación integradora y reflexión final del año.
+  objetivos_especificos: Evaluar los aprendizajes de la unidad.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa integradora
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en cuatro ciclos, desde identificar y describir hasta analizar información
+    y proponer conductas de autocuidado, en un clima de respeto y confianza.

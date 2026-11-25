@@ -1,0 +1,113 @@
+# Segundo Medio · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD I: Movimiento rectilíneo'
+  profesor: Felipe Jiménez
+  curso: Segundo Medio
+  asignatura: Física
+  mes: Marzo a mayo
+proposito: Analizar, sobre la base de la experimentación, el movimiento rectilíneo uniforme y acelerado
+  de objetos respecto de un sistema de referencia, usando herramientas gráficas y analíticas en situaciones
+  cotidianas.
+objetivos:
+- oa: OA9
+  texto: Analizar, sobre la base de la experimentación, el movimiento rectilíneo uniforme y acelerado
+    de un objeto respecto de un sistema de referencia espacio-temporal, considerando variables como la
+    posición, la velocidad y la aceleración en situaciones cotidianas.
+duracion: 10 semanas (20 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA9
+  tema: Relatividad del movimiento
+  actividades: 'KPSI. Actividad del programa: estudiante corre y suelta una pelota; descripción desde
+    distintos observadores. Sistemas de referencia y coordenadas.'
+  objetivos_especificos: Explicar por qué es necesario un sistema de referencia para describir un movimiento.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: KPSI + ticket de salida
+- semana: 2
+  oa:
+  - OA9
+  tema: Conceptos de cinemática
+  actividades: Posición, desplazamiento, distancia recorrida y tiempo con recorridos en el patio sobre
+    una huincha. Diferencia entre rapidez y velocidad.
+  objetivos_especificos: Diferenciar conceptos de cinemática en situaciones cotidianas.
+  bloom: Comprender
+  evaluacion_formativa: Guía conceptual
+- semana: 3
+  oa:
+  - OA9
+  tema: Adición de velocidades de Galileo
+  actividades: Casos de vehículos que se mueven en la misma dirección o en sentidos opuestos; cinta transportadora
+    o pasillo móvil.
+  objetivos_especificos: Aplicar la adición de velocidades de Galileo en situaciones simples.
+  bloom: Aplicar
+  evaluacion_formativa: Ejercicios resueltos en clase
+- semana: 4
+  oa:
+  - OA9
+  tema: MRU experimental
+  actividades: 'Burbuja en un tubo con aceite o auto a pilas: medición de posición y tiempo, gráfico x–t
+    y cálculo de la pendiente.'
+  objetivos_especificos: Analizar el MRU a partir de datos experimentales y gráficos.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Informe breve de laboratorio
+- semana: 5
+  oa:
+  - OA9
+  tema: Gráficos de movimiento
+  actividades: Lectura e interpretación de gráficos x–t y v–t; app Phyphox o simulación PhET 'El hombre
+    móvil'.
+  objetivos_especificos: Interpretar gráficos de movimiento rectilíneo.
+  bloom: Analizar
+  evaluacion_formativa: Guía de gráficos diferenciada
+- semana: 6
+  oa:
+  - OA9
+  tema: Aceleración y MRUA
+  actividades: Carro en un plano inclinado con marcas de tiempo (video en cámara lenta); concepto de aceleración
+    y ecuaciones del MRUA.
+  objetivos_especificos: Describir el MRUA y aplicar sus ecuaciones.
+  bloom: Aplicar
+  evaluacion_formativa: Ejercicios de MRUA
+- semana: 7
+  oa:
+  - OA9
+  tema: Evaluación N°1
+  actividades: Evaluación escrita de conceptos, MRU y gráficos. Retroalimentación.
+  objetivos_especificos: Evaluar la comprensión del MRU y de sus gráficos.
+  bloom: Evaluar
+  evaluacion_formativa: 'Evaluación sumativa N°1 (OA9: MRU)'
+- semana: 8
+  oa:
+  - OA9
+  tema: Caída libre y lanzamiento vertical
+  actividades: Galileo y la aceleración de gravedad (historia). Medición de g con una regla que cae (tiempo
+    de reacción) o con video.
+  objetivos_especificos: Explicar la aceleración de gravedad y aplicarla en caída libre.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Ficha de medición de g
+- semana: 9
+  oa:
+  - OA9
+  tema: Movimiento y seguridad vial
+  actividades: Distancia de reacción y de frenado según la velocidad (datos CONASET). Análisis de casos
+    y velocidades máximas.
+  objetivos_especificos: Evaluar situaciones de conducción usando conceptos de cinemática.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Análisis de caso en parejas
+- semana: 10
+  oa:
+  - OA9
+  tema: Cierre de unidad
+  actividades: Evaluación escrita de MRUA y caída libre con situaciones contextualizadas.
+  objetivos_especificos: Evaluar la aplicación de la cinemática en situaciones cotidianas.
+  bloom: Evaluar
+  evaluacion_formativa: 'Evaluación sumativa N°2 (OA9: MRUA)'
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa desde comprender los sistemas de referencia y los conceptos de cinemática
+    a aplicarlos en ecuaciones y gráficos, analizar experimentos de MRU y MRUA y evaluar situaciones de
+    seguridad vial.

@@ -1,0 +1,108 @@
+# Segundo Medio · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD I: Coordinación y regulación'
+  profesor: Felipe Jiménez
+  curso: Segundo Medio
+  asignatura: Biología
+  mes: Marzo a mayo
+proposito: Explicar cómo los sistemas nervioso y endocrino coordinan y regulan las funciones del organismo
+  para responder a estímulos del ambiente y mantener la homeostasis, investigando el cuidado del sistema
+  nervioso.
+objetivos:
+- oa: OA1
+  texto: Explicar cómo el sistema nervioso coordina las acciones del organismo para adaptarse a estímulos
+    del ambiente por medio de señales transmitidas por neuronas a lo largo del cuerpo, e investigar y
+    comunicar sus cuidados, como las horas de sueño, el consumo de drogas, café y alcohol, y la prevención
+    de traumatismos.
+- oa: OA2
+  texto: 'Crear modelos que expliquen la regulación de: • La glicemia por medio del control de las hormonas
+    pancreáticas. • Los caracteres sexuales y las funciones reproductivas por medio del control de las
+    hormonas sexuales en el organismo.'
+duracion: 9 semanas (18 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA1
+  tema: Estímulos y receptores
+  actividades: KPSI. Experimentos sensoriales (umbral de dos puntos, mapa de sabores, ilusiones ópticas).
+    Estímulo, receptor, respuesta.
+  objetivos_especificos: Identificar estímulos, receptores y respuestas del organismo.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: KPSI + ticket de salida
+- semana: 2
+  oa:
+  - OA1
+  tema: La neurona y el impulso nervioso
+  actividades: 'Modelo de neurona con plasticina o alambre. Impulso nervioso y sinapsis: dramatización
+    en cadena.'
+  objetivos_especificos: Describir la estructura de la neurona y la transmisión del impulso nervioso.
+  bloom: Comprender
+  evaluacion_formativa: Modelo rotulado
+- semana: 3
+  oa:
+  - OA1
+  tema: Organización del sistema nervioso y arco reflejo
+  actividades: 'SNC y SNP. Arco reflejo: reflejo rotuliano y actividad del programa ''Salvando el jarrón''
+    (tiempo de reacción con regla).'
+  objetivos_especificos: Explicar el arco reflejo y la organización del sistema nervioso.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Registro de tiempos de reacción
+- semana: 4
+  oa:
+  - OA1
+  tema: Cuidados del sistema nervioso
+  actividades: 'Investigación en equipos: sueño, drogas, alcohol, cafeína, pantallas y traumatismos (casco).
+    Datos de SENDA.'
+  objetivos_especificos: Investigar y comunicar cuidados del sistema nervioso.
+  bloom: Analizar
+  evaluacion_formativa: Avance de investigación
+- semana: 5
+  oa:
+  - OA1
+  - OA2
+  tema: Evaluación OA1 y sistema endocrino
+  actividades: Presentación breve de investigaciones y evaluación escrita del OA1. Glándulas endocrinas
+    y hormonas.
+  objetivos_especificos: Evaluar el OA1 y describir el sistema endocrino.
+  bloom: Evaluar / Comprender
+  evaluacion_formativa: Evaluación sumativa N°1 (OA1)
+- semana: 6
+  oa:
+  - OA2
+  tema: Homeostasis y retroalimentación
+  actividades: Concepto de homeostasis; modelos de retroalimentación negativa con el termostato como analogía.
+  objetivos_especificos: Explicar la regulación hormonal mediante retroalimentación.
+  bloom: Comprender
+  evaluacion_formativa: Esquema de retroalimentación
+- semana: 7
+  oa:
+  - OA2
+  tema: Regulación de la glicemia
+  actividades: Análisis de curvas de glicemia (con y sin diabetes); insulina y glucagón. Modelo de regulación
+    en equipo.
+  objetivos_especificos: Crear un modelo de la regulación de la glicemia.
+  bloom: Analizar / Crear
+  evaluacion_formativa: Modelo de glicemia con retroalimentación
+- semana: 8
+  oa:
+  - OA2
+  tema: Hormonas sexuales
+  actividades: Regulación de los caracteres sexuales y del ciclo ovárico y uterino (gráficos hormonales).
+  objetivos_especificos: Explicar la regulación hormonal de las funciones reproductivas.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Análisis de gráficos
+- semana: 9
+  oa:
+  - OA2
+  tema: Cierre de unidad
+  actividades: Comparación de los sistemas nervioso y endocrino; evaluación escrita del OA2.
+  objetivos_especificos: Evaluar la comprensión de la regulación hormonal.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°2 (OA2)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en dos ciclos (sistema nervioso y regulación hormonal), de comprender estructuras
+    y funciones a analizar datos y crear modelos de regulación.

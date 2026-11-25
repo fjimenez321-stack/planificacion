@@ -1,0 +1,150 @@
+# Fuente: "Planificación Unidad 3 - Física - Segundo medio.docx" (Felipe Jiménez, 2026)
+# Campo extra `oa` por semana: no se imprime; sirve para trazar cobertura y analizar resultados.
+estado: ejecutada   # borrador | vigente | ejecutada
+version: 1
+anio: 2026
+
+encabezado:
+  unidad: "UNIDAD III: Energía mecánica y cantidad de movimiento"
+  profesor: Felipe Jiménez
+  curso: Segundo Medio
+  asignatura: Física
+  mes: Agosto y septiembre
+
+proposito: >
+  Comprender y describir el movimiento de un objeto y las interacciones entre
+  cuerpos aplicando la ley de conservación de la energía mecánica y la ley de
+  conservación de la cantidad de movimiento, a través del análisis experimental
+  de trabajo, potencia, impulso y colisiones.
+
+objetivos:
+  - oa: OA11
+    texto: >
+      Describir el movimiento de un objeto, usando la ley de conservación de la
+      energía mecánica y los conceptos de trabajo y potencia mecánica.
+  - oa: OA12
+    texto: >
+      Analizar e interpretar datos de investigaciones sobre colisiones entre
+      objetos, considerando la cantidad de movimiento de un cuerpo en función del
+      impulso que adquiere y la ley de conservación de la cantidad de movimiento
+      (momento lineal o momentum).
+
+duracion: Dos meses
+
+semanas:
+  - semana: 1
+    oa: [OA11]
+    tema: Trabajo mecánico y energía cinética
+    actividades: >
+      Think-Pair-Share: ¿qué significa "trabajo" en física vs. en la vida
+      cotidiana? Definición de trabajo mecánico (W = F·d·cosθ) y energía
+      cinética. STEAM: análisis de máquinas simples que realizan trabajo
+      (poleas, planos inclinados).
+    objetivos_especificos: >
+      Identificar y definir el concepto de trabajo mecánico y energía cinética,
+      reconociendo variables y unidades.
+    bloom: Recordar / Comprender
+    evaluacion_formativa: Kahoot diagnóstico + guía conceptual
+
+  - semana: 2
+    oa: [OA11]
+    tema: Energía potencial gravitatoria y elástica; energía mecánica
+    actividades: >
+      Análisis de situaciones con objetos elevados y resortes comprimidos (ley
+      de Hooke, repaso Unidad 2). Construcción de esquema energía
+      cinética–potencial–mecánica. Trabajo en 3 niveles
+      (Básico/Intermedio/Desafío).
+    objetivos_especificos: >
+      Describir la energía mecánica de un objeto en términos de su energía
+      cinética, potencial gravitatoria y potencial elástica.
+    bloom: Comprender
+    evaluacion_formativa: Guía de ejercicios diferenciada
+
+  - semana: 3
+    oa: [OA11]
+    tema: Conservación de la energía mecánica
+    actividades: >
+      Experimento: caída libre de un objeto midiendo altura y tiempo.
+      Simulación PhET "Energy Skate Park" (montaña rusa) para verificar
+      Em = Ec + Ep constante. Cálculo de energía en distintos puntos de la
+      trayectoria.
+    objetivos_especificos: >
+      Aplicar la ley de conservación de la energía mecánica en situaciones
+      cotidianas de caída libre y movimiento en pendientes.
+    bloom: Aplicar
+    evaluacion_formativa: Informe breve de laboratorio
+
+  - semana: 4
+    oa: [OA11]
+    tema: Efecto del roce, teorema trabajo-energía y potencia mecánica
+    actividades: >
+      Taller práctico: deslizamiento de un objeto sobre superficie rugosa,
+      comparando energía mecánica inicial y final. Cálculo de potencia mecánica
+      en situaciones cotidianas (ascensor, grúa, subir escaleras).
+    objetivos_especificos: >
+      Analizar el efecto del roce sobre la conservación de la energía mecánica
+      y determinar la potencia mecánica desarrollada por una fuerza.
+    bloom: Analizar
+    evaluacion_formativa: Resolución de problemas + Evaluación N°1 (OA11)
+
+  - semana: 5
+    oa: [OA11, OA12]
+    tema: Cierre OA11 y apertura a cantidad de movimiento (momentum)
+    actividades: >
+      Evaluación escrita de energía mecánica, trabajo y potencia. Introducción
+      al concepto de cantidad de movimiento (p = m·v) mediante situaciones de
+      choques cotidianos (autos, billar).
+    objetivos_especificos: >
+      Evaluar la comprensión de la conservación de la energía mecánica y
+      definir la cantidad de movimiento de un cuerpo.
+    bloom: Evaluar / Recordar
+    evaluacion_formativa: Prueba sumativa (Evaluación N°1)
+
+  - semana: 6
+    oa: [OA12]
+    tema: Impulso y variación de la cantidad de movimiento
+    actividades: >
+      Experimento con carritos de laboratorio: medición de velocidad
+      antes/después de un impulso. Relación entre impulso (F·Δt) y variación de
+      momentum (Δp), vinculándolo con la 2ª ley de Newton.
+    objetivos_especificos: >
+      Describir el impulso que adquiere un objeto en términos de la variación
+      de su cantidad de movimiento y su relación con la segunda ley de Newton.
+    bloom: Comprender / Aplicar
+    evaluacion_formativa: Ejercicios resueltos en clase
+
+  - semana: 7
+    oa: [OA12]
+    tema: Conservación de la cantidad de movimiento y colisiones
+    actividades: >
+      Experimento de colisiones entre carritos o canicas de distinta masa.
+      Distinción entre colisiones elásticas e inelásticas. Aplicación de la ley
+      de conservación de la cantidad de movimiento en sistema cerrado.
+    objetivos_especificos: >
+      Aplicar la ley de conservación de la cantidad de movimiento y distinguir
+      entre colisiones elásticas e inelásticas.
+    bloom: Aplicar / Analizar
+    evaluacion_formativa: Informe grupal de experimento
+
+  - semana: 8
+    oa: [OA11, OA12]
+    tema: Proyecto integrador y evaluación sumativa final
+    actividades: >
+      Elaboración de un mapa conceptual o mini-proyecto que integre energía
+      mecánica, trabajo, potencia, momentum, impulso y colisiones. Exposición
+      oral y evaluación sumativa escrita de cierre de unidad.
+    objetivos_especificos: >
+      Evaluar e integrar los conceptos de energía mecánica y cantidad de
+      movimiento mediante la elaboración y defensa de un producto propio.
+    bloom: Evaluar / Crear
+    evaluacion_formativa: Evaluación sumativa final + rúbrica de proyecto
+
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: >
+    la unidad progresa deliberadamente desde procesos cognitivos de orden
+    inferior (recordar, comprender) hacia procesos de orden superior (aplicar,
+    analizar, evaluar y crear), replicando la progresión en dos ciclos: el
+    primero para energía mecánica (OA11, semanas 1 a 5) y el segundo para
+    cantidad de movimiento (OA12, semanas 5 a 8), cerrando con un desempeño
+    integrador de evaluación y creación.

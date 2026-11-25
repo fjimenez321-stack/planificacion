@@ -1,0 +1,100 @@
+# Segundo Medio · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD IV: El universo'
+  profesor: Felipe Jiménez
+  curso: Segundo Medio
+  asignatura: Física
+  mes: Octubre a diciembre
+proposito: Comprender que el conocimiento del Universo cambia con nuevas evidencias, desde los modelos
+  geocéntrico y heliocéntrico hasta el Big-Bang, y explicar cualitativamente fenómenos cósmicos y artificiales
+  con las leyes de Kepler y la gravitación universal.
+objetivos:
+- oa: OA13
+  texto: Demostrar que comprenden que el conocimiento del Universo cambia y aumenta a partir de nuevas
+    evidencias, usando modelos como el geocéntrico y el heliocéntrico, y teorías como la del Big-Bang,
+    entre otros.
+- oa: OA14
+  texto: 'Explicar cualitativamente por medio de las leyes de Kepler y la de gravitación universal de
+    Newton: • El origen de las mareas. • La formación y dinámica de estructuras cósmicas naturales, como
+    el sistema solar y sus componentes, las estrellas y las galaxias. • El movimiento de estructuras artificiales
+    como sondas, satélites y naves espaciales.'
+duracion: 8 semanas (16 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA13
+  tema: Modelo geocéntrico
+  actividades: KPSI. Observaciones a simple vista y el modelo de Ptolomeo; epiciclos con dibujo o simulación.
+  objetivos_especificos: Describir el modelo geocéntrico y las evidencias en que se apoyaba.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: KPSI + ticket de salida
+- semana: 2
+  oa:
+  - OA13
+  tema: Revolución copernicana
+  actividades: 'Copérnico, Brahe, Galileo (lectura de los ''Diálogos'') y Giordano Bruno: nuevas evidencias
+    y conflicto con la autoridad.'
+  objetivos_especificos: Explicar cómo las nuevas evidencias cambiaron el modelo del Universo.
+  bloom: Comprender / Analizar
+  evaluacion_formativa: Línea de tiempo comentada
+- semana: 3
+  oa:
+  - OA13
+  tema: Big-Bang e imagen actual del Universo
+  actividades: 'Evidencias del Big-Bang: corrimiento al rojo, radiación de fondo; escala del Universo
+    (video ''Potencias de 10'').'
+  objetivos_especificos: Analizar las evidencias que sustentan la teoría del Big-Bang.
+  bloom: Analizar
+  evaluacion_formativa: Guía de evidencias
+- semana: 4
+  oa:
+  - OA13
+  - OA14
+  tema: Evaluación OA13 y leyes de Kepler
+  actividades: Evaluación escrita del OA13. Elipse con hilo y dos alfileres; leyes de Kepler con datos
+    planetarios.
+  objetivos_especificos: Evaluar el OA13 y describir las leyes de Kepler.
+  bloom: Evaluar / Comprender
+  evaluacion_formativa: Evaluación sumativa N°1 (OA13)
+- semana: 5
+  oa:
+  - OA14
+  tema: Gravitación universal
+  actividades: Ley de gravitación de Newton cualitativa; PhET 'Gravedad y órbitas'. Formación de estructuras
+    por colapso gravitacional.
+  objetivos_especificos: Explicar cualitativamente la gravitación universal y sus efectos.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Guía de simulación
+- semana: 6
+  oa:
+  - OA14
+  tema: Mareas
+  actividades: Modelo de las mareas con la Luna y el Sol; tablas de mareas de Valparaíso (SHOA).
+  objetivos_especificos: Explicar el origen de las mareas con la gravitación universal.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Análisis de tabla de mareas
+- semana: 7
+  oa:
+  - OA14
+  tema: Satélites y viajes espaciales
+  actividades: Órbitas de satélites y sondas; ventajas y desventajas de los campos gravitacionales en
+    la navegación espacial (asistencia gravitacional).
+  objetivos_especificos: Analizar el movimiento de estructuras artificiales en el espacio.
+  bloom: Analizar
+  evaluacion_formativa: Ticket de salida
+- semana: 8
+  oa:
+  - OA14
+  tema: Cierre y evaluación de unidad
+  actividades: Presentación de una misión espacial real (cómo usa la gravitación) y evaluación escrita
+    del OA14.
+  objetivos_especificos: Evaluar la aplicación de la gravitación universal en fenómenos naturales y artificiales.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA14) + rúbrica de presentación
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa desde comprender la evolución histórica de los modelos del Universo a aplicar
+    las leyes de Kepler y la gravitación universal, y evaluar sus aplicaciones en la exploración espacial.

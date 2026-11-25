@@ -19,7 +19,10 @@ Describir la distribución del agua dulce y salada en la Tierra, considerando oc
 - `OA12-i6` Describen algunas creencias y leyendas de los pueblos originarios relacionadas con las aguas.
 
 ### OA13
-Describir las características de los océanos y lagos: ú variación de temperatura, luminosidad y presión en relación a la profundidad ú diversidad de flora y fauna ú movimiento de las aguas, como olas, mareas, corrientes (El Niño y Humboldt)
+Analizar y describir las características de los océanos y lagos:
+- variación de temperatura, luminosidad y presión en relación con la profundidad
+- diversidad de flora y fauna
+- movimiento de las aguas, como olas, mareas, corrientes (El Niño y Humboldt)
 
 **Indicadores de evaluación:**
 
@@ -53,7 +56,7 @@ Reconocer y explicar que los seres vivos están formados por una o más células
 - `OA1-i5` Explican que los organismos (plantas y animales) están constituidos por varios sistemas que funcionan coordinadamente.
 
 ### OA2
-Identificar y describir por medio de modelos las estructuras básicas del sistema digestivo (boca, esófago, estómago, hígado, intestino delgado, intestino grueso) y sus funciones en la digestión, la absorción de alimentos y la eliminación de desechos.
+Identificar y describir por medio de modelos las estructuras básicas del sistema digestivo (boca, esófago, estómago, hígado, intestino delgado, intestino grueso, recto y ano) y sus funciones en la digestión, la absorción de alimentos y la eliminación de desechos.
 
 **Indicadores de evaluación:**
 
@@ -65,7 +68,7 @@ Identificar y describir por medio de modelos las estructuras básicas del sistem
 - `OA2-i6` Explican que la fracción de los alimentos que no fue absorbido es eliminada como desecho.
 
 ### OA4
-Explicar la función de transporte del sistema circulatorio (sustancias alimenticias y oxígeno y dióxido de carbono), identificando sus estructuras básicas (corazón, vasos sanguíneos y sangre).
+Explicar la función de transporte del sistema circulatorio (sustancias alimenticias, oxígeno y dióxido de carbono), identificando sus estructuras básicas (corazón, vasos sanguíneos y sangre).
 
 **Indicadores de evaluación:**
 
@@ -77,7 +80,7 @@ Explicar la función de transporte del sistema circulatorio (sustancias alimenti
 - `OA4-i6` Explican que el movimiento de la sangre permite el transporte de nutrientes y gases a todo el organismo.
 
 ### OA5
-Analizar el consumo de alimento diario (variedad, tamaño y frecuencia de porciones) reconociendo que los alimentos para el crecimiento, la reparación, el desarrollo y el movimiento del cuerpo.
+Analizar el consumo de alimento diario (variedad, tamaño y frecuencia de porciones) reconociendo los alimentos para el crecimiento, la reparación, el desarrollo y el movimiento del cuerpo.
 
 **Indicadores de evaluación:**
 
@@ -94,7 +97,7 @@ Analizar el consumo de alimento diario (variedad, tamaño y frecuencia de porcio
 ## Unidad 3
 
 ### OA3
-Explicar por medio de modelos la respiración (inspiración-espiraciónintercambio de oxígeno y dióxido de carbono), identificando las estructuras básicas del sistema respiratorio (nariz, tráquea, bronquios, alveolos, pulmones).
+Explicar por medio de modelos la respiración (inspiración-espiración-intercambio de oxígeno y dióxido de carbono), identificando las estructuras básicas del sistema respiratorio (nariz, tráquea, bronquios, alvéolos, pulmones).
 
 **Indicadores de evaluación:**
 
@@ -106,7 +109,7 @@ Explicar por medio de modelos la respiración (inspiración-espiraciónintercamb
 - `OA3-i6` Relacionan los cambios de frecuencia respiratoria a las necesidades de oxigeno del cuerpo.
 
 ### OA6
-Investigar en diversas fuentes y comunicar los efectos nocivos que produce el cigarrillo (humo del tabaco) en el sistema respiratorio y circulatorio.
+Investigar en diversas fuentes y comunicar los efectos nocivos que produce el cigarrillo (humo del tabaco) en los sistemas respiratorio y circulatorio.
 
 **Indicadores de evaluación:**
 
@@ -132,7 +135,7 @@ Investigar e identificar algunos microorganismos beneficiosos y dañinos para la
 ## Unidad 4
 
 ### OA8
-Reconocer los cambios que experimenta la energía eléctrica de una forma a otra (eléctrica a calórica, sonora, lumínica etc.) e investigar los principales aportes de científicos en su estudio a través del tiempo.
+Reconocer los cambios que experimenta la energía eléctrica al pasar de una forma a otra (eléctrica a calórica, sonora, lumínica etc.) e investigar los principales aportes de científicos en su estudio a través del tiempo.
 
 **Indicadores de evaluación:**
 
@@ -143,7 +146,7 @@ Reconocer los cambios que experimenta la energía eléctrica de una forma a otra
 - `OA8-i5` Explican y comunican los principales aportes generados por diferentes científicos sobre la energía eléctrica.
 
 ### OA9
-Construir un circuito eléctrico simple (cable, ampolleta, interruptor y pila) usándolo para resolver problemas cotidianos y explicar su funcionamiento.
+Construir un circuito eléctrico simple (cable, ampolleta, interruptor y pila), usarlo para resolver problemas cotidianos y explicar su funcionamiento.
 
 **Indicadores de evaluación:**
 

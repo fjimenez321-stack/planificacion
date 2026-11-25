@@ -32,6 +32,8 @@ def validar(plan, ruta_yaml):
     for c in CAMPOS_ENCABEZADO:
         if not str(enc.get(c, "")).strip():
             errores.append(f"encabezado.{c} vacío")
+    if not re.fullmatch(r"20\d\d", str(plan.get("anio", ""))):
+        errores.append("anio falta o no es un año (ej: 2027)")
     for c in ["proposito", "duracion"]:
         if not str(plan.get(c, "")).strip():
             errores.append(f"{c} vacío")
@@ -57,8 +59,11 @@ def validar(plan, ruta_yaml):
     for oa in codigos - usados:
         errores.append(f"{oa} no está asignado a ninguna semana")
     # el OA debe existir en el programa del curso
-    prog = Path(ruta_yaml).resolve().parent.parent / "programa" / "oa.md"
-    if prog.exists():
+    curso = next((d for d in Path(ruta_yaml).resolve().parents if d.parent.name == "cursos"), None)
+    prog = curso / "programa" / "oa.md" if curso else None
+    if prog is None or not prog.exists():
+        errores.append("no se encontró cursos/<curso>/programa/oa.md")
+    else:
         texto = prog.read_text(encoding="utf-8")
         for oa in codigos:
             if not re.search(rf"\b{re.escape(oa)}\b", texto):
@@ -96,6 +101,10 @@ def llenar_celda(celda, lineas):
 
 def generar(plan, salida):
     d = docx.Document(PLANTILLA)
+    # año en el título institucional ("UNIDAD TECNICO PEDAGOGICA 2026")
+    anio = str(plan.get("anio", 2026))
+    for r in d.paragraphs[1].runs:
+        r.text = re.sub(r"\b20\d\d\b", anio, r.text)
     t_enc, t_prop, t_sem = d.tables[0], d.tables[1], d.tables[2]
     enc = plan["encabezado"]
 

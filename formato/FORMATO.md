@@ -19,6 +19,7 @@ Molde: `plantilla_planificacion.docx` (hoja horizontal). **No modificar sin acue
 |---|---|
 | `estado` | `borrador` · `vigente` · `ejecutada` (no se imprime) |
 | `version` | entero; sube con cada reestructuración (no se imprime) |
+| `anio` | año escolar; reemplaza el año del título "UNIDAD TECNICO PEDAGOGICA" |
 | `encabezado.unidad` | `UNIDAD III: Energía mecánica…` |
 | `encabezado.profesor` / `curso` / `asignatura` / `mes` | texto |
 | `proposito` | un párrafo |
@@ -40,4 +41,4 @@ Molde: `plantilla_planificacion.docx` (hoja horizontal). **No modificar sin acue
 - Hay al menos una evaluación sumativa por OA.
 - Las actividades incluyen trabajo práctico o experimental cuando el OA lo permite.
 
-Ejemplo completo: `cursos/2M-fisica/planificaciones/U3-energia-momentum.yaml`.
+Ejemplo completo: `cursos/2M-fisica/planificaciones/2026/U3-energia-momentum.yaml`.

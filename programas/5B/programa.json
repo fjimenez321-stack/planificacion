@@ -35,11 +35,12 @@
        "id": "OA12-i6",
        "texto": "Describen algunas creencias y leyendas de los pueblos originarios relacionadas con las aguas."
       }
-     ]
+     ],
+     "eje": "Ciencias de la Tierra y el Universo"
     },
     {
      "oa": "OA13",
-     "texto": "Describir las características de los océanos y lagos: ú variación de temperatura, luminosidad y presión en relación a la profundidad ú diversidad de flora y fauna ú movimiento de las aguas, como olas, mareas, corrientes (El Niño y Humboldt)",
+     "texto": "Analizar y describir las características de los océanos y lagos:\n- variación de temperatura, luminosidad y presión en relación con la profundidad\n- diversidad de flora y fauna\n- movimiento de las aguas, como olas, mareas, corrientes (El Niño y Humboldt)",
      "indicadores": [
       {
        "id": "OA13-i1",
@@ -61,7 +62,8 @@
        "id": "OA13-i5",
        "texto": "Comparan diversas zonas marinas en cuanto al tipo y distribución de organismos estableciendo diferencias y similitudes."
       }
-     ]
+     ],
+     "eje": "Ciencias de la Tierra y el Universo"
     },
     {
      "oa": "OA14",
@@ -83,7 +85,8 @@
        "id": "OA14-i4",
        "texto": "Clasifican y registran las formas de contaminación más frecuentes y significativas en los mares, ríos y lagos."
       }
-     ]
+     ],
+     "eje": "Ciencias de la Tierra y el Universo"
     }
    ]
   },
@@ -116,11 +119,12 @@
        "id": "OA1-i5",
        "texto": "Explican que los organismos (plantas y animales) están constituidos por varios sistemas que funcionan coordinadamente."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA2",
-     "texto": "Identificar y describir por medio de modelos las estructuras básicas del sistema digestivo (boca, esófago, estómago, hígado, intestino delgado, intestino grueso) y sus funciones en la digestión, la absorción de alimentos y la eliminación de desechos.",
+     "texto": "Identificar y describir por medio de modelos las estructuras básicas del sistema digestivo (boca, esófago, estómago, hígado, intestino delgado, intestino grueso, recto y ano) y sus funciones en la digestión, la absorción de alimentos y la eliminación de desechos.",
      "indicadores": [
       {
        "id": "OA2-i1",
@@ -146,11 +150,12 @@
        "id": "OA2-i6",
        "texto": "Explican que la fracción de los alimentos que no fue absorbido es eliminada como desecho."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA4",
-     "texto": "Explicar la función de transporte del sistema circulatorio (sustancias alimenticias y oxígeno y dióxido de carbono), identificando sus estructuras básicas (corazón, vasos sanguíneos y sangre).",
+     "texto": "Explicar la función de transporte del sistema circulatorio (sustancias alimenticias, oxígeno y dióxido de carbono), identificando sus estructuras básicas (corazón, vasos sanguíneos y sangre).",
      "indicadores": [
       {
        "id": "OA4-i1",
@@ -176,11 +181,12 @@
        "id": "OA4-i6",
        "texto": "Explican que el movimiento de la sangre permite el transporte de nutrientes y gases a todo el organismo."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA5",
-     "texto": "Analizar el consumo de alimento diario (variedad, tamaño y frecuencia de porciones) reconociendo que los alimentos para el crecimiento, la reparación, el desarrollo y el movimiento del cuerpo.",
+     "texto": "Analizar el consumo de alimento diario (variedad, tamaño y frecuencia de porciones) reconociendo los alimentos para el crecimiento, la reparación, el desarrollo y el movimiento del cuerpo.",
      "indicadores": [
       {
        "id": "OA5-i1",
@@ -218,7 +224,8 @@
        "id": "OA5-i9",
        "texto": "Elaboran dietas que consideran distintos alimentos que en su conjunto propician el desarrollo de un cuerpo sano."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     }
    ]
   },
@@ -229,7 +236,7 @@
    "oa": [
     {
      "oa": "OA3",
-     "texto": "Explicar por medio de modelos la respiración (inspiración-espiraciónintercambio de oxígeno y dióxido de carbono), identificando las estructuras básicas del sistema respiratorio (nariz, tráquea, bronquios, alveolos, pulmones).",
+     "texto": "Explicar por medio de modelos la respiración (inspiración-espiración-intercambio de oxígeno y dióxido de carbono), identificando las estructuras básicas del sistema respiratorio (nariz, tráquea, bronquios, alvéolos, pulmones).",
      "indicadores": [
       {
        "id": "OA3-i1",
@@ -255,11 +262,12 @@
        "id": "OA3-i6",
        "texto": "Relacionan los cambios de frecuencia respiratoria a las necesidades de oxigeno del cuerpo."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA6",
-     "texto": "Investigar en diversas fuentes y comunicar los efectos nocivos que produce el cigarrillo (humo del tabaco) en el sistema respiratorio y circulatorio.",
+     "texto": "Investigar en diversas fuentes y comunicar los efectos nocivos que produce el cigarrillo (humo del tabaco) en los sistemas respiratorio y circulatorio.",
      "indicadores": [
       {
        "id": "OA6-i1",
@@ -281,7 +289,8 @@
        "id": "OA6-i5",
        "texto": "Comparan el consumo de cigarrillo en Chile respecto a países desarrollados."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA7",
@@ -315,7 +324,8 @@
        "id": "OA7-i7",
        "texto": "Mencionan diversas acciones, como, lavarse las manos, cubrirse la boca al estornudar, lavar los alimentos, etc., que permiten prevenir el contagio de enfermedades infecto contagiosas."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     }
    ]
   },
@@ -326,7 +336,7 @@
    "oa": [
     {
      "oa": "OA8",
-     "texto": "Reconocer los cambios que experimenta la energía eléctrica de una forma a otra (eléctrica a calórica, sonora, lumínica etc.) e investigar los principales aportes de científicos en su estudio a través del tiempo.",
+     "texto": "Reconocer los cambios que experimenta la energía eléctrica al pasar de una forma a otra (eléctrica a calórica, sonora, lumínica etc.) e investigar los principales aportes de científicos en su estudio a través del tiempo.",
      "indicadores": [
       {
        "id": "OA8-i1",
@@ -348,11 +358,12 @@
        "id": "OA8-i5",
        "texto": "Explican y comunican los principales aportes generados por diferentes científicos sobre la energía eléctrica."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     },
     {
      "oa": "OA9",
-     "texto": "Construir un circuito eléctrico simple (cable, ampolleta, interruptor y pila) usándolo para resolver problemas cotidianos y explicar su funcionamiento.",
+     "texto": "Construir un circuito eléctrico simple (cable, ampolleta, interruptor y pila), usarlo para resolver problemas cotidianos y explicar su funcionamiento.",
      "indicadores": [
       {
        "id": "OA9-i1",
@@ -374,7 +385,8 @@
        "id": "OA9-i5",
        "texto": "Conectan los dispositivos que conforman un circuito simple."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     },
     {
      "oa": "OA10",
@@ -400,7 +412,8 @@
        "id": "OA10-i5",
        "texto": "Explican y comunican las normas de seguridad frente a los peligros de la corriente eléctrica."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     },
     {
      "oa": "OA11",
@@ -422,7 +435,8 @@
        "id": "OA11-i4",
        "texto": "Proporcionan ejemplos que ponen en evidencia la importancia de la energía eléctrica en nuestra civilización."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     }
    ]
   }

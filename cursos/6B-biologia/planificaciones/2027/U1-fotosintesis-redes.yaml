@@ -1,0 +1,155 @@
+# Sexto Básico · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD I: Fotosíntesis y redes alimentarias'
+  profesor: Felipe Jiménez
+  curso: Sexto Básico
+  asignatura: Biología
+  mes: Marzo a junio
+proposito: Explicar, a partir de la investigación experimental, los requerimientos de la fotosíntesis,
+  representar con modelos la transferencia de materia y energía en cadenas y redes alimentarias, y analizar
+  los efectos de la actividad humana sobre ellas.
+objetivos:
+- oa: OA1
+  texto: Explicar, a partir de una investigación experimental, los requerimientos de agua, dióxido de
+    carbono y energía lumínica para la producción de azúcar y liberación de oxígeno en la fotosíntesis,
+    comunicando sus resultados y los aportes de científicos en este campo a través del tiempo.
+- oa: OA2
+  texto: Representar, por medio de modelos, la transferencia de energía y materia desde los organismos
+    fotosintéticos a otros seres vivos por medio de cadenas y redes alimentarias en diferentes ecosistemas.
+- oa: OA3
+  texto: Analizar los efectos de la actividad humana sobre las redes alimentarias.
+duracion: 15 semanas (30 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA1
+  tema: ¿Cómo se alimentan las plantas?
+  actividades: 'Diagnóstico. Lectura del experimento de van Helmont y discusión: ¿de dónde sale la masa
+    del árbol?'
+  objetivos_especificos: Reconocer ideas previas sobre la nutrición de las plantas.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Ticket de salida
+- semana: 2
+  oa:
+  - OA1
+  tema: 'Experimento: luz'
+  actividades: Plantas con y sin luz durante la semana (registro); hojas tapadas con papel aluminio y
+    prueba de almidón con lugol.
+  objetivos_especificos: Investigar el requerimiento de luz para la fotosíntesis.
+  bloom: Aplicar
+  evaluacion_formativa: Registro experimental
+- semana: 3
+  oa:
+  - OA1
+  tema: 'Experimento: agua y CO2'
+  actividades: Planta sin agua vs. con agua; Elodea en agua con bicarbonato (burbujas de oxígeno).
+  objetivos_especificos: Investigar los requerimientos de agua y dióxido de carbono.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Ficha de laboratorio
+- semana: 4
+  oa:
+  - OA1
+  tema: La fotosíntesis
+  actividades: Ecuación de la fotosíntesis en palabras; organismos fotosintéticos (plantas, algas y algunos
+    microorganismos).
+  objetivos_especificos: Explicar el proceso de fotosíntesis.
+  bloom: Comprender
+  evaluacion_formativa: Esquema de fotosíntesis
+- semana: 5
+  oa:
+  - OA1
+  tema: Científicos y fotosíntesis
+  actividades: 'Van Helmont, Priestley, Ingenhousz: línea de tiempo de descubrimientos.'
+  objetivos_especificos: Reconocer los aportes de científicos al estudio de la fotosíntesis.
+  bloom: Analizar
+  evaluacion_formativa: Línea de tiempo
+- semana: 6
+  oa:
+  - OA1
+  tema: Evaluación OA1
+  actividades: Comunicación de resultados experimentales y evaluación escrita del OA1.
+  objetivos_especificos: Evaluar la comprensión de la fotosíntesis.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA1)
+- semana: 7
+  oa:
+  - OA2
+  tema: Productores, consumidores y descomponedores
+  actividades: Clasificación de seres vivos de un ecosistema chileno según cómo obtienen energía.
+  objetivos_especificos: Identificar los roles en un ecosistema.
+  bloom: Comprender
+  evaluacion_formativa: Clasificación en tabla
+- semana: 8
+  oa:
+  - OA2
+  tema: Cadenas alimentarias
+  actividades: Construcción de cadenas con tarjetas de especies chilenas; niveles tróficos.
+  objetivos_especificos: Representar cadenas alimentarias con modelos.
+  bloom: Aplicar
+  evaluacion_formativa: Cadena construida
+- semana: 9
+  oa:
+  - OA2
+  tema: Redes alimentarias
+  actividades: 'Red con lana en el patio: cada estudiante es una especie; transferencia de energía y materia.'
+  objetivos_especificos: Representar redes alimentarias y la transferencia de energía.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Dibujo de la red
+- semana: 10
+  oa:
+  - OA2
+  tema: Redes en distintos ecosistemas
+  actividades: Comparación de redes del bosque, el mar y el desierto de Chile.
+  objetivos_especificos: Comparar redes alimentarias de diferentes ecosistemas.
+  bloom: Analizar
+  evaluacion_formativa: Cuadro comparativo
+- semana: 11
+  oa:
+  - OA2
+  tema: Evaluación OA2
+  actividades: Evaluación escrita del OA2 con interpretación de redes.
+  objetivos_especificos: Evaluar la comprensión de cadenas y redes.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°2 (OA2)
+- semana: 12
+  oa:
+  - OA3
+  tema: ¿Qué pasa si falta un eslabón?
+  actividades: 'Red de lana: se ''corta'' una especie y se analizan las consecuencias.'
+  objetivos_especificos: Predecir consecuencias de alterar un nivel trófico.
+  bloom: Analizar
+  evaluacion_formativa: Ticket de salida
+- semana: 13
+  oa:
+  - OA3
+  tema: Acción humana y redes
+  actividades: 'Casos: deforestación, pesca excesiva, especies introducidas (castor en Tierra del Fuego),
+    contaminación.'
+  objetivos_especificos: Analizar efectos de la actividad humana sobre las redes alimentarias.
+  bloom: Analizar
+  evaluacion_formativa: Ficha de caso
+- semana: 14
+  oa:
+  - OA3
+  tema: Medidas de protección
+  actividades: Propuestas de medidas preventivas en equipos (afiche).
+  objetivos_especificos: Proponer medidas para proteger las redes alimentarias.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Afiche con rúbrica
+- semana: 15
+  oa:
+  - OA1
+  - OA2
+  - OA3
+  tema: Cierre de unidad
+  actividades: Evaluación del OA3 e integración de la unidad.
+  objetivos_especificos: Evaluar los aprendizajes de la unidad.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°3 (OA3)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en tres ciclos, desde comprender la fotosíntesis por medio de experimentos
+    a modelar redes alimentarias y evaluar el impacto humano sobre ellas.

@@ -35,7 +35,8 @@
        "id": "OA1-i6",
        "texto": "Fundamentan predicciones sobre fenómenos o problemas ocurridos en el proceso de fotosíntesis."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA2",
@@ -61,7 +62,8 @@
        "id": "OA2-i5",
        "texto": "Analizan posibles consecuencias de la alteración de los flujos de materia y energía en el ecosistema."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA3",
@@ -83,11 +85,12 @@
        "id": "OA3-i4",
        "texto": "Analizan situaciones que alteran el equilibrio natural (deforestación, contaminación y plantaciones) y proponen medidas preventivas y moderadoras a estos problemas, asumiendo compromisos personales."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA16",
-     "texto": "Describir las características de las capas de la tierra (atmósfera, litósfera e hidrósfera) que posibilitan el desarrollo de la vida y proveen recursos para el ser humano, y proponer medidas de protección de dichas capas.",
+     "texto": "Describir las características de las capas de la Tierra (atmósfera, litósfera e hidrósfera) que posibilitan el desarrollo de la vida y proveen recursos para el ser humano, y proponer medidas de protección de dichas capas.",
      "indicadores": [
       {
        "id": "OA16-i1",
@@ -117,7 +120,8 @@
        "id": "OA16-i7",
        "texto": "Comunican y representan, mediante modelos y presentaciones con TIC, conductas individuales y colectivas que evitan diversos tipos de contaminación."
       }
-     ]
+     ],
+     "eje": "Ciencias de la Tierra y el Universo"
     },
     {
      "oa": "OA17",
@@ -155,7 +159,8 @@
        "id": "OA17-i8",
        "texto": "Formulan conclusiones sobre las variables que intervienen en la alteración de los horizontes del suelo y sus consecuencias para los seres vivos."
       }
-     ]
+     ],
+     "eje": "Ciencias de la Tierra y el Universo"
     },
     {
      "oa": "OA18",
@@ -177,7 +182,8 @@
        "id": "OA18-i4",
        "texto": "Evalúan y comunican la influencia de los distintos factores en la erosión de la superficie de la Tierra (por ejemplo: vientos, agua, seres vivos)."
       }
-     ]
+     ],
+     "eje": "Ciencias de la Tierra y el Universo"
     }
    ]
   },
@@ -202,11 +208,12 @@
        "id": "OA4-i3",
        "texto": "Representan, a partir de esquemas y diagramas, el sistema reproductor femenino y masculino."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA5",
-     "texto": "Describir y comparar los cambios que se producen en la pubertad en mujeres y hombres, reconociéndola como una etapa del desarrollo humano.",
+     "texto": "Describir y comparar los cambios que se producen en la pubertad en mujeres y hombres, reconociéndola, como una etapa del desarrollo humano.",
      "indicadores": [
       {
        "id": "OA5-i1",
@@ -216,7 +223,8 @@
        "id": "OA5-i2",
        "texto": "Comparan los cambios que se producen en hombres y mujeres durante la pubertad."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA6",
@@ -250,7 +258,8 @@
        "id": "OA6-i7",
        "texto": "Explican los cambios fisiológicos propios de la edad que implican un aseo higiénico diferencial."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     },
     {
      "oa": "OA7",
@@ -272,7 +281,8 @@
        "id": "OA7-i4",
        "texto": "Señalan conductas que previenen el consumo de drogas."
       }
-     ]
+     ],
+     "eje": "Ciencias de la vida y salud"
     }
    ]
   },
@@ -309,7 +319,8 @@
        "id": "OA8-i6",
        "texto": "Seleccionan y utilizan instrumentos que utilizan energía para su funcionamiento, de manera segura."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     },
     {
      "oa": "OA9",
@@ -335,7 +346,8 @@
        "id": "OA9-i5",
        "texto": "Comunican y representan por medio de TIC, situaciones cotidianas que muestren transformaciones de energía de una forma a otra."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     },
     {
      "oa": "OA10",
@@ -365,7 +377,8 @@
        "id": "OA10-i6",
        "texto": "Explican el proceso de transferencia de calor entre las partes de un artefacto de uso cotidiano."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     },
     {
      "oa": "OA11",
@@ -395,7 +408,8 @@
        "id": "OA11-i6",
        "texto": "Evalúan medidas para el uso responsable de la energía y las comunican por medio de presentaciones con TIC."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     }
    ]
   },
@@ -424,7 +438,8 @@
        "id": "OA12-i4",
        "texto": "Relacionan el carácter dinámico de las partículas que conforman la materia y sus diferencias de movimiento en los estados sólido, líquido y gaseoso."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     },
     {
      "oa": "OA13",
@@ -462,7 +477,8 @@
        "id": "OA13-i8",
        "texto": "Establecen similitudes y diferencias en el comportamiento de las partículas en los procesos de cambio de estado."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     },
     {
      "oa": "OA14",
@@ -492,7 +508,8 @@
        "id": "OA14-i6",
        "texto": "Establecen y comunican diferencias entre el calor y la temperatura."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     },
     {
      "oa": "OA15",
@@ -514,7 +531,8 @@
        "id": "OA15-i4",
        "texto": "Establecen similitudes y diferencias entre el comportamiento de la temperatura y del calor en los cambios de estado."
       }
-     ]
+     ],
+     "eje": "Ciencias físicas y químicas"
     }
    ]
   }

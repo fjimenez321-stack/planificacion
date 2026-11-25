@@ -1,0 +1,134 @@
+# Segundo Medio · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD II: Sexualidad y reproducción'
+  profesor: Felipe Jiménez
+  curso: Segundo Medio
+  asignatura: Biología
+  mes: Mayo a agosto
+proposito: Comprender la sexualidad humana en sus dimensiones biológica, afectiva, psicológica y social;
+  describir la fecundación y el desarrollo embrionario, y evaluar los métodos de regulación de la fertilidad
+  y los elementos de una paternidad y una maternidad responsables.
+objetivos:
+- oa: OA3
+  texto: Explicar que la sexualidad humana y la reproducción son aspectos fundamentales de la vida del
+    ser humano, considerando los aspectos biológicos, sociales, afectivos y psicológicos, y la responsabilidad
+    individual frente a sí mismo y los demás.
+- oa: OA4
+  texto: Describir la fecundación, la implantación y el desarrollo del embrión, y analizar la responsabilidad
+    de los padres en la nutrición prenatal y la lactancia.
+- oa: OA5
+  texto: Explicar y evaluar los métodos de regulación de la fertilidad e identificar los elementos de
+    una paternidad y una maternidad responsables.
+duracion: 12 semanas (24 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA3
+  tema: Dimensiones de la sexualidad
+  actividades: Encuesta anónima de ideas previas. Dimensiones biológica, afectiva, psicológica y sociocultural;
+    diferencia entre sexualidad y reproducción.
+  objetivos_especificos: Distinguir las dimensiones de la sexualidad humana.
+  bloom: Comprender
+  evaluacion_formativa: Encuesta + ticket de salida
+- semana: 2
+  oa:
+  - OA3
+  tema: Afectividad y relaciones
+  actividades: Análisis de casos sobre relaciones sanas, consentimiento y presión de pares ('Decir que
+    no').
+  objetivos_especificos: Analizar situaciones de afectividad y responsabilidad en las relaciones.
+  bloom: Analizar
+  evaluacion_formativa: Análisis de casos
+- semana: 3
+  oa:
+  - OA3
+  tema: Diversidad y derechos
+  actividades: Derechos sexuales y reproductivos; respeto a la diversidad. Trabajo con orientaciones del
+    Mineduc.
+  objetivos_especificos: Reconocer derechos sexuales y reproductivos y valorar la diversidad.
+  bloom: Comprender / Evaluar
+  evaluacion_formativa: Reflexión escrita
+- semana: 4
+  oa:
+  - OA3
+  - OA4
+  tema: Evaluación OA3 y gametos
+  actividades: Evaluación del OA3 (ensayo breve con rúbrica). Sistemas reproductores y gametogénesis.
+  objetivos_especificos: Evaluar el OA3 y describir los sistemas reproductores.
+  bloom: Evaluar / Recordar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA3)
+- semana: 5
+  oa:
+  - OA4
+  tema: Fecundación e implantación
+  actividades: Modelo del trayecto del espermatozoide y del ovocito; fecundación e implantación (animación).
+  objetivos_especificos: Describir la fecundación y la implantación.
+  bloom: Comprender
+  evaluacion_formativa: Modelo con rótulos
+- semana: 6
+  oa:
+  - OA4
+  tema: Desarrollo embrionario y fetal
+  actividades: Línea de tiempo del desarrollo embrionario y fetal; placenta y anexos embrionarios.
+  objetivos_especificos: Explicar las etapas del desarrollo embrionario.
+  bloom: Comprender
+  evaluacion_formativa: Línea de tiempo
+- semana: 7
+  oa:
+  - OA4
+  tema: Nutrición prenatal y lactancia
+  actividades: Análisis de recomendaciones del MINSAL; efectos del alcohol, el tabaco y las drogas en
+    el embarazo; apego y lactancia.
+  objetivos_especificos: Analizar la responsabilidad de los padres en la nutrición prenatal y la lactancia.
+  bloom: Analizar
+  evaluacion_formativa: Guía de análisis
+- semana: 8
+  oa:
+  - OA4
+  - OA5
+  tema: Evaluación OA4 y ciclo menstrual
+  actividades: Evaluación escrita del OA4. Repaso del ciclo menstrual y del período fértil.
+  objetivos_especificos: Evaluar el OA4 e interpretar el ciclo menstrual.
+  bloom: Evaluar / Comprender
+  evaluacion_formativa: Evaluación sumativa N°2 (OA4)
+- semana: 9
+  oa:
+  - OA5
+  tema: Métodos de regulación de la fertilidad
+  actividades: 'Estaciones informativas: métodos naturales, de barrera, hormonales, quirúrgicos y de emergencia;
+    mecanismo y efectividad.'
+  objetivos_especificos: Explicar los métodos de regulación de la fertilidad.
+  bloom: Comprender
+  evaluacion_formativa: Cuadro comparativo
+- semana: 10
+  oa:
+  - OA5
+  tema: Evaluación de métodos e ITS
+  actividades: Comparación de efectividad (datos) y protección frente a ITS; análisis de casos.
+  objetivos_especificos: Evaluar los métodos según efectividad y protección.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Análisis de casos
+- semana: 11
+  oa:
+  - OA5
+  tema: Paternidad y maternidad responsables
+  actividades: Datos de embarazo adolescente en Chile; derechos del niño; proyecto de vida.
+  objetivos_especificos: Identificar los elementos de una paternidad y una maternidad responsables.
+  bloom: Evaluar
+  evaluacion_formativa: Reflexión escrita
+- semana: 12
+  oa:
+  - OA5
+  tema: Cierre de unidad
+  actividades: Campaña informativa en equipos (afiche o video breve) y evaluación del OA5.
+  objetivos_especificos: Evaluar y comunicar decisiones responsables sobre la sexualidad.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°3 (OA5) con rúbrica
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad avanza en tres ciclos, de comprender las dimensiones de la sexualidad y los procesos
+    reproductivos a analizar y evaluar decisiones responsables, con espacios de reflexión y respeto a
+    la diversidad.

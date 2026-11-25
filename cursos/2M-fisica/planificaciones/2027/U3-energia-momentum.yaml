@@ -1,0 +1,116 @@
+# Segundo Medio · Física · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD III: Energía mecánica y cantidad de movimiento'
+  profesor: Felipe Jiménez
+  curso: Segundo Medio
+  asignatura: Física
+  mes: Agosto a octubre
+proposito: Comprender y describir el movimiento de un objeto y las interacciones entre cuerpos aplicando
+  la ley de conservación de la energía mecánica y la ley de conservación de la cantidad de movimiento,
+  a través del análisis experimental de trabajo, potencia, impulso y colisiones.
+objetivos:
+- oa: OA11
+  texto: Describir el movimiento de un objeto, usando la ley de conservación de la energía mecánica y
+    los conceptos de trabajo y potencia mecánica.
+- oa: OA12
+  texto: 'Analizar e interpretar datos de investigaciones sobre colisiones entre objetos, considerando:
+    • La cantidad de movimiento de un cuerpo en función del impulso que adquiere. • La ley de conservación
+    de cantidad de movimiento (momento lineal o momentum).'
+duracion: 10 semanas (20 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA11
+  tema: Trabajo mecánico
+  actividades: 'Think-Pair-Share: ¿qué significa trabajo en física vs. en la vida cotidiana? W = F·d·cosθ
+    con máquinas simples (poleas, planos inclinados).'
+  objetivos_especificos: Identificar y calcular el trabajo mecánico realizado por una fuerza.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Kahoot diagnóstico + guía conceptual
+- semana: 2
+  oa:
+  - OA11
+  tema: Energía cinética y potencial
+  actividades: Energía cinética, potencial gravitatoria y elástica (ley de Hooke, repaso de la Unidad
+    2). Esquema de energía mecánica. Trabajo en tres niveles.
+  objetivos_especificos: Describir la energía mecánica en términos de sus componentes.
+  bloom: Comprender
+  evaluacion_formativa: Guía de ejercicios diferenciada
+- semana: 3
+  oa:
+  - OA11
+  tema: Conservación de la energía mecánica
+  actividades: Caída libre midiendo altura y tiempo. PhET 'Energy Skate Park' para verificar que Em =
+    Ec + Ep se mantiene constante.
+  objetivos_especificos: Aplicar la conservación de la energía mecánica en situaciones cotidianas.
+  bloom: Aplicar
+  evaluacion_formativa: Informe breve de laboratorio
+- semana: 4
+  oa:
+  - OA11
+  tema: Roce y teorema trabajo-energía
+  actividades: 'Deslizamiento sobre una superficie rugosa: energía mecánica inicial y final.'
+  objetivos_especificos: Analizar el efecto del roce sobre la energía mecánica.
+  bloom: Analizar
+  evaluacion_formativa: Resolución de problemas
+- semana: 5
+  oa:
+  - OA11
+  tema: Potencia mecánica
+  actividades: Cálculo de la potencia al subir escaleras (cada estudiante), ascensor y grúa.
+  objetivos_especificos: Determinar la potencia mecánica en situaciones cotidianas.
+  bloom: Aplicar
+  evaluacion_formativa: Registro de potencia personal
+- semana: 6
+  oa:
+  - OA11
+  - OA12
+  tema: Evaluación OA11 y cantidad de movimiento
+  actividades: Evaluación escrita del OA11. Introducción a p = m·v con choques cotidianos (autos, billar).
+  objetivos_especificos: Evaluar la comprensión del OA11 y definir la cantidad de movimiento.
+  bloom: Evaluar / Recordar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA11)
+- semana: 7
+  oa:
+  - OA12
+  tema: Impulso
+  actividades: 'Carritos: velocidad antes y después de un impulso. Relación entre F·Δt y Δp; airbags y
+    cascos.'
+  objetivos_especificos: Describir el impulso como variación de la cantidad de movimiento.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ejercicios resueltos en clase
+- semana: 8
+  oa:
+  - OA12
+  tema: Conservación y colisiones
+  actividades: Colisiones entre carritos o canicas de distinta masa; colisiones elásticas e inelásticas.
+  objetivos_especificos: Aplicar la conservación de la cantidad de movimiento y distinguir tipos de colisiones.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Informe grupal de experimento
+- semana: 9
+  oa:
+  - OA12
+  tema: Análisis de datos de colisiones
+  actividades: Análisis de videos de choques (Tracker o Phyphox) y de datos tabulados; mapa conceptual
+    de momentum e impulso.
+  objetivos_especificos: Analizar e interpretar datos experimentales de colisiones.
+  bloom: Analizar
+  evaluacion_formativa: Mapa conceptual con retroalimentación
+- semana: 10
+  oa:
+  - OA11
+  - OA12
+  tema: Proyecto integrador y cierre
+  actividades: Mini-proyecto o mapa que integre energía, trabajo, potencia, momentum, impulso y colisiones;
+    exposición y evaluación escrita.
+  objetivos_especificos: Evaluar e integrar energía mecánica y cantidad de movimiento en un producto propio.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA12) + rúbrica de proyecto
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad replica la progresión de Bloom en dos ciclos, el primero para energía mecánica (OA11)
+    y el segundo para cantidad de movimiento (OA12), cerrando con un proyecto integrador. Se basa en la
+    Unidad III aplicada en 2026, con dos semanas más de desarrollo.

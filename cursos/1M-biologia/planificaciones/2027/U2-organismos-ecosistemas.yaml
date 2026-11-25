@@ -1,0 +1,115 @@
+# Primero Medio · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD II: Organismos en ecosistemas'
+  profesor: Felipe Jiménez
+  curso: Primero Medio
+  asignatura: Biología
+  mes: Junio a agosto
+proposito: Investigar y explicar cómo se organizan e interactúan los seres vivos en ecosistemas de Chile,
+  y analizar e interpretar los factores que afectan el tamaño de las poblaciones, prediciendo sus consecuencias
+  sobre el ecosistema.
+objetivos:
+- oa: OA4
+  texto: 'Investigar y explicar cómo se organizan e interactúan los seres vivos en diversos ecosistemas,
+    a partir de ejemplos de Chile, considerando: • Los niveles de organización de los seres vivos (como
+    organismo, población, comunidad, ecosistema). • Las interacciones biológicas (como depredación, competencia,
+    comensalismo, mutualismo, parasitismo).'
+- oa: OA5
+  texto: Analizar e interpretar los factores que afectan el tamaño de las poblaciones (propagación de
+    enfermedades, disponibilidad de energía y de recursos alimentarios, sequías, entre otros) y predecir
+    posibles consecuencias sobre el ecosistema.
+duracion: 9 semanas (18 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA4
+  tema: Niveles de organización ecológica
+  actividades: 'Salida al patio o plaza: identificación de organismo, población, comunidad y ecosistema.
+    Factores bióticos y abióticos con registro fotográfico.'
+  objetivos_especificos: Identificar los niveles de organización de un ecosistema y sus componentes.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Ficha de observación de terreno
+- semana: 2
+  oa:
+  - OA4
+  tema: Ecosistemas de Chile
+  actividades: Estaciones con ecosistemas chilenos (bosque valdiviano, desierto florido, humedal costero,
+    altiplano). Cada equipo describe componentes y una cadena trófica.
+  objetivos_especificos: Describir ecosistemas chilenos y sus componentes bióticos y abióticos.
+  bloom: Comprender
+  evaluacion_formativa: Guía de estaciones
+- semana: 3
+  oa:
+  - OA4
+  tema: Interacciones interespecíficas
+  actividades: 'Análisis de casos: depredación (zorro–roedor), competencia, mutualismo (picaflor–copihue),
+    parasitismo y comensalismo. Clasificación de interacciones según efecto (+, –, 0).'
+  objetivos_especificos: Explicar las interacciones entre especies y sus efectos.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Tabla de interacciones con ejemplos propios
+- semana: 4
+  oa:
+  - OA4
+  tema: Interacciones intraespecíficas y nicho
+  actividades: Competencia intraespecífica, territorialidad y conducta social. Concepto de nicho ecológico
+    y hábitat con especies endémicas.
+  objetivos_especificos: Distinguir interacciones intraespecíficas y el concepto de nicho.
+  bloom: Analizar
+  evaluacion_formativa: Ticket de salida
+- semana: 5
+  oa:
+  - OA4
+  - OA5
+  tema: Evaluación OA4 y propiedades de poblaciones
+  actividades: 'Evaluación breve del OA4. Propiedades de las poblaciones: densidad, natalidad, mortalidad,
+    migración. Muestreo por cuadrantes en el patio.'
+  objetivos_especificos: Evaluar la comprensión de las interacciones y estimar la densidad de una población.
+  bloom: Evaluar / Aplicar
+  evaluacion_formativa: Evaluación sumativa N°1 (OA4)
+- semana: 6
+  oa:
+  - OA5
+  tema: Crecimiento poblacional
+  actividades: Simulación de crecimiento con porotos o datos de levaduras; gráficos de crecimiento exponencial
+    y logístico; capacidad de carga.
+  objetivos_especificos: Interpretar gráficos de crecimiento poblacional y el concepto de capacidad de
+    carga.
+  bloom: Analizar
+  evaluacion_formativa: Gráficos interpretados en guía
+- semana: 7
+  oa:
+  - OA5
+  tema: Factores que regulan las poblaciones
+  actividades: 'Análisis de datos reales: ciclo liebre–lince, sequía en Chile central, enfermedades en
+    poblaciones (rabia, virus en anfibios). Factores dependientes e independientes de la densidad.'
+  objetivos_especificos: Analizar factores que modifican el tamaño de las poblaciones a partir de datos.
+  bloom: Analizar
+  evaluacion_formativa: Análisis de caso en parejas
+- semana: 8
+  oa:
+  - OA5
+  tema: Población humana
+  actividades: 'Datos de crecimiento de la población humana mundial y chilena (INE). Pirámides poblacionales.
+    Debate: ¿hay una capacidad de carga para los humanos?'
+  objetivos_especificos: Predecir consecuencias del crecimiento de poblaciones, incluida la humana, sobre
+    el ecosistema.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Debate con pauta de argumentación
+- semana: 9
+  oa:
+  - OA4
+  - OA5
+  tema: Cierre y evaluación de unidad
+  actividades: 'Infografía ''Un ecosistema chileno en riesgo'': interacciones clave y factor que afecta
+    a una población. Evaluación escrita del OA5.'
+  objetivos_especificos: Evaluar e integrar interacciones y dinámica poblacional en un ecosistema chileno.
+  bloom: Evaluar / Crear
+  evaluacion_formativa: Evaluación sumativa N°2 (OA5) + rúbrica de infografía
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa de comprender la organización de los ecosistemas a analizar interacciones
+    y datos poblacionales, terminando con la predicción y evaluación de consecuencias sobre ecosistemas
+    chilenos.

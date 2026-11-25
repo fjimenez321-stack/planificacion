@@ -1,0 +1,109 @@
+# Segundo Medio · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD III: Genética'
+  profesor: Felipe Jiménez
+  curso: Segundo Medio
+  asignatura: Biología
+  mes: Agosto a noviembre
+proposito: Investigar y argumentar, basándose en evidencias, cómo se transmite el material genético mediante
+  la mitosis y la meiosis, y explicar los procesos de herencia aplicando los principios de Mendel.
+objetivos:
+- oa: OA6
+  texto: 'Investigar y argumentar, basándose en evidencias, que el material genético se transmite de generación
+    en generación en organismos como plantas y animales, considerando: • La comparación de la mitosis
+    y la meiosis. • Las causas y consecuencias de anomalías y pérdida de control de la división celular
+    (tumor, cáncer, trisomía, entre otros).'
+- oa: OA7
+  texto: Desarrollar una explicación científica, basada en evidencias, sobre los procesos de herencia
+    genética en plantas y animales, aplicando los principios básicos de la herencia propuestos por Mendel.
+duracion: 10 semanas (20 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA6
+  tema: Material genético
+  actividades: KPSI. Extracción de ADN de frutilla o plátano. Relación entre ADN, gen y cromosoma.
+  objetivos_especificos: Describir el material genético y su organización.
+  bloom: Recordar / Comprender
+  evaluacion_formativa: Ficha de laboratorio
+- semana: 2
+  oa:
+  - OA6
+  tema: Historia del ADN
+  actividades: Lectura 'La historia secreta de la doble hélice' (Franklin, Watson y Crick); experimento
+    de Griffith analizado paso a paso.
+  objetivos_especificos: Argumentar con evidencias históricas que el ADN es el material hereditario.
+  bloom: Analizar
+  evaluacion_formativa: Guía de análisis
+- semana: 3
+  oa:
+  - OA6
+  tema: Ciclo celular y mitosis
+  actividades: Modelo de mitosis con lana o limpiapipas; observación de raíz de cebolla (o imágenes).
+  objetivos_especificos: Describir el ciclo celular y las etapas de la mitosis.
+  bloom: Comprender
+  evaluacion_formativa: Modelo rotulado
+- semana: 4
+  oa:
+  - OA6
+  tema: Meiosis y variabilidad
+  actividades: Modelo de meiosis y entrecruzamiento; comparación de mitosis y meiosis.
+  objetivos_especificos: Comparar la mitosis y la meiosis y su relación con la diversidad genética.
+  bloom: Analizar
+  evaluacion_formativa: Cuadro comparativo
+- semana: 5
+  oa:
+  - OA6
+  tema: Anomalías y cáncer
+  actividades: Síndrome de Down (cariotipo), tumores y cáncer; relación con el tabaco.
+  objetivos_especificos: Argumentar la importancia del control de la división celular.
+  bloom: Analizar / Evaluar
+  evaluacion_formativa: Análisis de cariotipo
+- semana: 6
+  oa:
+  - OA6
+  - OA7
+  tema: Evaluación OA6 y Mendel
+  actividades: Evaluación escrita del OA6. Experimentos de Mendel con arvejas.
+  objetivos_especificos: Evaluar el OA6 y describir los experimentos de Mendel.
+  bloom: Evaluar / Comprender
+  evaluacion_formativa: Evaluación sumativa N°1 (OA6)
+- semana: 7
+  oa:
+  - OA7
+  tema: Monohibridismo
+  actividades: Cuadros de Punnett con monedas; genotipo y fenotipo; dominancia.
+  objetivos_especificos: Aplicar la primera ley de Mendel.
+  bloom: Aplicar
+  evaluacion_formativa: Ejercicios diferenciados
+- semana: 8
+  oa:
+  - OA7
+  tema: Dihibridismo y grupos sanguíneos
+  actividades: Cruzamientos dihíbridos; grupos sanguíneos ABO y codominancia.
+  objetivos_especificos: Resolver problemas de dihibridismo y herencia de grupos sanguíneos.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Ejercicios resueltos
+- semana: 9
+  oa:
+  - OA7
+  tema: Genealogías y enfermedades hereditarias
+  actividades: Análisis de genealogías; enfermedades ligadas al sexo (daltonismo, hemofilia).
+  objetivos_especificos: Analizar genealogías para explicar la transmisión de rasgos.
+  bloom: Analizar
+  evaluacion_formativa: Genealogía resuelta
+- semana: 10
+  oa:
+  - OA7
+  tema: Cierre de unidad
+  actividades: Evaluación escrita del OA7 con problemas de herencia.
+  objetivos_especificos: Evaluar la aplicación de los principios de Mendel.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°2 (OA7)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad progresa en dos ciclos, desde describir el material genético y la división celular
+    hasta aplicar y evaluar los principios de la herencia.

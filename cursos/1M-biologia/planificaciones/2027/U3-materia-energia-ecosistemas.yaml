@@ -1,0 +1,118 @@
+# Primero Medio · Biología · 2027 — generado desde el borrador anual; editar aquí.
+estado: borrador
+version: 1
+anio: 2027
+encabezado:
+  unidad: 'UNIDAD III: Materia y energía en ecosistemas'
+  profesor: Felipe Jiménez
+  curso: Primero Medio
+  asignatura: Biología
+  mes: Agosto a noviembre
+proposito: Desarrollar modelos que expliquen los ciclos de la materia y los flujos de energía en los ecosistemas,
+  e investigar el rol de la fotosíntesis y la respiración celular en ellos.
+objetivos:
+- oa: OA6
+  texto: 'Desarrollar modelos que expliquen: • El ciclo del carbono, el nitrógeno, el agua y el fósforo,
+    y su importancia biológica. • Los flujos de energía en un ecosistema (redes y pirámides tróficas).
+    • La trayectoria de contaminantes y su bioacumulación.'
+- oa: OA7
+  texto: 'Explicar, por medio de una investigación, el rol de la fotosíntesis y la respiración celular
+    en el ecosistema considerando: • El flujo de la energía. • El ciclo de la materia.'
+duracion: 10 semanas (20 horas pedagógicas)
+semanas:
+- semana: 1
+  oa:
+  - OA6
+  tema: 'Flujo de energía: cadenas y tramas'
+  actividades: Construcción de tramas tróficas de la Antártica (fitoplancton, krill, pingüino, skúa) con
+    tarjetas. Niveles tróficos y roles.
+  objetivos_especificos: Representar el flujo de energía en cadenas y tramas tróficas.
+  bloom: Comprender
+  evaluacion_formativa: Trama trófica construida en equipo
+- semana: 2
+  oa:
+  - OA6
+  tema: Pirámides y regla del 10 %
+  actividades: Cálculo de energía disponible por nivel trófico. Pirámides de energía, biomasa y número.
+    ¿Por qué hay pocos depredadores tope?
+  objetivos_especificos: Aplicar la regla del 10 % para explicar la forma de las pirámides ecológicas.
+  bloom: Aplicar
+  evaluacion_formativa: Ejercicios de pirámides
+- semana: 3
+  oa:
+  - OA6
+  tema: Bioacumulación
+  actividades: Análisis de datos de concentración de contaminantes (DDT o mercurio) por nivel trófico.
+    Relación con la marea roja y el consumo de mariscos en Chile.
+  objetivos_especificos: Analizar la bioacumulación a través de los niveles tróficos.
+  bloom: Analizar
+  evaluacion_formativa: Guía de análisis de datos
+- semana: 4
+  oa:
+  - OA6
+  tema: Ciclos del agua y del carbono
+  actividades: Modelos esquemáticos del ciclo del agua y del carbono; rol de los seres vivos y de la actividad
+    humana (combustión).
+  objetivos_especificos: Explicar con modelos los ciclos del agua y del carbono.
+  bloom: Comprender
+  evaluacion_formativa: Esquema rotulado de ciclos
+- semana: 5
+  oa:
+  - OA6
+  tema: Ciclos del nitrógeno y del fósforo
+  actividades: Modelo del ciclo del nitrógeno (bacterias, leguminosas). Ciclo del fósforo y eutrofización
+    de lagos chilenos. Cierre con modelo integrado de ciclos.
+  objetivos_especificos: Explicar los ciclos del nitrógeno y del fósforo y su importancia biológica.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: 'Ticket de salida: ruta de un átomo de N'
+- semana: 6
+  oa:
+  - OA6
+  - OA7
+  tema: Evaluación OA6 y fotosíntesis
+  actividades: 'Evaluación escrita del OA6. Introducción a la fotosíntesis: reactantes, productos y cloroplastos.'
+  objetivos_especificos: Evaluar modelos de ciclos y flujos e identificar los componentes de la fotosíntesis.
+  bloom: Evaluar / Comprender
+  evaluacion_formativa: Evaluación sumativa N°1 (OA6)
+- semana: 7
+  oa:
+  - OA7
+  tema: 'Fotosíntesis: investigación experimental'
+  actividades: Experimento con Elodea o espinaca (discos de hoja flotantes) variando la intensidad de
+    luz; registro y gráfico.
+  objetivos_especificos: Investigar el efecto de la luz sobre la tasa de fotosíntesis.
+  bloom: Aplicar / Analizar
+  evaluacion_formativa: Informe de laboratorio
+- semana: 8
+  oa:
+  - OA7
+  tema: Respiración celular
+  actividades: Experimento con levaduras y azúcar (globo en botella) o indicador azul de bromotimol con
+    la respiración propia. Mitocondrias y ATP.
+  objetivos_especificos: Explicar la respiración celular y relacionarla con la obtención de energía.
+  bloom: Comprender / Aplicar
+  evaluacion_formativa: Ficha de laboratorio
+- semana: 9
+  oa:
+  - OA7
+  tema: Fotosíntesis y respiración en el ecosistema
+  actividades: Modelo comparativo de ambos procesos (actividad del programa). Análisis de gases en invernadero
+    o terrario cerrado. Relación con el ciclo del carbono.
+  objetivos_especificos: Analizar la complementariedad entre fotosíntesis y respiración celular en el
+    ecosistema.
+  bloom: Analizar
+  evaluacion_formativa: Cuadro comparativo + preguntas de análisis
+- semana: 10
+  oa:
+  - OA6
+  - OA7
+  tema: Evaluación de unidad
+  actividades: Evaluación escrita del OA7 con situaciones experimentales. Retroalimentación grupal de
+    errores frecuentes.
+  objetivos_especificos: Evaluar la comprensión del rol de la fotosíntesis y la respiración en los ecosistemas.
+  bloom: Evaluar
+  evaluacion_formativa: Evaluación sumativa N°2 (OA7)
+nota:
+  titulo: Nota sobre la gradación de Bloom
+  texto: la unidad avanza desde comprender modelos de flujos y ciclos, a aplicarlos y analizar procesos
+    (bioacumulación, fotosíntesis, respiración), hasta investigar experimentalmente y evaluar sus relaciones.
