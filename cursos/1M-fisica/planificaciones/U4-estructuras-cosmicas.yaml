@@ -1,0 +1,109 @@
+# Unidad 4 comprimida: 3 semanas × 2 h = 6 h (el programa propone 18 h).
+# Contexto (2026-11-24): parte del OA14 ya trabajada; cierre de notas próximo.
+# Actividades adaptadas de "Sugerencias de actividades" del programa (act. 3, 5, 6 OA14/15; 2 y 4 OA16).
+estado: borrador
+version: 1
+
+encabezado:
+  unidad: "UNIDAD IV: Estructuras cósmicas"
+  profesor: Felipe Jiménez
+  curso: Primero Medio
+  asignatura: Física
+  mes: Noviembre y diciembre
+
+proposito: >
+  Explicar, mediante modelos, los fenómenos astronómicos del sistema solar y
+  describir y comparar las principales estructuras cósmicas, valorando el aporte
+  de Chile y de las científicas y científicos chilenos a la investigación
+  astronómica, a través de la modelación, la investigación colaborativa y la
+  comunicación de resultados.
+
+objetivos:
+  - oa: OA14
+    texto: >
+      Crear modelos que expliquen los fenómenos astronómicos del sistema solar
+      relacionados con: los movimientos del sistema Tierra-luna y los fenómenos
+      de luz y sombra, como las fases lunares y los eclipses; los movimientos de
+      la Tierra respecto del sol y sus consecuencias, como las estaciones
+      climáticas; la comparación de los distintos planetas con la Tierra en
+      cuanto a su distancia al sol, su tamaño, su período orbital, su atmósfera
+      y otros.
+  - oa: OA15
+    texto: >
+      Describir y comparar diversas estructuras cósmicas, como meteoros,
+      asteroides, cometas, satélites, planetas, estrellas, nebulosas, galaxias y
+      cúmulo de galaxias, considerando: sus tamaños y formas; sus posiciones en
+      el espacio; temperatura, masa, color y magnitud, entre otros.
+  - oa: OA16
+    texto: >
+      Investigar y explicar sobre la investigación astronómica en Chile y el
+      resto del mundo considerando aspectos como: el clima y las ventajas que
+      ofrece nuestro país para la observación astronómica; la tecnología
+      utilizada (telescopios, radiotelescopios y otros instrumentos
+      astronómicos); la información que proporciona la luz y otras radiaciones
+      emitidas por los astros; los aportes de científicas chilenas y científicos
+      chilenos.
+
+duracion: Tres semanas (6 horas pedagógicas)
+
+semanas:
+  - semana: 1
+    oa: [OA14, OA15]
+    tema: Modelos del sistema Sol-Tierra-Luna y el sistema solar a escala
+    actividades: >
+      Inicio: KPSI rápido sobre fases, eclipses y estaciones para retomar lo ya
+      visto del OA14. Modelo con linterna, pelota y globo para explicar fases
+      lunares, eclipses y estaciones (¿por qué no hay eclipses todos los
+      meses?). Sistema solar a escala en el patio (Sol de 50 cm) con tabla
+      comparativa de los planetas respecto de la Tierra (distancia, tamaño,
+      período orbital, atmósfera) y de sus satélites respecto de la Luna.
+    objetivos_especificos: >
+      Explicar las fases lunares, los eclipses y las estaciones con modelos de
+      los sistemas Tierra-Luna y Tierra-Sol, y comparar los planetas y sus
+      satélites con la Tierra y la Luna.
+    bloom: Comprender / Aplicar
+    evaluacion_formativa: KPSI inicial + ticket de salida (identificar fase o eclipse a partir de un dibujo de posiciones)
+
+  - semana: 2
+    oa: [OA15, OA16]
+    tema: Estructuras cósmicas y astronomía en Chile (rompecabezas)
+    actividades: >
+      Rompecabezas (jigsaw) en 6 equipos expertos, con fuentes entregadas por el
+      docente: (1) meteoros, asteroides y cometas; (2) estrellas: color,
+      temperatura y clasificación espectral; (3) nebulosas, galaxias y cúmulos;
+      (4) exoplanetas y zona de habitabilidad estelar; (5) cielos del norte de
+      Chile y observatorios (ALMA, Paranal, Rubin); (6) astrónomas y astrónomos
+      chilenos y astronomía mapuche. Los equipos se reorganizan y cada experto
+      enseña su tema; se inicia la infografía final.
+    objetivos_especificos: >
+      Describir y comparar estructuras cósmicas según su tamaño, posición,
+      temperatura y color, y explicar las ventajas de Chile para la
+      observación astronómica y los aportes de la astronomía chilena.
+    bloom: Analizar
+    evaluacion_formativa: Guía de rompecabezas con tabla comparativa de estructuras cósmicas + retroalimentación al borrador de infografía
+
+  - semana: 3
+    oa: [OA14, OA15, OA16]
+    tema: Cierre de unidad, infografía y evaluación sumativa
+    actividades: >
+      Presentación breve (galería) de infografías por equipo: "Chile, ventana
+      al universo" o "Un objeto del cosmos", que integran una estructura
+      cósmica, cómo se observa y el aporte de Chile. Evaluación escrita corta:
+      interpretar dibujos de posiciones (fases y eclipses), ordenar y comparar
+      estructuras cósmicas y justificar por qué el norte de Chile concentra
+      observatorios.
+    objetivos_especificos: >
+      Evaluar la comprensión de los fenómenos del sistema solar y de las
+      estructuras cósmicas, y crear un producto que comunique la investigación
+      astronómica en Chile.
+    bloom: Evaluar / Crear
+    evaluacion_formativa: Evaluación sumativa (OA14, OA15, OA16) = prueba breve + infografía con rúbrica
+
+nota:
+  titulo: Nota sobre la gradación de Bloom y el tiempo
+  texto: >
+    la unidad comprime en seis horas lo que el programa propone para dieciocho,
+    por lo que prioriza los indicadores centrales de cada OA. La progresión va
+    de comprender y aplicar modelos (OA14, semana 1) a analizar y comparar
+    estructuras cósmicas y la astronomía en Chile (OA15 y OA16, semana 2),
+    para cerrar evaluando y creando un producto integrador (semana 3).
